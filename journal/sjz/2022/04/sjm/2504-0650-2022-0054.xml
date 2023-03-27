@@ -1,0 +1,50 @@
+<source schemaVersion="2.1">
+	<publicationInfo>
+		<documentTitle>2504-0650-2022-0054.xml</documentTitle>
+		<accessCode accesstype="offen" />
+		<articleId>2504-0650-2022-0054</articleId>
+		<language langtype="de" />
+		<publisher publisherid="sjm">Schulthess Juristische Medien AG</publisher>
+		<eIssn>2504-0650</eIssn>
+		<issn>0036-7613</issn>
+		<journalAbbreviation>SJZ-RSJ</journalAbbreviation>
+		<journalName>Schweizerische Juristen-Zeitung/Revue Suisse de Jurisprudence</journalName>
+		<journalCode journalid="sjz" />
+		<issueInfo>
+			<year>2022</year>
+			<volume>118</volume>
+			<issueNumber>4</issueNumber>
+			<publicationDate>2022-03-01</publicationDate>
+		</issueInfo>
+	</publicationInfo>
+	<singleDocuments>
+		<singleDocument type="NewsAsset">
+			<documentInfo>
+				<title>Vernehmlassung zur Teilrevision des KG eröffnet: Änderungen zur Verbesserung der Wirksamkeit</title>
+				<firstPage>157</firstPage>
+				<lastPage>157</lastPage>
+				<jurisdictionals>
+					<jurisdictional name="Wettbewerbsrecht">40-30</jurisdictional>
+				</jurisdictionals>
+				<categories>
+					<category name="Aktuelle Meldungen">sjz-007-02</category>
+				</categories>
+				<keywords>
+					<title>Schlagworte</title>
+					<keyword>Teilrevision des Kartellgesetzes</keyword>
+				</keywords>
+				<targetGroup targettype="praxis" />
+				<focus focustype="sp" />
+				<licence licencetype="Schulthess Juristische Medien AG" />
+				<price>(PayPerDoc)</price>
+			</documentInfo>
+			<document>
+				<text>
+					<title level="1" type="document">Vernehmlassung zur Teilrevision des KG eröffnet: Änderungen zur Verbesserung der Wirksamkeit</title>
+					<p align="justify">Der Bundesrat eröffnete am 24. November 2021 die Vernehmlassung zur Teilrevision des Kartellgesetzes (KG). Ziel und Kernelement der Gesetzesänderung ist die Modernisierung der schweizerischen Fusionskontrolle. Mit der Teilrevision soll der <i>Significant Impediment to Effective Competition-</i>Test (SIEC-Test) in das KG aufgenommen werden. Ziel der Einführung ist eine Anpassung des Prüfstandards der Wettbewerbskommission (WEKO) an die internationale Praxis. Der neue Prüfstandard soll zudem zu einer Absenkung der Eingriffshürde der WEKO führen. So können Fusionen untersagt oder mit geeigneten Auflagen versehen werden, sollten diese zu einer erheblichen Behinderung des Wettbewerbs führen. Dabei wird den Auswirkungen auf den Wettbewerb unterhalb der Marktbeherrschungsschwelle besondere Relevanz beigemessen, namentlich im Zusammenhang mit der Zunahme an digitalisierten Märkten.</p>
+				</text>
+				<footnotes />
+			</document>
+		</singleDocument>
+	</singleDocuments>
+</source>

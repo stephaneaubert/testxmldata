@@ -1,0 +1,248 @@
+<source schemaVersion="2.1">
+	<publicationInfo>
+		<documentTitle>2504-0650-2022-0069.xml</documentTitle>
+		<accessCode accesstype="abo" />
+		<articleId>2504-0650-2022-0069</articleId>
+		<language langtype="de" />
+		<publisher publisherid="sjm">Schulthess Juristische Medien AG</publisher>
+		<eIssn>2504-0650</eIssn>
+		<issn>0036-7613</issn>
+		<journalAbbreviation>SJZ-RSJ</journalAbbreviation>
+		<journalName>Schweizerische Juristen-Zeitung/Revue Suisse de Jurisprudence</journalName>
+		<journalCode journalid="sjz" />
+		<issueInfo>
+			<year>2022</year>
+			<volume>118</volume>
+			<issueNumber>4</issueNumber>
+			<publicationDate>2022-03-01</publicationDate>
+		</issueInfo>
+	</publicationInfo>
+	<singleDocuments>
+		<singleDocument type="EssayAsset">
+			<documentInfo>
+				<title>Kryptowährungen in der Nachlassplanung und -abwicklung</title>
+				<authors>
+					<author>
+						<person id="KT04892" />
+						<honorific>lic. iur.</honorific>
+						<firstName>Alexandra</firstName>
+						<lastName>Geiger</lastName>
+					</author>
+					<author>
+						<person id="KT05768" />
+						<firstName>Stefan</firstName>
+						<lastName>Keller</lastName>
+						<honorificSuffix>MLaw</honorificSuffix>
+					</author>
+				</authors>
+				<firstPage>203</firstPage>
+				<lastPage>209</lastPage>
+				<commentedArticles>
+					<commentedArticle link="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a527">Art. 527 ZGB</commentedArticle>
+					<commentedArticle link="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a617">Art. 617 ZGB</commentedArticle>
+				</commentedArticles>
+				<jurisdictionals>
+					<jurisdictional name="Erbrecht">10-20</jurisdictional>
+				</jurisdictionals>
+				<categories>
+					<category name="Berufspraxis">sjz-011</category>
+				</categories>
+				<keywords>
+					<title>Schlagworte</title>
+					<keyword>Nachlassplanung</keyword>
+					<keyword>Nachlassabwicklung</keyword>
+					<keyword>Kryptowährungen</keyword>
+				</keywords>
+				<targetGroup targettype="praxis" />
+				<focus focustype="sp" />
+				<licence licencetype="Schulthess Juristische Medien AG" />
+				<price>(PayPerDoc)</price>
+			</documentInfo>
+			<document>
+				<text>
+					<p><anchor type="page" value="203" /></p>
+					<title level="1" type="document">Kryptowährungen in der Nachlassplanung und -abwicklung</title>
+					<p align="justify" authorId="KT04892" slxclass="author"><honorificPrefix>lic. iur.</honorificPrefix> <givenName>Alexandra</givenName> <familyName>Geiger</familyName>, <jobTitle>Rechtsanwältin</jobTitle>, Fachanwältin SAV Erbrecht, Partnerin, Zürich<footnotecall number="*" fnid="fn1" /></p>
+					<p align="justify" authorId="KT05768" slxclass="author"><givenName>Stefan</givenName> <familyName>Keller</familyName>, <honorificSuffix>MLaw</honorificSuffix>, <jobTitle>Rechtsanwalt</jobTitle>, Senior Legal Associate, Zürich<footnotecall number="**" fnid="fn2" /></p>
+					<zone type="abstract">
+						<p align="justify" lang="de">Die Digitalisierung wirkt sich auch auf das Erbrecht aus. Während früher Bankvermögen, Wertschriften und Immobilien hinterlassen wurden, befinden sich heute auch Kryptowährungen wie z.B. Bitcoin oder Ethereum im Nachlass. Für den Erbrechtspraktiker stellen sich dadurch verschiedene neue Praxisfragen: Wie kann der Erblasser den Zugang seiner Erben zu den Kryptowährungen sicherstellen? Haben die Erben eine passivlegitimierte Person, gegen welche sie ihren Informations- und Herabsetzungsanspruch aufgrund unentgeltlicher lebzeitiger Zuwendungen des Erblassers richten können? Welcher Verkehrswert der Kryptowährungen ist für die Pflichtteilsberechnungsmasse massgebend?</p>
+						<p align="justify" lang="fr">La numérisation a également des répercussions sur le droit successoral. Alors qu’auparavant le <i>de cujus</i> laissait à ses héritiers du patrimoine détenus par les banques, des papiers-valeurs et des biens immobiliers, on trouve aujourd’hui aussi des cryptomonnaies, comme le Bitcoin ou l’Ethereum, dans la succession. Pour le praticien du droit successoral, cela soulève diverses nouvelles questions en pratique: Comment le testateur peut-il garantir à ses héritiers l’accès aux cryptomonnaies? Les héritiers ont-ils une personne, ayant la légitimation passive, contre laquelle ils peuvent faire valoir leur droit à l’information ou à la réduction justifiée par des donations du défunt faites entre vifs? Quelle est la valeur vénale déterminante des cryptomonnaies pour la masse, qu’il faut prendre en compte pour le calcul des réserves héréditaires ? 	(P.P.)</p>
+					</zone>
+					<p align="justify">Im Fokus dieses Praxisbeitrages stehen drei ausgewählte rechtliche und praktische Fragestellungen im Zusammenhang mit der Behandlung von Kryptowährungen in der Nachlassplanung und -abwicklung.<footnotecall number="1" fnid="fn3" /></p>
+					<title level="1" type="text"><number>I.</number>Fragestellung bei der Nachlass­planung: Sicherstellung des Zugangs der Erben</title>
+					<title level="2" type="text"><number>A.</number>Ausgangssachverhalt</title>
+					<p align="justify">Emilie besitzt 20 Bitcoins und möchte im Rahmen ihrer Nachlassplanung wissen, was sie vorsehen muss, damit ihre Kryptowährungen im Falle ihres Ablebens nicht verloren gehen.</p>
+					<title level="2" type="text"><number>B.</number>Allgemeine Bemerkungen</title>
+					<p align="justify">Wie bei herkömmlichen Nachlassgegenständen haben die Erben auch bei Kryptowährungen ein essenzielles Interesse zu wissen, ob und in welcher Höhe der Erblasser Kryptowährungen besass und wie diese zugänglich sind. In diesem Sinne hat Emilie dafür zu sorgen, dass die Erben nach ihrem Ableben vom Bestehen der Kryptowährungen erfahren. Im Gegensatz zu bspw. einem Banktresor, der aufgebrochen werden kann, besteht die Schwierigkeit bei Kryptowährungen darin, dass die Kenntnis über deren Bestand allein nicht ausreicht, sondern die Erben zudem erfahren müssen, wie sie auf die Kryptowährungen zugreifen können. Es ist hier-<anchor type="page" value="204" />bei davon auszugehen, dass derjenige, der den <i>PIK</i> oder die <i>Seed Phrase</i> hat, faktisch über die Kryptowährungen verfügen kann. Bei der Planung ist somit sicherzustellen, dass die Zugangsinformationen auf sicherem Wege an die (richtigen) Erben gelangen, ohne dass unberechtigte Personen diese Informationen zu ihrem Vorteil missbrauchen und die Kryptowährungen auf ihre eigene oder eine fremde Adresse transferieren können. Für die Nachlassplanung ist in diesem Zusammenhang relevant, ob Emilie ihre Kryptowährungen in einem <i>Custodial</i> oder <i>Non-Custodial Wallet</i> hält bzw. hielt.</p>
+					<title level="2" type="text"><number>C.</number><i>Custodial Wallet</i> von Emilie</title>
+					<p align="justify">Wird das <i>Custodial Wallet</i> von einer Krypto-Bank verwaltet, hat allein der Finanzintermediär Zugang zu den Kryptowährungen von Emilie. Ähnlich wie bei einem Vertrag mit einer regulären Bank autorisiert Emilie lediglich die Transaktionen über die Kryptowährungen. Gleich wie bei einer herkömmlichen Bank entspricht das zugrunde liegende Vertragsverhältnis regelmässig einem Auftrag oder einem Vertrag mit stark auftragsrechtlichen Elementen.<footnotecall number="2" fnid="fn4" /> Es ist in solchen Fällen davon auszugehen, dass der Auftrag mit dem Tod von Emilie zwar endet (<a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a405"><?link  id="79c22057-f6f1-4202-9601-0d52f0ff67d1" type="law" art="405" law="OR"?>Art. 405 OR<?end_link ?></a><footnotecall number="3" fnid="fn5" />), die Erben aber qua Universalsukzession gemäss <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a560"><?link  id="7b123894-434c-43ce-b830-b5ff4ef5b680" type="law" art="560" law="ZGB"?>Art. 560 ZGB<?end_link ?></a><footnotecall number="4" fnid="fn6" /> in ihre Rechtsstellung nachrücken und folglich auch die vertraglichen Auskunfts- und Informationsrechte auf die Erben übergehen<footnotecall number="5" fnid="fn7" />.<footnotecall number="6" fnid="fn8" /></p>
+					<p align="justify">In diesem Sinne hat Emilie dafür besorgt zu sein, dass ihre Erben von der Vertragsbeziehung mit der Krypto-Bank Kenntnis nehmen können. Wie bei herkömmlichen Bankkonti dürfte sich diese Information – zumindest bei Binnensachverhalten – regelmässig aus der Steuererklärung ergeben, weil die Kryptowährungen als geldwertes Recht an einem Vermögenswert zum Reinvermögen des Schweizer Steuerpflichtigen nach <a href="https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/de#a13"><?link  id="c0cbcaee-44b3-4f7d-9f56-fe36521e913b" type="law" art="13" par="1" law="StHG"?>Art. 13 Abs. 1 StHG<?end_link ?></a><footnotecall number="7" fnid="fn9" /> zählen. Sie sind demzufolge zu deklarieren.</p>
+					<p align="justify">Betreffend die Sicherstellung des Zugangs hat Emilie keine Krypto-spezifischen Besonderheiten zu berücksichtigen. Die Erben können sich bei Fragen grundsätzlich an die Krypto-Bank wenden und ihre ererbten vertraglichen und erbrechtlichen Informationsansprüche gemäss <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a607"><?link  id="52886e83-543c-4ff9-80c5-9dddb23ecebb" type="law" art="607" par="3" law="ZGB"?>Art. 607 Abs. 3<?end_link ?></a> und <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a610"><?link  id="3c09ebd9-887b-40ba-b27a-e43bfa7f3f6e" type="law" art="610" par="2" law="ZGB"?>Art. 610 Abs. 2 ZGB<?end_link ?></a> der Bank gegenüber geltend machen<footnotecall number="8" fnid="fn10" />.</p>
+					<title level="2" type="text"><number>D.</number><i>Non-Custodial Wallet</i> von Emilie</title>
+					<p align="justify">Sollte Emilie das <i>Key Pair</i> und die Adresse hingegen in einem <i>Non-Custodial Wallet</i> aufbewahren, zu welchem allein sie Zugang hat, besteht erhöhter Planungsbedarf. Zwar dürften die Erben ebenso – zumindest wiederum bei einem nationalen Sachverhalt – aus der Steuererklärung von Emilie Kenntnis vom Bestehen der Kryptowährungen erlangen. Daraus ergibt sich jedoch noch nicht, wie sie auf die Kryptowährungen zugreifen können. Einerseits sind in der Praxis regelmässig die Zugangsdaten an sich unbekannt, anderseits wissen die Erben die vorhandenen Zugangsdaten nicht anzuwenden. Den Erben steht weder eine Krypto-Bank noch eine private Stelle oder öffentliche Behörde zur Verfügung, an die sie sich zwecks Beschaffung notwendiger Informationen wenden können. Das Risiko, dass die Kryptowährungen für immer verloren sind, ist deshalb sehr gross, zumal das im Wallet enthaltene <i>Key Pair</i> bei wiederholt falscher Eingabe des PIN bei einigen Wallets gelöscht wird.<footnotecall number="9" fnid="fn11" /></p>
+					<p align="justify">Emilie muss somit insbesondere den Zugang der Erben zum <i>Non-Custodial Wallet</i> (inkl. PIN bzw. Passwort) oder zur <i>Seed Phrase</i> sicherstellen. Dazu gibt es in der Praxis verschiedene Möglichkeiten. Emilie ist in erster Linie die Aufsetzung eines Krypto-Zugangsplans <i>(Crypto Access Plan)</i> zu empfehlen, der neben einer Auflistung der vorhandenen Kryptowährungen und den Wallets <i>(Crypto Assets Inventory)</i> auch den Aufbewahrungsort des Wallet-PIN bzw. -Passwort und der <i>Seed Phrase</i> enthält. Dabei ist die Nachlassplanung mit Hardware-Wallets in der Praxis aus technischen Gründen am einfachsten und sichersten, bestenfalls besitzt Emilie sogar nur ein Wal-<anchor type="page" value="205" />let. Weil der Besitz des Wallet mitsamt PIN oder allein der <i>PIK</i> oder die <i>Seed Phrase</i> wie erwähnt ausreicht, um auf die Kryptowährungen zuzugreifen, ist der Krypto-Zugangsplan getrennt vom Wallet und der <i>Seed Phrase</i> aufzubewahren. So können unberechtigte Zugriffe i.d.R. vermieden werden.</p>
+					<p align="justify">In der letztwilligen Verfügung selbst sollte Emilie lediglich den Aufbewahrungsort des Krypto-Zugangsplans, keinesfalls aber die Zugangsdaten wie <i>PIK</i> oder <i>Seed Phrase</i> nennen. Zu gross ist die Gefahr, dass sich ein versierter Erbe, der Willensvollstrecker, ein Vermächtnisnehmer oder gar auch eine Drittperson nach Eröffnung der letztwilligen Verfügung (<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a557"><?link  id="6dcc13ef-ed65-45df-a4ca-35ea2a1cbf4c" type="law" art="557" law="ZGB"?>Art. 557 ZGB<?end_link ?></a>) der Kryptowährungen bemächtigt und diese an eine eigene oder fremde Adresse transferiert, deren Nutzer für die Erben nicht identifizierbar ist. Weil kein Finanzintermediär vorhanden ist, können die Zugriffe auf das Wallet von den (Mit-)Erben weder kontrolliert noch rückgängig gemacht werden.</p>
+					<p align="justify">Um der Missbrauchsgefahr durch einen Unberechtigten entgegenzuwirken, hat Emilie verschiedene technische Möglichkeiten. Eine davon ist die Multisignatur <i>(Multisig),</i><footnotecall number="10" fnid="fn12" /> bei welcher es mehrere <i>PIK</i> braucht, um eine Transaktion zu signieren und auszuführen. Damit kann sie sicherstellen, dass nicht ein einzelnes Mitglied der Erbengemeinschaft auf die Kryptowährungen zugreifen kann, sondern nur alle Erben gemeinsam Zugriff haben. Ebenso kann das Einstimmigkeitsprinzip gemäss <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a602"><?link  id="ec6462e7-5c70-430a-9494-5a5b1888ea37" type="law" art="602" par="2" law="ZGB"?>Art. 602 Abs. 2 ZGB<?end_link ?></a> mit der Methode <i>Shamir’s Secret Sharing Scheme</i><footnotecall number="11" fnid="fn13" /> sichergestellt werden. Nach dieser Methode wird z.B. die <i>Seed Phrase</i> in mindestens drei Teilstücke zerschnitten, die dann bereits zu Lebzeiten an alle Erben oder an zwei Erben und den Willensvollstrecker verteilt werden. Die Erben müssen folglich alle gemeinsam (allenfalls unter Mitwirkung des Willensvollstreckers) handeln, um das Wallet mittels <i>Seed Phrase</i> wiederherzustellen und auf die Kryptowährungen zugreifen zu können.</p>
+					<p align="justify">Der Krypto-versierte Erbe verwirkt durch einen unberechtigten Zugriff auf die Kryptowährungen zwar sein Ausschlagungsrecht (<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a571"><?link  id="6373de25-16ed-4d5e-9186-199b57d18e43" type="law" art="571" par="2" law="ZGB"?>Art. 571 Abs. 2 ZGB<?end_link ?></a>) und hat die Erbschafts- oder Teilungsklage der übrigen Erben zu fürchten (<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a598"><?link  id="6cc4a4dd-5009-4030-9966-7e33bd9d8a1d" type="law" art="598" law="ZGB"?>Art. 598<?end_link ?></a> und <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a604"><?link  id="f8aada35-727b-4bdc-b4f2-59512d50e21b" type="law" art="604" law="ZGB"?>Art. 604 ZGB<?end_link ?></a>), das aber nur insoweit, als die Miterben denn überhaupt Kenntnis darüber erhalten, dass sich Kryptowährungen im Nachlass der Erblasserin befanden. Der Vermächtnisnehmer hingegen, der Kenntnis des <i>PIK</i> oder der <i>Seed Phrase</i> erlangt, hat direkt die faktische Verfügungsgewalt über die Kryptowährungen. Es dürfte somit nicht ihm obliegen, seinen obligatorischen Anspruch auf Ausrichtung des Vermächtnisses nötigenfalls mit der Vermächtnisklage nach <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a601"><?link  id="07eaf511-3040-47a0-ba53-182fb65f2b21" type="law" art="601" law="ZGB"?>Art. 601 ZGB<?end_link ?></a> gegenüber den beschwerten Erben geltend zu machen, sondern die Erben müssten bei einer allfälligen Pflichtteilsverletzung die Herabsetzung und Rückerstattung (eines Teils) der bereits auf die Adresse des Vermächtnisnehmers transferierten Kryptowährungen gestützt auf <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a486"><?highlight_link  id="028f1cbb-22d3-4562-a3b4-b2f0dea70f71" type="law" art="486" par="1" law="ZGB"?>Art. 486 Abs. 1<?end_highlight_link ?></a> i.V.m. <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a565"><?link  id="744242b5-ca42-46c0-8739-3bf335d0babb" type="law" art="565" law="ZGB"?>Art. 565 ZGB<?end_link ?></a> vom Vermächtnisnehmer verlangen.<footnotecall number="12" fnid="fn14" /></p>
+					<p align="justify">Letztlich ist Emilie immer zu empfehlen, einen Krypto-versierten Willensvollstrecker, allenfalls mit einem darauf beschränkten Mandat, einzusetzen, um die Erben im Zusammenhang mit den sich im Nachlass befindlichen Kryptowährungen und ihrem Zugang zu unterstützen.</p>
+					<title level="1" type="text"><number>II.</number>Fragestellungen bei der Nachlass­abwicklung: Herabsetzung unentgeltlicher lebzeitiger Zuwendungen und Verkehrswert der Kryptowährungen</title>
+					<title level="2" type="text"><number>A.</number>Sachverhaltsergänzung und -variante</title>
+					<p align="justify">In der Praxis kommt es vor, dass eine Erblasserin ihre Kryptowährungen zu Lebzeiten an die Adresse eines ihr bekannten Zuwendungsempfängers transferiert, ohne dafür eine Gegenleistung zu erhalten. Der Ausgangssachverhalt sei für die nachfolgenden Ausführungen wie folgt ergänzt:</p>
+					<p align="justify">Emilie ist verstorben. Die Erbengemeinschaft besteht aus ihrem Ehemann Eric und ihrem letztwillig auf den Pflichtteil gesetzten Sohn Sébastien. Kurz vor ihrem Ableben hat Emilie ihre 20 Bitcoins (mit Wert je ca. CHF 50 000<footnotecall number="13" fnid="fn15" />) an Eric verschenkt. Als Fallvariante schenkt Emilie ihre 20 Bitcoins kurz vor ihrem Tod ihrem Freund Frédéric. Die Blockchain-Adresse des jeweiligen Zuwendungsempfängers ist bekannt. Der Pflicht-<anchor type="page" value="206" />teil von Sébastien ist in beiden Fallvarianten verletzt und wird durch den reinen Nachlass nicht gedeckt.</p>
+					<title level="2" type="text"><number>B.</number>Allgemeine Bemerkungen</title>
+					<p align="justify">Bei beiden Fallvarianten liegt eine unentgeltliche lebzeitige Zuwendung von Emilie vor, die – sind die übrigen Voraussetzungen gegeben – gemäss <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a527"><?link  id="75a2cbdd-1639-4dab-9a60-7d7c12ad4521" type="law" art="527" law="ZGB"?>Art. 527 ZGB<?end_link ?></a> zu Gunsten des Sohnes und Pflichtteilserben Sébastien herabzusetzen wäre. Während Sébastien die jeweiligen Transaktionen auf dem Block-Explorer einsehen kann und ihm die Empfängeradresse an sich bekannt ist, stellt sich für ihn insbesondere bei der Fallvariante die Frage, wie er in Erfahrung bringen kann, wer die Person des Zuwendungsempfängers der Bitcoin und demzufolge die passivlegitimierte Person im Herabsetzungs- und Rückforderungsprozess ist.</p>
+					<title level="2" type="text"><number>C.</number>Passivlegitimation bei der Herabsetzung unentgeltlicher lebzeitiger Zuwendungen<footnotecall number="14" fnid="fn16" /></title>
+					<title level="3" type="text"><number>1.</number><i>Custodial Wallet</i> von Emilie</title>
+					<p align="justify">Besass Emilie ein <i>Custodial Wallet,</i> bestand zwischen ihr und der Krypto-Bank wie erwähnt ein regulärer Bankvertrag. Dem Pflichtteilserben Sébastien steht somit neben dem erbrechtlichen Informationsanspruch gemäss <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a607"><?link  id="20ae7767-ea7d-440d-b29b-9aaff7444e89" type="law" art="607" par="3" law="ZGB"?>Art. 607 Abs. 3<?end_link ?></a> und <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a610"><?link  id="0783252b-de95-49df-be3d-9adb40f389b3" type="law" art="610" par="2" law="ZGB"?>Art. 610 Abs. 2 ZGB<?end_link ?></a> auch ein ererbter vertraglicher Informationsanspruch gegenüber der Bank zu.</p>
+					<p align="justify">Sébastien kann bei beiden Fallvarianten zudem seinen erbrechtlichen Informationsanspruch gemäss <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a607"><?link  id="e9a49500-f3a0-47eb-8435-7e13e956d722" type="law" art="607" par="3" law="ZGB"?>Art. 607 Abs. 3<?end_link ?></a> und <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a610"><?link  id="f124c725-3e6f-41ec-8627-a3966d3ae847" type="law" art="610" par="2" law="ZGB"?>Art. 610 Abs. 2 ZGB<?end_link ?></a> geltend machen: Gegenüber Eric als Miterben und Zuwendungsempfänger, sowie gegenüber Frédéric als Dritten (in analoger Anwendung<footnotecall number="15" fnid="fn17" />). Während Eric seine von der Erblasserin Emilie erhaltene Schenkung nach der bundesgerichtlichen Rechtsprechung offenlegen muss, wird Sébastien bezüglich Frédéric erst (und nur) dann plausibel darlegen können, dass dieser Zuwendungsempfänger der lebzeitigen Zuwendung war,<footnotecall number="16" fnid="fn18" /> wenn er die – ihm zwar bekannte – Adresse, auf welche die Bitcoins von Emilie transferiert worden sind, Frédéric zuordnen kann. Er ist folglich zwingend auf die Informationen der Krypto-Bank angewiesen. Er muss ihr gegenüber seinen erbrechtlichen Informationsanspruch gemäss <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a607"><?link  id="df28f64f-2033-456d-986b-8317f0d48ca2" type="law" art="607" par="3" law="ZGB"?>Art. 607 Abs. 3<?end_link ?></a> und <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a610"><?link  id="1a36a5c6-9ff7-461b-b1a7-1f0057b9248c" type="law" art="610" par="2" law="ZGB"?>Art. 610 Abs. 2 ZGB<?end_link ?></a> in Analogie und seinen ererbten vertraglichen Informationsanspruch gemäss <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a400"><?link  id="dd96398b-1966-42e0-a833-76650a24fda6" type="law" art="400" law="OR"?>Art. 400 OR<?end_link ?></a> geltend machen.</p>
+					<p align="justify">Die Schweizer Krypto-Bank ist grundsätzlich zur Auskunft verpflichtet. Sie wird Sébastien jedoch keine Auskunft zu Namen von Zuwendungsempfängern für Transaktionen vor dem Jahr 2020 geben können. Erst am 21. Juni 2019 verabschiedete die internationale, zwischenstaatliche <i>Financial Action Task Force (FATF)</i> Empfehlungen zu den Finanzdienstleistungen im Blockchain-Bereich.<footnotecall number="17" fnid="fn19" /> Die Empfehlungen wurden am 28. Oktober 2021 teilweise erweitert und konkretisiert.<footnotecall number="18" fnid="fn20" /> Die wichtigste Empfehlung ist aber immer noch dieselbe: Bei Transfers von Kryptowährungen von und zu <i>Custodial Wallets</i> müssen wie bei einer herkömmlichen Banküberweisung Angaben zum Auftraggeber und zum Begünstigten übermittelt werden.<footnotecall number="19" fnid="fn21" /> Die Eidgenössische Finanzmarktaufsicht (FINMA) wendet diese sog. <i>Travel-Rule</i> auf Blockchain-Finanzdienstleistungen strikte an.<footnotecall number="20" fnid="fn22" /> Daraus folgt, dass von der FINMA beaufsichtigte Institute (derzeit u.a. <i>Sygnum AG</i> und <i>SEBA Crypto AG</i> sowie weitere <i>Virtual Asset Service Providers [VASPs],</i> die einer privatrechtlich organisieren Selbstregulierungsorganisation [SRO] angeschlossen sind) Kryptowährungen grundsätzlich nur an externe Wallets ihrer eigenen, bereits identifizierten Kunden schicken und auch nur von solchen Kryptowährungen entgegennehmen dürfen. Sie <anchor type="page" value="207" />dürfen auch keine Kryptowährungen von Kunden von anderen Instituten empfangen oder zu Kunden von anderen Instituten senden. Dies gilt so lange, als im entsprechenden Zahlungssystem keine Angaben zum Absender oder Empfänger verlässlich übermittelt werden können.<footnotecall number="21" fnid="fn23" /> Diese etablierte Schweizer Praxis ist eine der strengsten weltweit.<footnotecall number="22" fnid="fn24" /></p>
+					<p align="justify">Verwaltete somit ein von der FINMA beaufsichtigtes oder einer SRO angeschlossenes Institut die Kryptowährungen der Erblasserin und fand die Transaktion nach Inkrafttreten der <i>Travel-Rule</i> statt, wird das Institut wissen, welche Person die Empfängerin der Überweisung war. Es wird den um Auskunft ersuchenden Pflichtteils­erben Sébastien über die Ausführung der einzelnen erteilten Aufträge, mithin der Transaktionen an Frédéric (wie auch an Eric), informieren;<footnotecall number="23" fnid="fn25" /> dies gilt selbst dann, wenn der jeweilige Zuwendungsempfänger ein <i>Custodial Wallet</i> bei derselben Krypto-Bank besitzt.<footnotecall number="24" fnid="fn26" /></p>
+					<p align="justify">Unabhängig davon, welchen der beiden Informationsansprüche er geltend macht, hat Sébastien nach der bundesgerichtlichen Rechtsprechung stets darzulegen, dass die Informationen für die Durchsetzung seines Pflichtteils möglicherweise relevant sind. Sébastien wird wohl einen richterlichen Entscheid zu seinen Gunsten erstreiten müssen, damit die vorsichtig handelnde Bank Informationen zu lebzeitigen Transaktionen erteilen wird.<footnotecall number="25" fnid="fn27" /></p>
+					<p align="justify">Fand die Transaktion von Emilie an Frédéric (und auch an Eric) jedoch vor dem Jahr 2020 statt, wird Sébastien den Namen des Zuwendungsempfängers von der Krypto-Bank nicht erfahren und folglich nicht plausibel darlegen können, dass die Zuwendungsadresse Frédéric gehört.</p>
+					<p align="justify">Der einzige Lichtblick für Sébastien besteht darin, dass er über ein auf Cyberkriminalität und Ermittlungen spezialisiertes Unternehmen<footnotecall number="26" fnid="fn28" /> den Nutzer der Empfängeradresse identifizieren kann. Einer solchen Ermittlung wird jedoch nur dann Erfolg beschieden sein, wenn der Empfänger der lebzeitigen Zuwendung ein aktiver Blockchain-Nutzer mit vielen ihm zuzuordnenden Transaktionen ist, was eine Identifizierung der hinter der Adresse stehenden Person überhaupt erst ermöglicht. Je mehr solche potenzielle Transaktionen durch den betreffenden Nutzer bestehen und je mehr Vernetzungen mit dem Nutzer in Verbindung gebracht werden können, desto eher kann eine Identifikation erfolgen. Setzt der Empfänger seine Adresse und seinen <i>PIK</i> jedoch nur für den Empfang der Bitcoins vom Erblasser und zur Liquidation der Bitcoins ein – ohne Bestehen weiterer nachverfolgbarer «Spuren» auf der Blockchain –, ist es technisch derzeit noch nicht möglich, den betreffenden Nutzer zu identifizieren. Eine Nachverfolgung der Bitcoins wird unmöglich, sodass den Erben die passivlegitimierte Person im Herabsetzungsprozess unbekannt bleibt. Sébastien wird folglich seinen Herabsetzungsanspruch mangels Kenntnis der passivlegitimierten Person nicht geltend machen können.</p>
+					<p align="justify">Emilie hingegen ist vor diesem Hintergrund zum Zwecke einer einfacheren Nachlassabwicklung zu empfehlen, auch die bestehenden Vertragsbeziehungen zur Krypto-Bank bereits zu Lebzeiten hinsichtlich allfälliger Ergänzungen auf den Todesfall zu überprüfen. Insbesondere hat sie gegenüber der Bank zu erklären, ob sie bezüglich einzelner ihrer vermögensbezogenen lebzeitigen Anordnungen deren Geheimhaltung anordnet und die Bank den Erben dereinst keine Auskunft über lebzeitige Transaktionen erteilen darf.</p>
+					<title level="3" type="text"><number>2.</number><i>Non-Custodial Wallet</i> von Emilie</title>
+					<p align="justify">Mit ähnlichen Schwierigkeiten ist die Situation für den Pflichteilserben Sébastien verbunden, wenn Emilie ihre Bitcoins über ein <i>Non-Custodial Wallet</i> verwaltete. In diesem Fall gibt es keine Krypto-Bank, die um Informationen bezüglich der Zuwendungsempfänger ersucht werden kann. Es bleibt einzig der Weg über den erbrechtlichen Anspruch gemäss <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a607"><?link  id="90412a38-14a7-4803-a665-1a6f6210676c" type="law" art="607" par="3" law="ZGB"?>Art. 607 Abs. 3<?end_link ?></a> und <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a610"><?link  id="41eaa8a4-25c5-42d5-912d-94bf5eb4b603" type="law" art="610" par="2" law="ZGB"?>Art. 610 Abs. 2 ZGB<?end_link ?></a>, je gegenüber Eric und Frédéric (in Analogie).</p>
+					<p align="justify">Gegenüber Eric kann die erbrechtliche Informationspflicht bekanntlich zwangsweise mit Ungehorsamsstra-<anchor type="page" value="208" />fe nach <a href="https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#a292"><?link  id="30544b92-d520-4a7f-8617-0ee538465123" type="law" art="292" law="StGB"?>Art. 292 StGB<?end_link ?></a><footnotecall number="27" fnid="fn29" /> oder Ordnungsbusse durchgesetzt werden. Die zwangsweise Durchsetzung der Urkundenedition mittels Durchsuchung (<a href="https://www.fedlex.admin.ch/eli/cc/2010/262/de#a343"><?link  id="4876c847-bcca-421e-97bb-a317c49bee29" type="law" art="343" par="2" law="ZPO"?>Art. 343 Abs. 2 ZPO<?end_link ?></a><footnotecall number="28" fnid="fn30" />) kommt nur dann in Betracht, wenn der Aufenthalt der Zugangsdaten zu den erhaltenen Kryptowährungen bekannt ist oder vermutet werden kann,<footnotecall number="29" fnid="fn31" /> was praktisch nie der Fall sein dürfte. Im gleichen Sinne wird auch kein Schadenersatz aus der Auskunftspflichtsverletzung gemäss <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a41"><?link  id="ae004158-83b2-4a23-adf5-113d3d19b8cd" type="law" art="41" law="OR"?>Art. 41 ff. OR<?end_link ?></a><footnotecall number="30" fnid="fn32" /> oder – bei Ausgehen von einer vertraglichen oder vertragsähnlichen Haftung nach <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a97"><?link  id="ee6821dc-aa29-4743-b34f-3ce17f53a7d0" type="law" art="97" law="OR"?>Art. 97 ff. OR<?end_link ?></a><footnotecall number="31" fnid="fn33" /> – geltend gemacht werden können, weil sich der Schadenersatzanspruch mangels Informationen bezüglich des Zuwendungsempfängers sowie der Höhe und Art der Zuwendungen nicht beweisen lässt. Letztlich würde eine Auskunftsverweigerung nur (aber immerhin) bei der Beweiswürdigung zum Nachteil des Miterben berücksichtigt. Ob dies im Einzelfall zum Erfolg führt und das Gericht den Angaben des beweisbelasteten Erben glaubt,<footnotecall number="32" fnid="fn34" /> ist fraglich, zumal in den allermeisten Fällen der auskunftsverlangende Erbe – ohne anderweitige verlässliche Informationen – nicht wird glaubhaft machen können, dass die Empfängeradresse dem Zuwendungsempfänger gehört. Bei Absicht verbleibt nur noch der Weg über strafrechtliche Schritte (Betrug i.S.v. <a href="https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#a146"><?link  id="7259847d-9fff-41a7-9bcf-a4c14529f488" type="law" art="146" law="StGB"?>Art. 146 StGB<?end_link ?></a> oder falsche Beweisaussage gemäss <a href="https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#a306"><?link  id="eeda49f3-6348-4018-a6ad-4cb0e1210652" type="law" art="306" law="StGB"?>Art. 306 StGB<?end_link ?></a>).<footnotecall number="33" fnid="fn35" /></p>
+					<p align="justify">Gegenüber Frédéric als Zuwendungsempfänger besteht die praktische Schwierigkeit wiederum darin, dass ihm Sébastien – auch wenn er die Adresse des Wallets von Frédéric kennt – die Adresse nicht zuordnen kann. Es steht ihm kein Dritter zur Verfügung, den er um Informationen ersuchen kann, weil die übrigen Blockchain-Nutzer aufgrund der Pseudonymität der öffentlichen Blockchain nicht personalisierbar sind. Kann er Frédéric auch nicht mithilfe eines auf Cyberkriminalität und Ermittlungen spezialisierten Unternehmens identifzieren, hat er auch in diesem Fall keine passivlegitimierte Person im Prozess.</p>
+					<title level="2" type="text"><number>D.</number>Massgeblicher Verkehrswert der Krypto­währungen (Art. 617 ZGB)</title>
+					<p align="justify">Kryptowährungen sind wie alle übrigen Erbschaftssachen und -rechte im Rahmen der Pflichtteilsberechnung per Todestag (Todestagsprinzip [<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a474"><?link  id="2f9e15d2-f7ea-4f98-acdc-6af192ab110f" type="law" art="474" law="ZGB"?>Art. 474 ZGB<?end_link ?></a>]) und hinsichtlich der Teilung im Teilungszeitpunkt zu bewerten (Teilungstagsprinzip [<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a617"><?link  id="f16ec7cc-8223-4150-ba53-52bc6468fd3c" type="law" art="617" law="ZGB"?>Art. 617 ZGB<?end_link ?></a>]). Massgeblich ist der Verkehrswert, d.h. der Marktwert oder der Wert, der bei einer Veräusserung der betreffenden Erbschaftssache an einen unabhängigen Dritten als Erlös erzielt werden könnte.<footnotecall number="34" fnid="fn36" /> Bei Sachen mit einem Markt- oder Börsenpreis kann auf diesen Wert abgestellt werden.<footnotecall number="35" fnid="fn37" /></p>
+					<p align="justify">Kryptowährungen haben aufgrund des dezentralen Handels keinen Marktwert. Die Schweizer Steuerkonferenz (SSK) hat jedoch in einer nicht veröffentlichten Empfehlung vom 22. März 2016 festgehalten, dass Kryptowährungen wie ausländische Währungen zu behandeln sind. Die Eidgenössische Steuerverwaltung (ESTV) ermittelt seit dem 31. Dezember 2015 einen für die Vermögenssteuer massgebenden Wert, indem sie jeweils per Jahresende den Durchschnitt verschiedener Börsen, u.a. <i>Kraken</i><footnotecall number="36" fnid="fn38" /> und <i>Bitstamp</i><footnotecall number="37" fnid="fn39" />, errechnet.<footnotecall number="38" fnid="fn40" /> Um dem bekanntlich fragmentierten Handel und den teilweise beträchtlichen Tageskurs-Differenzen Rechnung zu tragen, wird jeweils der höchste und der tiefste Kurs eliminiert. Die Datenquellen sind aber nicht für alle Kryptowährungen identisch und sowohl die Auswahl als auch die jeweilige Anzahl der Börsen scheint zufällig. Dass in einigen Fällen der Kurs faktisch auf einer oder zwei zufällig ausgewählten Börsen beruht und die Tageskurs-Differenzen trotz Eliminierung des höchsten und tiefsten Kurses trotzdem enorm sein können, erscheint den Autoren für <anchor type="page" value="209" />die Ermittlung eines allgemein gültigen Marktwertes nicht sachgerecht.</p>
+					<p align="justify">In der Annahme, dass Gerichte in erbrechtlichen Streitigkeiten auf den von der ESTV ermittelten Kurswert abstellen würden, postulieren die Autoren bereits jetzt, dass die Bewertung entweder anhand der durchschnittlichen (Todes- bzw. Teilungs-)Tagespreise vorgenommen wird, wie sie an möglichst vielen der gängigsten Börsen erzielt wird,<footnotecall number="39" fnid="fn41" /> oder sich nach dem Tageskurs derjenigen Handelsplattform richten, über welche die Erblasserin üblicherweise ihre Transaktionen ausführte.<footnotecall number="40" fnid="fn42" /></p>
+					<title level="1" type="text"><number>III.</number>Schlussbemerkungen</title>
+					<p align="justify">Durch die zunehmende Digitalisierung ergeben sich neue Herausforderungen für den Erbrechtspraktiker, sei es in der Beratung des zukünftigen Erblassers oder der Erben. Der zukünftige Erblasser muss im Zusammenhang mit seinen im Nachlass befindlichen Kryptowährungen dafür besorgt sein, dass seine digitalen Vermögenswerte mit seinem Ableben nicht verloren gehen. Eine frühzeitige, umsichtige und auf die Art des Wallets abgestimmte Nachlassplanung und Sicherstellung des Zugangs der Erben zu den Kryptowährungen ist in jedem Fall erforderlich. Nur so kann gewährleistet werden, dass die Erben oder weitere Beteiligte nach dem Ableben des Erblassers nicht mit (u.U.) unüberwindbaren Problemen im Zusammenhang mit dem fehlenden Zugriff auf die Kryptowährungen oder der Geltendmachung von Auskunftsrechten zu kämpfen haben.</p>
+					<p align="justify">Wie sich hierbei das Problem der fehlenden passivlegitimierten Person im Herabsetzungsprozess im Zusammenhang mit unentgeltlichen lebzeitigen Zuwendungen von Kryptowährungen weiterentwickeln wird, wird sich zeigen. Die diesbezügliche Entwicklung wird insbesondere von den Schweizer und internationalen technischen und regulatorischen Veränderungen und dem Umstand, ob sich eine <i>Asset Protection</i> mangels des erschwerten Umtausches in Geld lohnt, abhängig sein.</p>
+					<p align="justify">Ebenso ist mit Spannung abzuwarten, wie der massgebliche Verkehrswert von Kryptowährungen bei den Pflichtteilsberechnungen oder bei der Erbteilung von den Gerichten bestimmt wird.</p>
+				</text>
+				<footnotes>
+					<fn number="*" id="fn1">
+						<p align="justify">lic. iur. Alexandra Geiger, Rechtsanwältin, Fachanwältin SAV Erbrecht, ist Partnerin bei MME | Legal | Tax | Compliance AG in Zürich.</p>
+					</fn>
+					<fn number="**" id="fn2">
+						<p align="justify">Stefan Keller, MLaw, Rechtsanwalt, ist Senior Legal Associate bei MME | Legal | Tax | Compliance AG in Zürich.</p>
+					</fn>
+					<fn number="1" id="fn3">
+						<p align="justify">Für die technischen Gegebenheiten von Kryptowährungen sowie deren rechtliche Qualifikation wird auf den Beitrag <i>Alexandra Geiger/Stefan Keller,</i> Kryptowährungen in der Nachlassplanung und -abwicklung, successio 2021 259 ff., 259 ff. Rz. 3 ff. und 262 ff. Rz. 14 ff., verwiesen.</p>
+					</fn>
+					<fn number="2" id="fn4">
+						<p align="justify"><i>Peter Breitschmid/Isabel Matt,</i> Informationsansprüche der Erben und ihre Durchsetzung, Insbesondere Informationsansprüche gegenüber Banken über ihre Geschäftsbeziehung mit dem Erblasser, successio 2010 85 ff., 91; <i>Hans Rainer Künzle,</i> Auskunftspflichten gegenüber Erben, successio 2012 256 ff., 256, m.w.H.</p>
+					</fn>
+					<fn number="3" id="fn5">
+						<p align="justify">Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht) (OR) vom 30. März 1911 (SR 220).</p>
+					</fn>
+					<fn number="4" id="fn6">
+						<p align="justify">Schweizerisches Zivilgesetzbuch (ZGB) vom 10. Dezember 1907 (SR 210).</p>
+					</fn>
+					<fn number="5" id="fn7">
+						<p align="justify">Vgl. dazu hinten unter II.C.1.</p>
+					</fn>
+					<fn number="6" id="fn8">
+						<p align="justify"><i>Breitschmid/Matt</i> (Fn. 2) 92; <i>Künzle</i> (Fn. 2) 256.</p>
+					</fn>
+					<fn number="7" id="fn9">
+						<p align="justify">Bundesgesetz über die Harmonisierung der direkten Steuern der Kantone und Gemeinden (Steuerharmonisierungsgesetz, StHG) vom 14. Dezember 1990 (SR 642.14).</p>
+					</fn>
+					<fn number="8" id="fn10">
+						<p align="justify">Vgl. dazu hinten unter II.C.1.</p>
+					</fn>
+					<fn number="9" id="fn11">
+						<p align="justify">Vgl. <i>Marc Steiner,</i> Bitcoins verwahren und vererben, Ein praktischer Ratgeber, Rheinfelden 2020, 57, dies ist aber nicht bei jeder Wallet Software der Fall.</p>
+					</fn>
+					<fn number="10" id="fn12">
+						<p align="justify">Derzeit wird diese Signatur erst von wenigen Kryptowährungen und Wallets unterstützt (vgl. <i>Steiner</i> [Fn. 9] 108 f.; vgl. auch <i>Bundesrat,</i> Bericht des Bundesrates vom 14. Dezember 2018, Rechtliche Grundlagen für <i>Distributed Ledger-</i>Technologie und Blockchain in der Schweiz, Eine Auslegeordnung mit Fokus auf dem Finanzsektor, 70.</p>
+					</fn>
+					<fn number="11" id="fn13">
+						<p align="justify"><i>Steiner</i> (Fn. 9) 110 ff.</p>
+					</fn>
+					<fn number="12" id="fn14">
+						<p align="justify"><i>Fabian Burkart,</i> in: Daniel Abt/Thomas Weibel (Hrsg.), Praxiskommentar Erbrecht, Nachlassplanung, Nachlassabwicklung, Willensvollstreckung, Prozessführung, 4. A., Basel 2019, Art. 486 ZGB N 8.</p>
+					</fn>
+					<fn number="13" id="fn15">
+						<p align="justify">Vgl. <i>CoinMarketCap,</i> Bitcoin (BTC), &lt;<a href="https://coinmarketcap.com/de/currencies/bitcoin/">https://coinmarketcap.com/de/currencies/bitcoin/</a>&gt; (zuletzt besucht am 5.1.2022).</p>
+					</fn>
+					<fn number="14" id="fn16">
+						<p align="justify">Für den aktuellen Stand der Rechtsprechung betreffend die Informationsansprüche der Erben wird auf den Beitrag <i>Geiger/Keller</i> (Fn. 1) 266 f. Rz. 37 ff. verwiesen.</p>
+					</fn>
+					<fn number="15" id="fn17">
+						<p align="justify">BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F132-III-677%3Ade&amp;lang=de&amp;type=show_document"><?link  id="aff80b8e-1ea6-4d69-bfe1-2c11862914f3" type="decision" reference="132 III 677" journal_reference="BGE"?>132 III 677<?end_link ?></a> E. 4.2.5; <i>Breitschmid/Matt</i> (Fn. 2) 84, <i>Andreas Schröder,</i> Informationspflichten im Erbrecht, Basel 2000, 153 f.</p>
+					</fn>
+					<fn number="16" id="fn18">
+						<p align="justify">Vgl. <i>Urs Bürgi,</i> in: Andrea Büchler/Dominique Jakob (Hrsg.), Kurzkommentar ZGB, Schweizerisches Zivilgesetzbuch, 2. A., Basel 2018, Art. 610 ZGB N 10; <i>Breitschmid/Matt</i> (Fn. 2) 91; <i>Andreas Schröder,</i> Erbrechtliche Informationsansprüche oder: die Geister, die ich rief …, successio 2011 189 ff., 190; <i>Thomas Weibel,</i> in: Daniel Abt/Thomas Weibel (Hrsg.), Praxiskommentar Erbrecht, Nachlassplanung, Nachlassabwicklung, Willensvollstreckung, Prozessführung, 4. A., Basel 2019, Vorbem. zu Art. 607 ff. ZGB N 30.</p>
+					</fn>
+					<fn number="17" id="fn19">
+						<p align="justify">Vgl. <i>FATF,</i> Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers, Paris 2019, &lt;<a href="http://www.fatf-gafi.org/publications/fatfrecommendations/documents/guidance-rba-virtual-assets.html">http://www.fatf-gafi.org/publications/fatfrecommendations/documents/guidance-rba-virtual-assets.html</a>&gt; (zuletzt besucht am 5.1.2022).</p>
+					</fn>
+					<fn number="18" id="fn20">
+						<p align="justify">Vgl. <i>FATF,</i> Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers, Paris 2021, &lt;<a href="https://www.fatf-gafi.org/publications/fatfrecommendations/documents/guidance-rba-virtual-assets-2021.html">https://www.fatf-gafi.org/publications/fatfrecommendations/documents/guidance-rba-virtual-assets-2021.html</a>&gt; (zuletzt besucht am 5.1.2022).</p>
+					</fn>
+					<fn number="19" id="fn21">
+						<p align="justify">Vgl. <i>FATF</i> (Fn. 18).</p>
+					</fn>
+					<fn number="20" id="fn22">
+						<p align="justify">Vgl. <i>FINMA,</i> FINMA-Aufsichtsmitteilung «Konsequente Geldwäschereibekämpfung im Blockchain-Bereich» vom 26. August 2019, &lt;<a href="https://www.finma.ch/de/news/2019/08/20190826-mm-kryptogwg/">https://www.finma.ch/de/news/2019/08/20190826-mm-kryptogwg/</a>&gt; (zuletzt besucht am 5.1.2022).</p>
+					</fn>
+					<fn number="21" id="fn23">
+						<p align="justify">Vgl. bspw. Art. 14 des VQF-Reglements betr. Selbstregulierungs­organisation nach Geldwäschereigesetz (<i>Verein zur Qualitäts­sicherung von Finanzdienstleistungen [VQF],</i> Reglement der Selbstregulierungs­organisation nach Geldwäschereigesetz [SRO-Reglement], VQF Verein zur Qualitätssicherung von Finanzdienstleistungen in Sachen Bekämpfung der Geldwäscherei und Terrorismusfinanzierung, Stand: 16. November 2020, &lt;<a href="https://www.vqf.ch/de/vqf-downloads">https://www.vqf.ch/de/vqf-downloads</a>&gt; [zuletzt besucht am 5.1.2022]).</p>
+					</fn>
+					<fn number="22" id="fn24">
+						<p align="justify"><i>FINMA</i> (Fn. 20).</p>
+					</fn>
+					<fn number="23" id="fn25">
+						<p align="justify"><i>Breitschmid/Matt</i> (Fn. 2) 98.</p>
+					</fn>
+					<fn number="24" id="fn26">
+						<p align="justify"><i>Breitschmid/Matt</i> (Fn. 2) 101; <i>Schröder</i> (Fn. 16) 195.</p>
+					</fn>
+					<fn number="25" id="fn27">
+						<p align="justify">Vgl. hierzu <i>Andrea Dorjee-Good/Daniela Dardel,</i> Neue (Un-)Klarheiten zur Auskunftspflicht der Banken gegenüber Erben, BGer <a href="http://relevancy.bger.ch/php/aza/http/index.php?lang=de&amp;type=highlight_simple_query&amp;page=1&amp;from_date=&amp;to_date=&amp;sort=relevance&amp;insertion_date=&amp;top_subcollection_aza=all&amp;query_words=4A_522%2F2018&amp;rank=1&amp;azaclir=aza&amp;highlight_docid=aza:%2F%2F18-07-2019-4A_522-2018&amp;number_of_ranks=3"><?highlight_link  reference_number="4A_522/2018" type="decision" id="c4960d1f-2490-4ada-9291-c57468b28050" url="http://relevancy.bger.ch/php/aza/http/index.php?lang=de&amp;type=highlight_simple_query&amp;page=1&amp;from_date=&amp;to_date=&amp;sort=relevance&amp;insertion_date=&amp;top_subcollection_aza=all&amp;query_words=4A_522%2F2018&amp;rank=1&amp;azaclir=aza&amp;highlight_docid=aza:%2F%2F18-07-2019-4A_522-2018&amp;number_of_ranks=3"?>4A_522/2018<?end_highlight_link ?></a>, successio 2020 170 ff., 181; <i>Célian Hirsch,</i> Le secret bancaire s’oppose-t-il à l’information des héritiers?, LawInside vom 19.10.2019, &lt;<a href="http://www.lawinside.ch/831/">http://www.lawinside.ch/831/</a>&gt; (zuletzt besucht am 5.1.2022).</p>
+					</fn>
+					<fn number="26" id="fn28">
+						<p align="justify">Wie z.B. das US-Unternehmen <i>Chainalysis Inc.</i></p>
+					</fn>
+					<fn number="27" id="fn29">
+						<p align="justify">Schweizerisches Strafgesetzbuch (StGB) vom 21. Dezember 1937 (SR 311.0).</p>
+					</fn>
+					<fn number="28" id="fn30">
+						<p align="justify">Schweizerische Zivilprozessordnung (Zivilprozessordnung, ZPO) vom 19. Dezember 2008 (SR 272).</p>
+					</fn>
+					<fn number="29" id="fn31">
+						<p align="justify"><i>Tarkan Göksu,</i> Informationsrechte der Erben, AJP 2012 953 ff., 962.</p>
+					</fn>
+					<fn number="30" id="fn32">
+						<p align="justify">PraxKomm Erbrecht-<i>Weibel</i> (Fn. 16) Vorbem. zu Art. 607 ff. ZGB N 36.</p>
+					</fn>
+					<fn number="31" id="fn33">
+						<p align="justify"><i>Stephan Wolf/Stephanie Hrubesch-Millauer,</i> Schweizerisches Erbrecht, 2. A., Bern 2020, Rz. 1708; <i>Stephan Wolf/Gian Sandro Genna,</i> Schweizerisches Privatrecht, Erbrecht, SPR IV/2, Basel 2015, 242.</p>
+					</fn>
+					<fn number="32" id="fn34">
+						<p align="justify"><i>Göksu</i> (Fn. 29) 962; <i>Stephan Wolf,</i> in: Heinz Hausheer/Hans Peter Walter (Hrsg.), Berner Kommentar zum schweizerischen Privatrecht, Zivilgesetzbuch, Die Teilung der Erbschaft, Art. 602–619 ZGB, Bern 2014, Art. 607 ZGB N 36.</p>
+					</fn>
+					<fn number="33" id="fn35">
+						<p align="justify">KUKO ZGB-<i>Bürgi</i> (Fn. 16) Art. 610 ZGB N 13; <i>Peter Carl Schaufelberger/Katrin Keller Lüscher,</i> in: Thomas Geiser/Stephan Wolf (Hrsg.), Basler Kommentar, Zivilgesetzbuch II, Art. 457–977 ZGB, Art. 1–61 SchIT ZGB, 6. A., Basel 2019, Art. 607 ZGB N 11b; PraxKomm Erbrecht-<i>Weibel</i> (Fn. 16) Vorbem. zu Art. 607 ff. ZGB N 37.</p>
+					</fn>
+					<fn number="34" id="fn36">
+						<p align="justify"><i>Arnold Escher/Arnold Escher Jun.,</i> Zürcher Kommentar zum Schweizerischen Zivilgesetzbuch, Bd. III/2: Erbrecht, Der Erbgang: Art. 537–640 ZGB, 3. A., Zürich 1960, Art. 617 ZGB N 5; BSK ZGB II-<i>Schaufelberger/Keller Lüscher</i> (Fn. 33) Art. 617 ZGB N 3; <i>Stephan Wolf/Martin Eggel,</i> in: Heinz Hausheer/Hans Peter Walter (Hrsg.), Berner Kommentar zum schweizerischen Privatrecht, Zivilgesetzbuch, Die Teilung der Erbschaft, Art. 602–619 ZGB, Bern 2014, Art. 617 ZGB N 19; BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F125-III-1%3Ade&amp;lang=de&amp;type=show_document"><?link  id="b97ed99c-1aa7-4959-adc6-8e204f604d67" type="decision" reference="125 III 1" journal_reference="BGE"?>125 III 1<?end_link ?></a> E. 5b.</p>
+					</fn>
+					<fn number="35" id="fn37">
+						<p align="justify">PraxKomm Erbrecht-<i>Weibel</i> (Fn. 16) Art. 617 ZGB N 12; BK ZGB-<i>Wolf/Eggel</i> (Fn. 34) Art. 617 ZGB N 19.</p>
+					</fn>
+					<fn number="36" id="fn38">
+						<p align="justify"><i>Kraken,</i> &lt;<a href="https://www.kraken.com/">https://www.kraken.com/</a>&gt; (zuletzt besucht am 5.1.2022).</p>
+					</fn>
+					<fn number="37" id="fn39">
+						<p align="justify"><i>Bitstamp,</i> &lt;<a href="https://www.bitstamp.net/">https://www.bitstamp.net/</a>&gt; (zuletzt besucht am 5.1.2022).</p>
+					</fn>
+					<fn number="38" id="fn40">
+						<p align="justify"><i>ESTV,</i> Kurslisten Direkte Bundessteuer 2022, &lt;<a href="https://www.ictax.admin.ch/extern/de.html#/ratelist/2020">https://www.ictax.admin.ch/extern/de.html#/ratelist/2020</a>&gt; (zuletzt besucht am 5.1.2022).</p>
+					</fn>
+					<fn number="39" id="fn41">
+						<p align="justify">Vgl. dazu z.B. <i>CoinMarketCap</i> (Fn. 13).</p>
+					</fn>
+					<fn number="40" id="fn42">
+						<p align="justify"><i>Thomas Linder/Stephan D. Meyer,</i> Die steuerliche Behandlung von Bitcoin und anderen Kryptowährungen, ZStP 2017 191 ff., 202.</p>
+					</fn>
+				</footnotes>
+			</document>
+		</singleDocument>
+	</singleDocuments>
+</source>

@@ -1,0 +1,74 @@
+<source schemaVersion="2.1">
+	<publicationInfo>
+		<documentTitle>2504-0650-2022-0067.xml</documentTitle>
+		<accessCode accesstype="abo" />
+		<articleId>2504-0650-2022-0067</articleId>
+		<language langtype="de" />
+		<publisher publisherid="sjm">Schulthess Juristische Medien AG</publisher>
+		<eIssn>2504-0650</eIssn>
+		<issn>0036-7613</issn>
+		<journalAbbreviation>SJZ-RSJ</journalAbbreviation>
+		<journalName>Schweizerische Juristen-Zeitung/Revue Suisse de Jurisprudence</journalName>
+		<journalCode journalid="sjz" />
+		<issueInfo>
+			<year>2022</year>
+			<volume>118</volume>
+			<issueNumber>4</issueNumber>
+			<publicationDate>2022-03-01</publicationDate>
+		</issueInfo>
+	</publicationInfo>
+	<singleDocuments>
+		<singleDocument type="LegislationAsset">
+			<documentInfo>
+				<title>Umsetzung des Verhüllungsverbots im StGB</title>
+				<authors>
+					<author>
+						<person id="KT05821" />
+						<firstName>Larissa</firstName>
+						<lastName>Rhyn</lastName>
+					</author>
+				</authors>
+				<firstPage>201</firstPage>
+				<lastPage>201</lastPage>
+				<jurisdictionals>
+					<jurisdictional name="Materielles Strafrecht">100-10</jurisdictional>
+				</jurisdictionals>
+				<categories>
+					<category name="Gesetzgebung">sjz-010</category>
+				</categories>
+				<keywords>
+					<title>Schlagworte</title>
+					<keyword>Verhüllungsverbot</keyword>
+					<keyword>Ausnahmen vom Verhüllungsverbot</keyword>
+					<keyword>räumlicher Anwendungsbereich</keyword>
+				</keywords>
+				<targetGroup targettype="praxis" />
+				<focus focustype="sp" />
+				<licence licencetype="Schulthess Juristische Medien AG" />
+				<price>(PayPerDoc)</price>
+			</documentInfo>
+			<document>
+				<text>
+					<p><anchor type="page" value="201" /></p>
+					<title level="1" type="document">Umsetzung des Verhüllungsverbots im StGB<footnotecall number="*" fnid="fn1" /></title>
+					<zone type="abstract">
+						<p align="justify" lang="de">Der Bundesrat schlägt vor, für die Umsetzung des Verhüllungsverbots das Strafgesetzbuch (StGB) zu ändern. Er plant u.a. zwei Ausnahmen für Demonstrationen, um einen Ausgleich zwischen dem Verhüllungsverbot und den verfassungsmässig garantierten Grundrechten zu schaffen.</p>
+						<p align="justify" lang="fr">Le Conseil fédéral propose de modifier le Code pénal (CP) pour la mise en œuvre de l’interdiction de se dissimuler le visage. Il prévoit notamment deux exceptions pour les manifestations afin de créer un équilibre entre l’interdiction de se dissimuler le visage et les droits fondamentaux garantis par la Constitution.</p>
+					</zone>
+					<p align="justify">Für die Umsetzung der Initiative «Ja zum Verhüllungsverbot», respektive der sog. «Burka-Initiative», hat das Eidgenössische Justiz- und Polizeidepartement (EJPD) verschiedene Lösungen geprüft. Neben einer Regelung im StGB wäre potenziell auch eine solche im Bundesgesetz über Massnahmen zur Wahrung der inneren Sicherheit (BWIS) in Frage gekommen. Allerdings wäre bei einer Regelung im BWIS die Zuständigkeit des Bundes im Polizeirecht aus Sicht der Experten überdehnt worden. Die Umsetzung im StGB wird hingegen als verfassungsrechtlich konsistent erachtet.</p>
+					<p align="justify">Die Initiative sieht vor, dass Übertretungen des Verhüllungsverbots mit Busse bestraft werden können. Der Europäische Gerichtshof für Menschenrechte (EGMR) hat entsprechende Verbote in Frankreich und Belgien u.a. aufgrund der Milde der möglichen Bestrafungen für rechtmässig befunden. In der Schweiz sollen <a href="https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#a323"><?link  id="51d110b8-5436-4b41-908e-52ac9f2bf047" type="law" art="323" law="StGB"?>Art. 323 ff. StGB<?end_link ?></a> als Grundlage dienen, diese regeln «Übertretungen bundesrechtlicher Bestimmungen». Die kantonalen Gerichte legen die Höhe der Busse fest und müssen dabei das Verhältnismässigkeitsprinzip beachten. Möglich wären Bussen von max. CHF 10 000.</p>
+					<p align="justify">Weiter soll gesetzlich definiert werden, welche Räume vom Verbot erfasst werden. Ausgenommen sind private Räume, wozu beispielsweise Firmenräume zählen, welche dem Publikum nicht zugänglich sind. Entsprechend dürfen verhüllte Personen weiterhin von Firmen beschäftigt werden, solange sie ihre Arbeit nicht in öffentlich zugänglichen Räumen verrichten. Auch gemeinsam genutzte Räume in Mehrfamilienhäusern, wie beispielsweise Waschküchen, gelten als privat. Virtuelle Räume sowie Medien sind vom Verbot ausgenommen.</p>
+					<p align="justify">Das Gesetz soll zudem diejenigen Ausnahmen regeln, die in der Initiative ausdrücklich vorgesehen waren. Namentlich betrifft dies die Gesichtsverhüllung für heimisches Brauchtum, Gesundheit, Sicherheit und aufgrund von klimatischen Bedingungen. Auch Sakralstätten sind vom Verbot ausgenommen. Im medizinischen Bereich sind nicht nur klassische Hygienemasken zulässig, sondern beispielsweise auch Verbände oder Verhüllungen zum Schutz vor Atemwegserkrankungen oder UV-Strahlung. Als heimisches Brauchtum gelten derweil auch Bräuche, die in der Schweiz über längere Zeit etabliert wurden, wie beispielsweise Halloween. Für Bühnenauftritte oder Verkleidungen zu Werbezwecken soll das Verhüllungsverbot ebenfalls nicht gelten.</p>
+					<p align="justify">An Demonstrationen soll es in Ausnahmefällen ebenfalls zugelassen sein, das Gesicht zu verdecken. Hier werden die Bestimmungen aber enger ausgelegt. Vorgesehen sind nur zwei Ausnahmen: Die erste betrifft die bildliche Meinungsäusserung mittels Gesichtsbedeckungen. Dies gilt nur, wenn bei der Aktivität die öffentliche Ordnung und Sicherheit nicht gestört werden. Die zweite Ausnahme kommt dann zum Tragen, wenn Gesichtsverhüllungen zur Ausübung der Meinungsäusserungs- oder Versammlungsfreiheit nötig sind.</p>
+					<p align="justify">Im Grunde liegen Verhüllungsverbote in der Kompetenz der Kantone. So wurde ursprünglich auch eine kantonale Umsetzung des Verbotes durch die Konferenz der Kantonalen Polizei- und Justizdirektorinnen und -direktoren (KKJPD) geprüft. Diese kam allerdings zum Schluss, dass eine kantonale Umsetzung nicht dem Volkswillen entsprechen würde, sondern sich die Stimmbevölkerung eine schweizweit einheitliche Umsetzung gewünscht habe.</p>
+					<p align="right" authorId="KT05821" slxclass="author">Mitgeteilt von <givenName>Larissa</givenName> <familyName>Rhyn</familyName>, Bern</p>
+				</text>
+				<footnotes>
+					<fn number="*" id="fn1">
+						<p align="justify">Der vorliegende Beitrag wurde auf dem Stand der Gesetzgebung per 25.1.2022 abgeschlossen. Für den tagesaktuellen Stand wird auf die offizielle Website des Schweizer Parlaments, &lt;<a href="http://www.parlament.ch">www.parlament.ch</a>&gt;, und der Bundesverwaltung, &lt;<a href="http://www.admin.ch">www.admin.ch</a>&gt;, verwiesen.</p>
+					</fn>
+				</footnotes>
+			</document>
+		</singleDocument>
+	</singleDocuments>
+</source>

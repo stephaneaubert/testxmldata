@@ -1,0 +1,94 @@
+<source schemaVersion="2.1">
+	<publicationInfo>
+		<documentTitle>2504-0650-2022-0061.xml</documentTitle>
+		<accessCode accesstype="abo" />
+		<articleId>2504-0650-2022-0061</articleId>
+		<language langtype="de" />
+		<publisher publisherid="sjm">Schulthess Juristische Medien AG</publisher>
+		<eIssn>2504-0650</eIssn>
+		<issn>0036-7613</issn>
+		<journalAbbreviation>SJZ-RSJ</journalAbbreviation>
+		<journalName>Schweizerische Juristen-Zeitung/Revue Suisse de Jurisprudence</journalName>
+		<journalCode journalid="sjz" />
+		<issueInfo>
+			<year>2022</year>
+			<volume>118</volume>
+			<issueNumber>4</issueNumber>
+			<publicationDate>2022-03-01</publicationDate>
+		</issueInfo>
+	</publicationInfo>
+	<singleDocuments>
+		<singleDocument type="CaseLawAsset">
+			<documentInfo>
+				<title>Bundesgericht, Urteil 2E_4/2019 vom 28. Oktober 2021</title>
+				<authors>
+					<author>
+						<person id="KT04012" />
+						<honorific>Dr. iur.</honorific>
+						<firstName>Katharina</firstName>
+						<lastName>Fontana</lastName>
+					</author>
+				</authors>
+				<firstPage>192</firstPage>
+				<lastPage>193</lastPage>
+				<decisionInfos>
+					<decisionInfo>
+						<decisionNumber>2E_4/2019</decisionNumber>
+						<decisionDate>2021-10-28</decisionDate>
+						<decisionSubjectField>Staatshaftung</decisionSubjectField>
+						<decisionObject>Verantwortlichkeitsklage</decisionObject>
+						<decisionCourtLocation>CH</decisionCourtLocation>
+						<decisionCourtName name="Bundesgericht">2</decisionCourtName>
+						<decisionCourtDevision>II. öffentlich-rechtliche Abteilung</decisionCourtDevision>
+					</decisionInfo>
+				</decisionInfos>
+				<commentedArticles>
+					<commentedArticle link="https://www.fedlex.admin.ch/eli/cc/1999/404/de#a30">Art. 30 BV</commentedArticle>
+					<commentedArticle link="https://www.fedlex.admin.ch/eli/cc/2006/218/de#a27">Art. 27 BGG</commentedArticle>
+					<commentedArticle link="https://www.fedlex.admin.ch/eli/cc/2006/834/de#a59">Art. 59 BGerR</commentedArticle>
+					<commentedArticle link="https://www.fedlex.admin.ch/eli/cc/1958/1413_1483_1489/de#a3">Art. 3 VG</commentedArticle>
+				</commentedArticles>
+				<jurisdictionals>
+					<jurisdictional name="Verwaltungsrecht">80-15</jurisdictional>
+					<jurisdictional name="Öffentliches Prozessrecht">80-60</jurisdictional>
+				</jurisdictionals>
+				<categories>
+					<category name="Bundesgericht">sjz-005-01</category>
+				</categories>
+				<keywords>
+					<title>Schlagworte</title>
+					<keyword>Persönlichkeitsschutz</keyword>
+					<keyword>Anonymisierung des Namens des Rechtsvertreters</keyword>
+				</keywords>
+				<targetGroup targettype="praxis" />
+				<focus focustype="sp" />
+				<licence licencetype="Schulthess Juristische Medien AG" />
+				<price>(PayPerDoc)</price>
+			</documentInfo>
+			<document>
+				<text>
+					<p><anchor type="page" value="192" /></p>
+					<title level="1" type="document">Bundesgericht, Urteil <decisionNumber>2E_4/2019</decisionNumber> vom <decisionDate>28. Oktober 2021</decisionDate></title>
+					<zone type="abstract">
+						<p align="justify" lang="de"><a href="https://www.fedlex.admin.ch/eli/cc/1999/404/de#a30"><?link  id="5ee5ff1c-9c85-4423-b80c-7929edbbed92" type="law" art="30" par="3" law="BV"?>Art. 30 Abs. 3 BV<?end_link ?></a>; <a href="https://www.fedlex.admin.ch/eli/cc/2006/218/de#a27"><?link  id="5fd737b0-6d6d-4095-bf0f-63ec7a2af892" type="law" art="27" law="BGG"?>Art. 27 BGG<?end_link ?></a>; <a href="https://www.fedlex.admin.ch/eli/cc/2006/834/de#a59"><?link  id="6a362ed1-96b1-4c13-b7ec-57b1a1ca3a16" type="law" art="59" par="2" law="BGerR"?>Art. 59 Abs. 2 BGerR<?end_link ?></a>; <a href="https://www.fedlex.admin.ch/eli/cc/1958/1413_1483_1489/de#a3"><?link  id="4dedc31f-5704-4341-aae8-0518df4a75bd" type="law" art="3" par="1" law="VG"?>Art. 3 Abs. 1 VG<?end_link ?></a>. Entgegen den üblichen Gepflogenheiten kann der Name eines Rechtsvertreters, dem die Verfahrenskosten auferlegt werden, anonymisiert werden, wenn das Interesse am Persönlichkeitsschutz überwiegt. Eine Anonymisierung ist indes nicht bereits dann am Platz, wenn das Bundesgericht das Verhalten des Rechtsvertreters kritisiert.</p>
+						<p align="justify" lang="fr"><a href="https://www.fedlex.admin.ch/eli/cc/1999/404/fr#a30"><?highlight_link  par="3" art="30" type="law" id="b5e65625-1a27-4dff-88d6-2b0ff6b5b304" law="Cst"?>Art. 30 al. 3 Cst.<?end_highlight_link ?></a>; <a href="https://www.fedlex.admin.ch/eli/cc/2006/218/fr#a27"><?link  id="b9c96dd5-1640-448a-82cb-ce8566851ef1" type="law" art="27" law="LTF"?>art. 27 LTF<?end_link ?></a>; <a href="https://www.fedlex.admin.ch/eli/cc/2006/834/fr#a59"><?link  id="7f859322-5f4b-4d16-9ebb-cd13c133d543" type="law" art="59" par="2" law="RTF"?>art. 59 al. 2 RTF<?end_link ?></a>; <a href="https://www.fedlex.admin.ch/eli/cc/1958/1413_1483_1489/fr#a3"><?link  id="d6178cc0-4df6-48b2-bb1e-23950408939a" type="law" art="3" par="1" law="LRCF"?>art. 3 al. 1 LRCF<?end_link ?></a>. Contrairement à l’usage, le nom d’un mandataire condamné aux frais de procédure peut être anonymisé si l’intérêt à la protection de la personnalité est prépondérant. L’anonymisation ne se justifie toutefois pas déjà par le simple fait que le Tribunal fédéral critique le comportement du mandataire. 	(P.P.)</p>
+					</zone>
+					<title level="1" type="text">Aus dem Sachverhalt:</title>
+					<p align="justify">Rechtsanwalt A. unterhielt im Kanton Bern seit längerer Zeit ein Advokaturbüro. In dieser Eigenschaft führte er für seine Klientschaft vor kantonalen Gerichtsbehörden und auch vor Bundesgericht zahlreiche Rechtsmittelverfahren. Dabei rügte er in den letzten Jahren immer wieder, die Besetzung des Spruchkörpers widerspreche dem Verfassungs- und Konventionsrecht. Das Bundesgericht äusserte sich dazu im Leiturteil BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=05.01.2018_6B_1356/2016"><?link  id="f88b6fcf-20e4-42e0-8d43-b823bcb43155" type="decision" reference="6B_1356/2016" court="BGer" date="05.01.2018" reference_number="6B_1356/2016"?>6B_1356/2016<?end_link ?></a> vom 5. Januar 2018. Rechtsanwalt A. griff dieselbe Frage allerdings auch anschliessend immer wieder auf, worauf ihm das Bundesgericht die Kosten des Verfahrens auferlegte. Teils anonymisierte es den Namen von A., teils unterliess es dies. Im November 2019 gelangte Rechtsanwalt A. in eigener Sache an das Bundesgericht und beantragte u.a., die Schweizerische Eidgenossenschaft müsse ihm CHF 7 Mio. Schadenersatz bezahlen. Die Begründung ging im Wesentlichen dahin, dass das Bundesgericht zum Nachteil des Klägers eine persönlichkeitsverletzende Anonymisierungspraxis geübt habe. Die Nichtanonymisierung seines Namens habe zu seinem wirtschaftlichen Ruin geführt.</p>
+					<zone type="considerations">
+						<title level="1" type="text">Aus den Erwägungen:</title>
+						<p align="justify">«Die vorliegende Klage gründet auf angeblich widerrechtlichem Verhalten von gewesenen oder gegenwärtigen Mitgliedern des Schweizerischen Bundesgerichts zum Nachteil des Klägers. […]</p>
+						<p align="justify">Die materiellen Beanstandungen des Klägers zur Auslegung und/oder Anwendung der ‹Regeln für die Anonymisierung der Urteile› gehen hauptsächlich dahin, dass die Abteilungspräsidien mehrfach davon abgesehen hätten, den Namen des Klägers zu anonymisieren, obwohl ihm, dem Kläger, in seiner Eigenschaft als Rechtsvertreter die Verfahrenskosten auferlegt worden seien. Der Umstand, dass sein Name in der auf der Website des Bundesgerichts zugänglichen Fassung offengelegt worden sei, habe dazu geführt, dass er in der Öffentlichkeit zunehmend als unfähiger Anwalt wahrgenommen und durch Dritte diskreditiert worden sei. Dies wiederum habe zur Folge gehabt, dass der Zulauf neuer Klientinnen oder Klienten zum Erliegen gekommen sei. Die Urteile bzw. das Gebaren des Bundesgerichts stünden in einem unmittelbaren kausalen Zusammenhang mit dem Niedergang seiner beruflichen Tätigkeit als Anwalt. […]</p>
+						<p align="justify">Es ist zu prüfen, ob die Vorgehensweise der Abteilungspräsidien bzw. der präsidierenden Mitglieder in den gerügten Fällen widerrechtlich sei. Gemäss <a href="https://www.fedlex.admin.ch/eli/cc/2006/834/de#a59"><?link  id="a00c0903-8b4a-4cc6-a03c-b91d9aaca944" type="law" art="59" par="2" law="BGerR"?>Art. 59 Abs. 2 BGerR<?end_link ?></a> trifft das Abteilungspräsidium bei der Internetpublikation die geeigneten Massnahmen zum Persönlichkeitsschutz. Diese Norm konkretisiert <a href="https://www.fedlex.admin.ch/eli/cc/2006/218/de#a27"><?link  id="0a888032-7508-4bc5-95ee-06377570d697" type="law" art="27" law="BGG"?>Art. 27 BGG<?end_link ?></a> und beruht darüber hinaus auch auf <a href="https://www.fedlex.admin.ch/eli/cc/2006/218/de#a32"><?link  id="fed4dc44-66e8-4235-88bc-16c6bc87fa4c" type="law" art="32" par="1" law="BGG"?>Art. 32 Abs. 1 BGG<?end_link ?></a>, wonach die Instruktion eines bundesgerichtlichen Verfahrens in den Händen der Instruktionsrichterin oder des Instruktionsrichters liegt […]. Mit der Wendung, dass das Abteilungspräsidium ‹die <i>geeigneten Massnahmen</i> zum Persönlichkeitsschutz› treffe, hat das Bundesgericht einen unbestimmten Rechtsbegriff kodifiziert. Diese Technik fusst nicht nur auf der Erkenntnis, dass es weder möglich noch angebracht sei, alle denkbaren Anonymisierungsfälle generell-abstrakt zu regeln. Vielmehr bringt <a href="https://www.fedlex.admin.ch/eli/cc/2006/834/de#a59"><?link  id="ba7c9ce9-e1e1-4c4e-9766-4a32dbbc3d88" type="law" art="59" par="2" law="BGerR"?>Art. 59 Abs. 2 BGerR<?end_link ?></a> auch zum Ausdruck, dass die Vollzugsanweisungen, und darin inbegriffen die Anonymisierungsfrage, im wohlverstandenen Rechtsfolgeermessen des Abteilungspräsidiums oder des präsidierenden Mitglieds liegen soll. Abgesehen von Standardfällen, die auch im Bereich der Vollzugsanweisungen keinerlei Schwierigkeiten bieten, können im Rechtsalltag immer wieder Konstellationen auftreten, in welchen es nicht auf der Hand liegt, ob neben den Par-<anchor type="page" value="193" />teien auch die Rechtsvertretung zu anonymisieren sei. In solchen Fällen ist ein angemessener Ausgleich zwischen dem Grundsatz der Justizöffentlichkeit und dem Schutz der Persönlichkeit anzustreben […].</p>
+						<p align="justify">Eine exakte Lösung im Bereich der Anonymisierung wird sich kaum je finden lassen, weshalb dieser Bereich dem pflichtgemässen Rechtsfolgeermessen anheimgestellt bleiben soll. Die ‹Regeln für die Anonymisierung der Urteile› in der gegenwärtigen Fassung vom 17. Dezember 2019 (Präsidentenkonferenz) bzw. 13. Februar 2020 (Verwaltungskommission) bringen dies in Art. 4 Abs. 3 wie folgt zum Ausdruck:</p>
+						<p align="justify">‹Rechtsvertreter werden in der Regel auch dann nicht anonymisiert, wenn sie im Lauf des Verfahrens von der Rechtsvertretung ausgeschlossen werden, beispielsweise wegen mangelnder Unabhängigkeit. Werden dem Rechtsvertreter die Verfahrenskosten auferlegt, ist im Einzelfall abzuwägen, ob das Interesse am Persönlichkeitsschutz überwiegt oder das Informationsbedürfnis der Öffentlichkeit über das prozessuale Verhalten des Rechtsvertreters.›</p>
+						<p align="justify">Die pflichtgemässe Ausübung des in Art. 4 Abs. 3 Satz 2 verbrieften Rechtsfolgeermessens kann folglich nach vorgenommener Interessenabwägung dazu führen, dass entgegen den üblichen Gepflogenheiten auch die Namen der Parteivertreter anonymisiert werden (Urteil <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=04.09.2014_2E_1/2013"><?link  id="6e73f03b-717c-472e-a42d-6f1b00a02dc4" type="decision" reference_number="2E_1/2013" date="04.09.2014" court="BGer"?>2E_1/2013<?end_link ?></a> vom 4. September 2014 E. 4.3.4). Die Ano­nymisierung der Rechtsvertretung ist freilich nicht bereits am Platz, wenn das Bundesgericht das Verhalten einer Rechtsvertretung kritisiert (a.a.O. E. 4.2.2 und 4.3.3) oder wenn die Rechtsvertretung als Folge dieser Äusserungen gewisse Nachteile befürchtet (Urteil <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=02.06.2014_2C_54/2014"><?link  id="7acfdb48-6251-45a1-828f-0e3b906c32e0" type="decision" reference_number="2C_54/2014" date="02.06.2014" court="BGer"?>2C_54/2014<?end_link ?></a> vom 2. Juni 2014 E. 4.3).</p>
+						<p align="justify">Auszugehen ist und bleibt von der Justizöffentlichkeit im Allgemeinen und dem Interesse der Öffentlichkeit an der Bekanntgabe allfälliger erheblicher, dauerhafter anwaltlicher Fehlleistungen. Soweit das Bundesgericht von der Anonymisierung des Namens des Klägers abgesehen hat, obwohl die Verfahrenskosten unmittelbar dem Kläger aufzuerlegen waren, geschah dies in Ausübung des Rechtsfolgeermessens. Dessen Handhabung ist angesichts der konkreten Umstände, die von zahlreichen, oft gleichartigen Eingaben geprägt sind, jedenfalls bei der im vorliegenden Klageverfahren obwaltenden beschränkten Kognition, nicht zu beanstanden, selbst wenn unter Umständen eine andere Lösung zu bevorzugen gewesen wäre. Auch wenn der Ansicht zu folgen wäre, dass eine Anonymisierung sachlich am Platz gewesen wäre, vermöchte dies keine Widerrechtlichkeit im Sinne von <a href="https://www.fedlex.admin.ch/eli/cc/1958/1413_1483_1489/de#a3"><?link  id="a17e9585-a91d-4c2a-8656-c92780da191d" type="law" art="3" par="1" law="VG"?>Art. 3 Abs. 1 VG<?end_link ?></a> zu begründen. Im öffentlich-rechtlichen Bereich sind Eingriffe in die Persönlichkeitsrechte einer rechtsunterworfenen Person nicht zwingend rechtswidrig. Hier ist eine Güterabwägung vorzunehmen […]. Fällt diese, was die Anonymisierung betrifft, zugunsten einer Offenlegung aus, so schliesst dies die Widerrechtlichkeit aus. Hinzu kommt, dass jedenfalls keine <i>wesentliche</i> Amtspflichtverletzung im Raum steht […].»</p>
+					</zone>
+					<p align="right" authorId="KT04012" slxclass="author">Bearbeitet von <honorificPrefix>Dr. iur.</honorificPrefix> <givenName>Katharina</givenName> <familyName>Fontana</familyName>, Bern</p>
+				</text>
+				<footnotes />
+			</document>
+		</singleDocument>
+	</singleDocuments>
+</source>

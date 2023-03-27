@@ -1,0 +1,537 @@
+<source schemaVersion="2.1">
+	<publicationInfo>
+		<documentTitle>2504-0650-2022-0058.xml</documentTitle>
+		<accessCode accesstype="abo" />
+		<articleId>2504-0650-2022-0058</articleId>
+		<language langtype="de" />
+		<publisher publisherid="sjm">Schulthess Juristische Medien AG</publisher>
+		<eIssn>2504-0650</eIssn>
+		<issn>0036-7613</issn>
+		<journalAbbreviation>SJZ-RSJ</journalAbbreviation>
+		<journalName>Schweizerische Juristen-Zeitung/Revue Suisse de Jurisprudence</journalName>
+		<journalCode journalid="sjz" />
+		<issueInfo>
+			<year>2022</year>
+			<volume>118</volume>
+			<issueNumber>4</issueNumber>
+			<publicationDate>2022-03-01</publicationDate>
+		</issueInfo>
+	</publicationInfo>
+	<singleDocuments>
+		<singleDocument type="EssayAsset">
+			<documentInfo>
+				<title>Die Nichtaufdatierung der bilateralen Abkommen Schweiz–EU am Beispiel der Diplomanerkennung</title>
+				<authors>
+					<author>
+						<person id="KT06145" />
+						<honorific>Dr.</honorific>
+						<firstName>Joel</firstName>
+						<lastName>Günthardt</lastName>
+						<honorificSuffix>LL.M.</honorificSuffix>
+					</author>
+				</authors>
+				<firstPage>159</firstPage>
+				<lastPage>171</lastPage>
+				<jurisdictionals>
+					<jurisdictional name="Völkerrecht">120-30</jurisdictional>
+				</jurisdictionals>
+				<categories>
+					<category name="Leitartikel">sjz-001</category>
+				</categories>
+				<keywords>
+					<title>Schlagworte</title>
+					<keyword>Diplomanerkennung</keyword>
+					<keyword>bilaterale Abkommen EU-CH</keyword>
+					<keyword>Rahmenabkommen</keyword>
+					<keyword>Aufdatierung bilateraler Abkommen</keyword>
+				</keywords>
+				<targetGroup targettype="praxis" />
+				<focus focustype="sp" />
+				<licence licencetype="Schulthess Juristische Medien AG" />
+				<price>(PayPerDoc)</price>
+			</documentInfo>
+			<document>
+				<text>
+					<p><anchor type="page" value="159" /></p>
+					<title level="1" type="document">Die Nichtaufdatierung der bilateralen Abkommen Schweiz–EU am Beispiel der Diplomanerkennung</title>
+					<p align="justify" authorId="KT06145" slxclass="author"><honorificPrefix>Dr.</honorificPrefix> <givenName>Joel</givenName> <familyName>Günthardt</familyName>, <honorificSuffix>LL.M.</honorificSuffix>, <jobTitle>Rechtsanwalt, Gerichtsschreiber und Lehrbeauftragter</jobTitle>, St. Gallen<footnotecall number="*" fnid="fn1" /></p>
+					<zone type="abstract">
+						<p align="justify" lang="de">Die fehlende Aufdatierung der bilateralen Abkommen infolge der Verhandlungen zum Rahmenabkommen zwischen der Schweiz und der EU ist in aller Munde. Dieser Beitrag geht der Frage nach, welche rechtlichen Problemstellungen sich durch die fehlende Aktualisierung von bilateralen Abkommen zwischen der Schweiz und der EU ergeben können. Die fehlende Aufdatierung führt dabei namentlich zu fehlender Rechtssicherheit und mithin zu einer Komplexität, die bei genauer Betrachtung schwierig zu bewältigen ist. Als Beispiel für die rechtlichen Probleme soll dabei Anhang III zum Freizügigkeitsabkommen Schweiz–EU dienen, welcher die anwendbaren Richtlinien zur Diplomanerkennung beinhaltet.</p>
+						<p align="justify" lang="fr">L’absence de mise à jour des accords bilatéraux suite à l’échec des négociations de l’accord-cadre entre la Suisse et l’UE est sur toutes les lèvres. Cet article examine les problèmes juridiques qui peuvent survenir de l’absence de mise à jour des accords bilatéraux entre la Suisse et l’UE. L’absence d’adaptation entraîne notamment un manque de sécurité juridique et, par conséquent, génère une complexité qui, en y regardant de plus près, est difficile à surmonter. A titre d’illustration des problèmes juridiques qui se posent, on peut évoquer l’Annexe III de l’Accord sur la libre circulation des personnes entre la Suisse et l’UE qui contient les directives qui s’appliquent à la reconnaissance des diplômes. 	(P.P.)</p>
+					</zone>
+					<title level="1" type="text"><number>I.</number>Einleitung</title>
+					<p align="justify">Nachdem der Bundesrat am 26. Mai 2021 die Verhandlungen mit der EU zum Rahmenabkommen abgebrochen hat, ist die Suche nach der Ausrichtung der zukünftigen Beziehungen zwischen der Schweiz und der EU sowie ihren Mitgliedsstaaten eine grosse Herausforderung.<footnotecall number="1" fnid="fn2" /> Vize-Präsident der Europäischen Kommission, Maroš Šefčovič, äusserte sich nach dem Scheitern des Rahmenabkommens: <i>«The solution to the difficulties is gone, but the problems remain.»</i><footnotecall number="2" fnid="fn3" /> Von grossem praktischem Interesse ist dabei nebst einer möglichen Entwicklung des bilateralen Wegs das Funktionieren des bestehenden Geflechts aus über 120 Abkommen. Während in der Vergangenheit die Aufdatierung von EU-Recht meistens weitgehend unproblematisch verlief,<footnotecall number="3" fnid="fn4" /> bestehen aktuell bei mehreren Abkommen Probleme.<footnotecall number="4" fnid="fn5" /> Einerseits ist dies darauf zurückzuführen, dass die EU nicht mehr willens ist, bestimmte Marktzugangsabkommen zu aktualisieren, bevor die Schweiz bestimmte Punkte der europäischen Integration bzw. der fehlenden Institutionalisierung der Markzugangsabkommen behebt. Konkret <anchor type="page" value="160" />wurde in den gescheiterten Verhandlungen bezüglich eines Rahmenabkommens über eine dynamische Übernahme des EU-Rechts bzw. die fortlaufende Aufdatierung des EU-Rechts eine Verpflichtung zur parallelen Anwendung und Auslegung des bilateralen Rechts («Homogenität») sowie über die Ausgestaltung eines Streitschlichtungsmechanismus diskutiert.<footnotecall number="5" fnid="fn6" /> Andererseits wurden bestimmte Aktualisierungen, insbesondere wegen der Masseneinwanderungsinitia­tive, vorübergehend nicht aufdatiert.<footnotecall number="6" fnid="fn7" /> Die Frage nach der weitergehenden europäischen Integration ist vorwiegend politischer Natur. Festzuhalten ist, dass die Möglichkeiten für den Abschluss weiterer Marktzugangsabkommen aufgrund der Haltung der EU zurzeit beschränkt sind.<footnotecall number="7" fnid="fn8" /></p>
+					<title level="1" type="text"><number>II.</number>Überblick über die Aufdatierung verschiedener bilateraler Abkommen</title>
+					<title level="2" type="text"><number>A.</number>Formen der Aufdatierung und verwandter Instrumente zur Förderung der Parallelität der Rechtslage</title>
+					<p align="justify">Vorab ist auf die verschiedenen Formen der Aufdatierung einzugehen. Zum einen werden einige wenige bilaterale Abkommen Schweiz–EU bereits dynamisch aufdatiert, während die meisten Abkommen zwischen der Schweiz und der EU statischer Natur sind.<footnotecall number="8" fnid="fn9" /> Weiter ist auf die Aufdatierung im gescheiterten Entwurf für ein Rahmenabkommen einzugehen.<footnotecall number="9" fnid="fn10" /> Zum andern gilt es, verwandte Instrumente zu beleuchten, die zur Parallelität der Rechtsordnungen beitragen. Dazu sind die Rezeption von <i>Soft Law,</i> der autonome Nachvollzug von EU-Recht, die Beachtung der EuGH-Rechtsprechung im Rahmen von Homogenitätsregeln sowie die Rechtsvergleichung im weitesten Sinne zu zählen.<footnotecall number="10" fnid="fn11" /></p>
+					<title level="3" type="text"><number>1.</number>Aufdatierung bei dynamischen und statischen Abkommen</title>
+					<p align="justify">Als Beispiel für eine dynamische Übernahme von EU-Recht ist die Assoziierung der Schweiz im Rahmen von Schengen/Dublin zu erwähnen. Die Schweiz hat dabei alle Aktualisierungen zu übernehmen, da sie ansonsten die Teilnahme an der Assoziierung gefährdet. Allerdings wird der Schweiz die nötige Zeit gelassen, um ihre innerstaatlichen verfassungsmässigen Vorgaben zu erfüllen, namentlich ist die Zeit für allfällige Referenden gegeben.<footnotecall number="11" fnid="fn12" /> Nichtsdestotrotz steht die Schweiz hier unter einem grossen Druck, das EU-Recht automatisch zu übernehmen. Immerhin ist die Möglichkeit gegeben, mittels <i>Decision Shaping</i> statt <i>Decision Making</i><footnotecall number="12" fnid="fn13" /> Einfluss auf die Ausgestaltung der Richtlinien auszuüben, wie es auch bei der Aufdatierung der EU-Waffenrichtlinie<footnotecall number="13" fnid="fn14" /> betreffend die Sturmgewehre geschehen ist. So hat die Schweiz erfolgreich bewirkt, dass eine auf sie zugeschnittene Bestimmung eingefügt wurde.<footnotecall number="14" fnid="fn15" /> Ferner existiert ein ähnlicher Mechanismus zur Aufdatierung im Zollabkommen (ZollA)<footnotecall number="15" fnid="fn16" />.<footnotecall number="16" fnid="fn17" /> Konkret gibt es aber auch bei den dynamischen Abkommen keine Aufdatierungspflicht, weshalb sie auch schon als «im Ansatz statische Abkommen» qualifiziert wurden.<footnotecall number="17" fnid="fn18" /> Allerdings wäre die Teilnahme am entsprechenden Sachbereich bzw. das entsprechende Abkommen sicherlich gefährdet, wenn sich die Schweiz einer Aufdatierung ohne Grund verweigern würde. Im Gegensatz dazu sind viele bilateralen Abkommen statischer Natur, d.h., eine Änderung kann nur über einen Beschluss des entsprechenden Gemisch-<anchor type="page" value="161" />ten Ausschusses oder eine Neuverhandlung bzw. Revision des Abkommens erfolgen.<footnotecall number="18" fnid="fn19" /></p>
+					<title level="3" type="text"><number>2.</number>Aufdatierungspflicht im Entwurf für ein Rahmenabkommen Schweiz–EU</title>
+					<p align="justify">Die Form der dynamischen Aufdatierung von bilateralen Abkommen hätte mit dem nun verworfenen Rahmenabkommen Einzug für fünf bestehende und für zukünftige Marktzugangsabkommen gehalten. Art. 2 i.V.m. Art. 5 des Rahmenabkommens erhellt, dass diese dynamisch aufdatiert worden wären, und statuiert eine Übernahmepflicht für neue Entwicklungen des EU-Rechts. Die Übernahmepflicht besagt, dass Entwicklungen des EU-Rechts im Anwendungsbereich des jeweiligen Marktzugangsabkommens nach deren Verabschiedung so rasch wie möglich in das jeweilige Marktzugangsabkommen integriert werden sollen. Inwieweit eine Übernahmepflicht für Änderungen des EU-Rechts bestanden hätte, soll an dieser Stelle nicht vertieft werden. Nur so viel: Dabei wäre auslegungsbedürftig, welche Konzepte Bestandteil eines Marktzugangsabkommens sind und wofür konkret eine Übernahmepflicht bestünde. Strittig war etwa, ob das Daueraufenthaltsrecht Bestandteil des <i>acquis</i> für das Freizügigkeitsabkommen (FZA)<footnotecall number="19" fnid="fn20" /> ist oder nicht.<footnotecall number="20" fnid="fn21" /> Jedenfalls hätte eine Aufdatierung nicht ohne Grund bzw. mit Verweis auf andere Dossiers verweigert werden können, unabhängig davon, ob nur Anhänge oder gar ein Abkommen zu revidieren gewesen wäre.<footnotecall number="21" fnid="fn22" /></p>
+					<p align="justify">Art. 12 des Rahmenabkommens sieht das Verfahren zur Übernahme von EU-Recht vor. Der Schweiz hätten während der Erarbeitung von EU-Recht verschiedene Möglichkeiten des <i>Decision Shaping</i> zugestanden. Sobald ein Rechtsakt in einem relevanten Bereich gefällt worden wäre, hätte der zuständige Gemischte Ausschuss entweder einen Beschluss erlassen oder die Revision des Abkommens vorgeschlagen.<footnotecall number="22" fnid="fn23" /> Der Schweiz wären auch hier bei Bedarf zwei Jahre bzw. bei einem Referendum drei Jahre Zeit gegeben worden, um ihre innerstaatlichen Pflichten zu erfüllen.<footnotecall number="23" fnid="fn24" /></p>
+					<p align="justify">Während den Verhandlungen für ein Rahmenabkommen wurde insbesondere die dynamische Aufdatierung in der Schweiz als problematisch erachtet. So forderte der Bundesrat Ausnahmen der Aufdatierung (sog. rote Linien) bei der Unionsbürgerrichtlinie (Gleichbehandlung insbesondere für Sozialleistungen, Daueraufenthaltsrecht nach fünf Jahren und stärkerer Schutz vor Ausschaffungen), im Bereich des Sozialversicherungskoordinationsrechts bezüglich der Zuständigkeit für Arbeitslosenleistungen an Grenzgängerinnen und Grenzgängern sowie betreffend die flankierenden Massnahmen (insbesondere die EU-Durchsetzungsrichtlinie<footnotecall number="24" fnid="fn25" /> und die revidierte EU-Entsenderichtlinie<footnotecall number="25" fnid="fn26" />).<footnotecall number="26" fnid="fn27" /></p>
+					<title level="3" type="text"><number>3.</number>Verwandte Instrumente zur Förderung der Homogenität der beiden Rechtsordnungen</title>
+					<p align="justify">Da die regelmässige Aufdatierung von EU-Recht momentan weitgehend blockiert wird, ist die Schweiz bestrebt, EU-Recht möglichst autonom nachzuvollziehen. Der autonome Nachvollzug von EU-Recht ist ohne Frage sehr verbreitet und wird auch aktuell vom Bundesrat befürwortet. Dieser hat das Eidgenössische Justiz- und Polizeidepartement (EJPD) beauftragt, eine Auslegeordnung vorzunehmen. Die zuständigen Departemente hatten bis Ende November 2021 Bericht darüber zu erstatten, welche autonomen Anpassungen als sinnvoll <anchor type="page" value="162" />erachtet werden.<footnotecall number="27" fnid="fn28" /> So löblich diese Vorgehensweise zur Rezeption von EU-Recht ist, vermag sie eine gegenseitige Vereinbarung nicht zu ersetzen.<footnotecall number="28" fnid="fn29" /> Zudem ist unwahrscheinlich, dass sich dadurch an der Position der EU etwas ändern wird.<footnotecall number="29" fnid="fn30" /></p>
+					<p align="justify">Dasselbe gilt für die Rechtsvergleichung, welche in vielen Rechtsgebieten Einzug gehalten hat, selbst wenn im konkreten Rechtsgebiet <i>keine</i> (oder keine relevante) Übernahme von EU-Recht stattgefunden hat, so etwa im Vergabe- oder Kartellrecht.<footnotecall number="30" fnid="fn31" /> Die Rechtsvergleichung ist jedenfalls nicht als derart weitgehend zu verstehen, dass sie die Aufdatierung eines Abkommens zu ersetzen vermag.</p>
+					<p align="justify">Schliesslich ist auf die expliziten Homogenitätsregeln hinzuweisen, welche die Schweiz verpflichten, die Rechtsprechung des EuGH anzuwenden.<footnotecall number="31" fnid="fn32" /> Auch solche Regeln fördern die Parallelität der beiden Rechtsordnungen. Allerdings kann keine Homogenität der Rechtsprechung erfolgen, wenn ein Konzept des EU-Rechts nicht Bestandteil eines Abkommens zwischen der Schweiz und der EU ist. Zuweilen ist es auch schwierig zwischen Rechtsprechung und Konzepten des EU-Rechts zu unterscheiden.<footnotecall number="32" fnid="fn33" /></p>
+					<title level="3" type="text"><number>4.</number>Aufdatierung bei technischen Abkommen und der Einfluss von <i>Soft Law</i></title>
+					<p align="justify">Spezifisch zu erwähnen ist schliesslich, dass es sich bei vielen Aufdatierungen um sehr technische Angelegenheiten handelt. Hierzu zählt grundsätzlich die Diplomanerkennung Schweiz–EU, auf welche nachfolgend einzugehen sein wird<footnotecall number="33" fnid="fn34" />. Einige dieser technischen Abkommen werden nach wie vor aufdatiert, da dies im Interesse der EU ist. Dazu zählen etwa das Landverkehrsabkommen (LVA)<footnotecall number="34" fnid="fn35" /> oder das Luftverkehrsabkommen (LuftVA)<footnotecall number="35" fnid="fn36" />.<footnotecall number="36" fnid="fn37" /> Grund dafür sind rein praktische, aber auch wirtschaftliche Vorteile der Homogenität beider Rechtsordnungen. Andernfalls kann der Vorteil von gemeinsamen Regeln des Binnenmarkts nicht erreicht werden. Gerade deshalb ist die EU bereit, das LVA und das LuftVA nach wie vor aufzudatieren.<footnotecall number="37" fnid="fn38" /> Dies steht im Einklang mit der Resolution des Rates der EU vom 16. Dezember 2014, welche das eigene Interesse der EU aufgrund einer Einzelfallentscheidung am Abschluss weiterer Abkommen in den Vordergrund stellt, bevor die institutionellen Fragen geklärt sind.<footnotecall number="38" fnid="fn39" /> Diese beiden Abkommen sind allerdings in ihrem Geltungsbereich begrenzt und enthalten nicht alle Freiheiten.<footnotecall number="39" fnid="fn40" /> Eine Einigung bei den sog. Kabotage-Rechten als Protokoll zum LuftVA liegt zwar seit November 2011 vor, ist aber wegen der gescheiterten Verhandlungen zum Rahmenabkommen blockiert.<footnotecall number="40" fnid="fn41" /></p>
+					<p align="justify">Die Aufdatierung mittels Beschluss eines Gemischten Ausschusses Schweiz–EU stellt jedoch nicht die einzige Form der Rezeption von EU-Recht dar. Hierzu können auch die weitgehend technischen Aufdatierungen gezählt werden, die sich mittelbar aus dem <i>Soft Law</i> ergeben. Diese Form der Aufdatierung wird in der Diskussion oft vergessen. Auch hier soll das LuftVA beispielhaft angeführt werden. So hat die Europäische Kommission als Folge des Germanwings-Unglücks etwa die Anforderungen an Piloten verschärft, nachdem eine hierzu einberufene Germanwings-<i>Taskforce</i> entsprechende <anchor type="page" value="163" />Empfehlungen abgegeben hatte.<footnotecall number="41" fnid="fn42" /> Diese Änderungen der psychologischen und psychiatrischen Anforderungen wurden durch die Schweiz übernommen.<footnotecall number="42" fnid="fn43" /> Die Einzelheiten sind jedoch derart technisch, dass sie nicht detailliert in den EU-Verordnungen zu finden sind. Vielmehr erlässt die Europäische Agentur für Flugsicherheit <i>(European Union Aviation Safety Agency [EASA])</i> Vollzugshilfen (insbesondere <i>Certification Specifications</i> sowie <i>Acceptable Means of Compliance</i> [sog. <i>Soft Law</i>])<i>,</i> welche faktisch bedeutsamer als die EU-Verordnungen selbst sind. Für die Piloten legen diese Vollzugshilfen konkret die Voraussetzungen der Tauglicherklärung dar, welche in der EU-Verordnung nur in den Grundzügen umrissen sind.<footnotecall number="43" fnid="fn44" /> Die Schweiz wiederum verweist für die Tauglichkeit von Piloten auf die jeweils anwendbare Vollzugshilfe, welche ohne weiteres anzuwenden ist, sofern nicht erwiesen ist, dass die Anforderungen auch auf andere Weise erfüllt sind (sog. <i>Alternative Means of Compliance</i>)<i>.</i><footnotecall number="44" fnid="fn45" /> Zusammengefasst wird auch das <i>Soft Law</i> regelmässig aufdatiert, ohne dass i.d.R. eine ausdrückliche Übernahme stattfindet. Zu erwähnen ist jedoch, dass die Teilnahme der Schweiz an der <i>EASA</i> nicht einzig durch einen Beschluss des Gemischten Ausschusses für das LuftVA Schweiz–EU erfolgt ist, sondern durch die Bundesversammlung genehmigt und dem fakultativen Staatsreferendum unterstellt wurde.<footnotecall number="45" fnid="fn46" /></p>
+					<p align="justify">Als weiteres Beispiel sei auf den FAQ<footnotecall number="46" fnid="fn47" /> und den <i>Code of Conduct</i> der Diplomanerkennung<footnotecall number="47" fnid="fn48" /> hingewiesen. Zwar wurden diese von der Schweiz nicht offiziell übernommen, womit es sich nicht um eine Aufdatierung im eigentlichen Sinn handelt. Allerdings können diese faktisch durch die Klarstellung der Rechtsprechung praktisch eine ähnliche Funktion wahrnehmen, welche mitunter auch von den Gerichten aufgegriffen wird.<footnotecall number="48" fnid="fn49" /></p>
+					<p align="justify">Verschiedentlich wird der hohe Einfluss von <i>Soft Law</i> zwar beargwöhnt, da es diesem an demokratischer Legitimation mangelt.<footnotecall number="49" fnid="fn50" /> Dazu passt, dass die Anfechtung von (äusserst heterogenem) <i>Soft Law</i> sich in der Schweiz als auch in der EU als schwierig erweist.<footnotecall number="50" fnid="fn51" /> Allerdings ist der Austausch über <i>Good Practice</i> und entsprechende Vollzugshilfen sehr hilfreich, um Missverständnisse in der Anwendung von EU-Recht früh zu beseitigen. Oft ist es in technischen Angelegenheiten auch so, dass die Fachbehörden vertiefte Kenntnisse der sehr technischen Materie aufweisen und sich regelmässig mit Rechtsfragen aus der Spezialmaterie konfrontiert sehen. Diesfalls sind auch die Gerichte bei der Auslegung bekanntlich gehalten, sich nicht ohne Not über das Ermessen der Fachbehörden hinwegzusetzen.<footnotecall number="51" fnid="fn52" /></p>
+					<p><anchor type="page" value="164" /></p>
+					<title level="2" type="text"><number>B.</number>Aktuelle Probleme bei der Aufdatierung der bilateralen Abkommen</title>
+					<p align="justify">Im Folgenden wird – ohne Anspruch auf Vollständigkeit – aufgezeigt, bei welchen bilateralen Abkommen es zwischen der Schweiz und der EU zu Problemen bei der Aufdatierung von EU-Recht gekommen ist.</p>
+					<title level="3" type="text"><number>1.</number>Konformitätsabkommen <i>(MRA)</i></title>
+					<p align="justify">Das Konformitätsabkommen <i>(Mutual Recognition Agreement [MRA])</i><footnotecall number="52" fnid="fn53" /> stellt weiterhin einen Zankapfel zwischen der Schweiz und der EU dar, da die Schweiz ab dem 27. Mai 2021 für «neurechtliche» Produkte als Drittstaat gilt und ab dem 27. Mai 2022 auch für die «altrechtlichen» Produkte. Es wäre eines der im Rahmenabkommen erwähnten Marktzugangsabkommen gewesen.<footnotecall number="53" fnid="fn54" /> Nachdem sich die EU nicht mehr bereit erklärt hat, die letzten Aktualisierungen im Bereich der Medizinprodukte zu übernehmen bzw. sogar die Anwendung des Abkommens für die altrechtlichen Produkte gänzlich zu versagen, stehen die Schweizer Unternehmen in der Situation, dass sie ihre Produkte in der EU neu zertifizieren müssen. Bei einer Reduktion des Angebots wegen der zusätzlichen administrativen Hürden führt dies möglicherweise zu einer Gefährdung der Versorgungssicherheit in der Schweiz. Gemäss dem Bundesrat betragen die volkswirtschaftlichen Auswirkungen einmalig 115 Mio. CHF und wiederkehrend 70 Mio. CHF pro Jahr, um die Anforderungen zu erfüllen.<footnotecall number="54" fnid="fn55" /> Während es im Gegensatz zur Regelung im Rahmenabkommen keine Aufdatierungspflicht im MRA gibt, ist zumindest die Nichtanwendung eines bestehenden Abkommens fraglich. Dies könnte einen Vertragsbruch seitens der EU darstellen, da geschlossene Verträge gemäss <a href="https://www.fedlex.admin.ch/eli/cc/1990/1112_1112_1112/de#a26"><?link  id="f30cb1a4-9162-44a2-b63c-ced0ff1c1d27" type="law" art="26" law="WVK"?>Art. 26 VRK<?end_link ?></a><footnotecall number="55" fnid="fn56" /> zu erfüllen sind und die Berufung auf eigenes Recht keinen Grund für deren Nichteinhaltung darstellt (<a href="https://www.fedlex.admin.ch/eli/cc/1990/1112_1112_1112/de#a27"><?link  id="75c67c4e-ca84-49c8-b077-7af1477beb95" type="law" art="27" law="WVK"?>Art. 27 VRK<?end_link ?></a>).<footnotecall number="56" fnid="fn57" /> Allerdings sind die Optionen der Schweiz diesbezüglich begrenzt.</p>
+					<p align="justify">Schliesslich fällt auch die Zusammenarbeit bei der Überwachung weg. Mittelfristig beabsichtigt der Bundesrat als Plan B den Aufbau einer eigenständigen Schweizer Marktüberwachung zur Sicherstellung der Versorgung der Schweiz mit sicheren Medizinprodukten, falls keine Aktualisierung des MRA in ein bis zwei Jahren zustande kommt. Eine weitere Aktualisierung des Kapitels 4 des MRA wäre namentlich im Mai 2022 nötig («In-vitro-Diagnostika»).<footnotecall number="57" fnid="fn58" /></p>
+					<title level="3" type="text"><number>2.</number>Horizon Europe and Erasmus+ (2021–2027)</title>
+					<p align="justify">Ebenso von grossem öffentlichem Interesse begleitet ist die fehlende Assoziierung der Schweiz im Horizon-Europe-Programm, welches die Teilnahme von Schweizer Forschern ab 2021 am weltweit grössten Forschungsprogramm nur über eine Schweizer Finanzierung ermöglicht.<footnotecall number="58" fnid="fn59" /> Zwar ist die Forschung Teil der Bilateralen I,<footnotecall number="59" fnid="fn60" /> allerdings ist die Zusammenarbeit in diesem Bereich jeweils befristet. Das Staatssekretariat für Forschung, Bildung und Innovation (SBFI) hat am 11. November 2021 die Europäische Kommission über den zweiten Kohäsionsbeitrag der Schweiz informiert. Die Europäische Kommission sah sich nicht in der Lage, die nächsten Schritte für eine Assoziierung zu besprechen. Damit ist unklar, ob sich die Schweiz im Jahr 2022 wieder als assoziiertes Land an Horizon Europe beteiligen kann. Die Schweiz springt nun selbst in die Bresche und beteiligt sich an der Finanzierung.<footnotecall number="60" fnid="fn61" /> Somit ist die zukünftige Zusammenarbeit im Bereich der Forschung noch immer nicht gelöst, sondern nur aufgeschoben, da nicht alle Projekte für Teilnehmer und Teilnehmerinnen aus Drittstaaten offenstehen.<footnotecall number="61" fnid="fn62" /></p>
+					<p align="justify">Seit 2014 ist die Schweiz ebenfalls nur als Drittstaat am Bildungsprogramm «Erasmus+» (2014–2020) beteiligt. Dieser Status kann grundsätzlich auch in der neuen Programmphase ab 2021 weitergeführt werden. Am 16. September 2020 hat das Parlament die entsprechenden <anchor type="page" value="165" />Mittel für die weitere Teilnahme (2021–2027) genehmigt. Der Bundesrat setzt sich allerdings weiter für eine Assoziierung der Schweiz an Erasmus+ ein.<footnotecall number="62" fnid="fn63" /></p>
+					<title level="3" type="text"><number>3.</number>Strom</title>
+					<p align="justify">Infolge der Umsetzung der EU-Erneuerbare-Energien-Richtlinie<footnotecall number="63" fnid="fn64" /> können seit dem 1. Juli 2021 keine Schweizerischen Herkunftsnachweise mehr in die EU exportiert werden.<footnotecall number="64" fnid="fn65" /></p>
+					<p align="justify">Zudem fehlt nach wie vor ein Stromabkommen mit der EU, wobei letztmals im Juli 2018 Verhandlungen hierfür stattgefunden haben. Dies wird bis 2030 ein Handelsdefizit von rund 1 Mrd. CHF pro Jahr ausmachen.<footnotecall number="65" fnid="fn66" /> Die Vereinbarung über den Beobachterstatus der Eidgenössischen Elektrizitätskommission (Elcom) bei der Agentur für die Zusammenarbeit der Energieregulierungsbehörden (Acer) wurde laut einer Mitteilung der Neuen Zürcher Zeitung (NZZ) im September 2021 gekündigt.<footnotecall number="66" fnid="fn67" /></p>
+					<p align="justify">Im Übrigen hat die Swissgrid am 26. Februar 2021 Nichtigkeitsklage gegen einen Beschluss der Europäischen Kommission beim Gericht der Europäischen Union (EuG) eingereicht. Gemäss diesem Beschluss ist sie nicht qualifiziert, um an europäischen Plattformen für den Austausch von Standardprodukten für Regelarbeit teilzunehmen, was zu einem Ausschluss aus dem <i>Trans European Replacement Reserves Exchange</i> (Transeuropäischer Austausch von Ersatzreserven) führt. Dies ist für die Netzstabilität von Bedeutung.<footnotecall number="67" fnid="fn68" /></p>
+					<title level="3" type="text"><number>4.</number>Agrarabkommen</title>
+					<p align="justify">Auch im Agrarabkommen<footnotecall number="68" fnid="fn69" /> ist die Aufdatierung nicht gewährleistet, da die EU ihre Regeln zur Tiergesundheit geändert und Massnahmen zur Erhaltung der Pflanzengesundheit sowie der Qualität von Futtermitteln und Saatgut aufdatiert hat. Dies bedürfte nach der Antwort des Bundesrats auf eine Interpellation einer Aufdatierung der Anhänge 4–6 (Pflanzengesundheit, Futtermittel und Saatgut) sowie Anhang 11 (Tiergesundheit) des Agrarabkommens.<footnotecall number="69" fnid="fn70" /></p>
+					<title level="3" type="text"><number>5.</number>Galileo</title>
+					<p align="justify">Weiter blockiert sind die Aufdatierungen bei Galileo. Ein Abkommensentwurf für die Teilnahme am Europäischen globalen Navigationssatellitensystem GNSS liegt seit dem 14. März 2019 vor.<footnotecall number="70" fnid="fn71" /></p>
+					<title level="3" type="text"><number>6.</number>Gesundheitsabkommen</title>
+					<p align="justify">Nachdem im Jahr 2018 auf technischer Ebene ein Entwurf erarbeitet worden war, haben im Herbst 2020 Gespräche über ein Gesundheitsabkommen stattgefunden, namentlich in Bezug auf grenzüberschreitende Gesundheitsdienstleistungen oder aber die Besprechungen im Nachgang zu COVID 19. Der Abschluss eines Abkommens wurde mit dem Rahmenabkommen verknüpft.<footnotecall number="71" fnid="fn72" /> Immerhin wurden die Schweizer COVID-Zertifikate als gleichwertig anerkannt.<footnotecall number="72" fnid="fn73" /></p>
+					<title level="3" type="text"><number>7.</number>Zwischenfazit</title>
+					<p align="justify">Zusammengefasst ist die Aufdatierung bei den Abkommen, an denen die EU ein Interesse an der Parallelität der Rechtsordnungen hat, namentlich dem LuftVA, unproblematisch. Dagegen fehlen in vielen bilateralen Abkommen Aktualisierungen. Diese fehlenden Aufdatierungen führen mittel- bis langfristig zu einem Wettbewerbsnachteil für die Schweizer Wirtschaftsakteure. Dies gilt offensichtlich ungeachtet äquivalenter Bestimmungen im Schweizer Recht, da eine einseitige Regelung eine gegenseitige Anerkennung i.d.R. nicht zu ersetzen vermag.</p>
+					<p><anchor type="page" value="166" /></p>
+					<title level="2" type="text"><number>C.</number>Institutionelle Probleme der bilateralen Abkommen bei der Aufdatierung</title>
+					<title level="3" type="text"><number>1.</number>Zuständigkeit zur Aufdatierung</title>
+					<p align="justify">Für die Aufdatierung der Abkommen zwischen der Schweiz und der EU bedarf es nach dem zuvor Gesagten entweder eines Beschlusses des jeweiligen Gemischten Ausschusses oder aber einer Revision des jeweiligen Abkommens. Es handelt sich dabei innerstaatlich um den Abschluss eines völkerrechtlichen Vertrags. Damit ist i.d.R. der Bundesrat zuständig für die Verhandlungen, die Annahme des Vertragstextes und die Ratifikation, hat diesen aber der Bundesversammlung zur Genehmigung zu unterbreiten.<footnotecall number="73" fnid="fn74" /> Er kann diese Kompetenz – je nach Tragweite – auch an ein Departement oder an ein Bundesamt delegieren.<footnotecall number="74" fnid="fn75" /> Typisch für die Gemischten Ausschüsse ist, dass diese aus Vertreterinnen und Vertretern der Schweiz und der EU bestehen, welche ihre Beschlüsse nur einstimmig fassen können. Im FZA käme dem Gemischten Ausschuss zudem die Kompetenz zu, die verbindliche Rechtsprechung des EuGH festzulegen, was aber in der Praxis noch nie vorgekommen ist.<footnotecall number="75" fnid="fn76" /> Üblicherweise beschliessen die Gemischten Ausschüsse die Übernahme von EU-Recht im jeweiligen Abkommen. Teilweise ist ein Gesetz zur Umsetzung notwendig, etwa im Bereich der Diplomanerkennung das BGMD<footnotecall number="76" fnid="fn77" />. Gewisse Abkommen zwischen der Schweiz und der EU sowie allenfalls ihren Mitgliedsstaaten verlangen dagegen nur den Erlass gleichwertiger Gesetzgebung.<footnotecall number="77" fnid="fn78" /></p>
+					<title level="3" type="text"><number>2.</number>Zwischenfazit</title>
+					<p align="justify">Die heutigen Institutionen der bilateralen Abkommen sind im Falle einer Pattsituation i.d.R. nicht in der Lage, die Situation mittels einer verbindlichen Entscheidung zu entschärfen. Die Gemischten Ausschüsse sind für ihre Beschlussfassung auf Einstimmigkeit angewiesen. Zudem handelt es sich nicht um unabhängige Gremien, sondern es sind weisungsgebundene Vertreter und Vertreterinnen der Bundesverwaltung. Sehr trefflich wurden die bilateralen Abkommen in Bezug auf ihre institutionellen Vorgaben deshalb als <i>«fair weather construction»</i> bezeichnet.<footnotecall number="78" fnid="fn79" /></p>
+					<title level="2" type="text"><number>D.</number>Lösungsskizzen für die Probleme der bilateralen Abkommen bei der Aufdatierung</title>
+					<title level="3" type="text"><number>1.</number>Entwurf für ein Rahmenabkommen</title>
+					<p align="justify">Aktuell funktioniert die Aufdatierung der bilateralen Abkommen nicht oder nicht zeitnah. Eine mögliche Lösung, um die Aufdatierung sicherzustellen, wäre sicherlich das institutionelle Rahmenabkommen gewesen. Art. 5 i.V.m. Art. 2 des Rahmenabkommens hätte für die davon erfassten Marktzugangsabkommen eine Übernahmepflicht eingeführt<footnotecall number="79" fnid="fn80" />.<footnotecall number="80" fnid="fn81" /> Nach Art. 9 des Rahmenabkommens hätten sich die Schweiz und die EU verpflichtet, namentlich bei Streitigkeiten über die Anwendung oder Auslegung der betroffenen Abkommen diese ausschliesslich dem Streitbeilegungsmechanismus zu unterstellen. Art. 10 des Rahmenabkommens regelt konkret den Streitschlichtungsmechanismus. Die Parteien hätten bei Streitigkeiten im Zusammenhang mit der Auslegung oder Anwendung des Rahmenabkommens oder den davon erfassten Marktzugangsabkommen die Sache dem entsprechenden sektoriellen Gemischten Ausschuss vorlegen können. Bei Unstimmigkeiten im sektoriellen Ausschuss hätte eine Vertragspartei nach drei Monaten das Schiedsgericht anrufen können, welches wiederum dem EuGH Fragen zur Auslegung von EU-Recht hätte vorlegen können.<footnotecall number="81" fnid="fn82" /> Wäre die Übernahmepflicht durch das Schiedsgericht bestätigt worden, so hätte die dauerhafte Verweigerung der Schweiz zur Aufdatierung ernsthafte Folgen haben können. In einem solchen Fall wären der EU allenfalls Ausgleichsmassnahmen bis hin zur teilweisen oder vollständigen Suspendierung des betroffenen Abkommens zugestanden.<footnotecall number="82" fnid="fn83" /> Diese hätten wiederum vom Schiedsgericht auf ihre Verhältnismässigkeit überprüft werden können.<footnotecall number="83" fnid="fn84" /></p>
+					<p align="justify">Einschränkend muss dazu gesagt werden, dass der Streitschlichtungsmodus unter dem Rahmenabkommen nicht von Privaten oder Schweizer Gerichten hätte angerufen werden können. Zu Recht haben deshalb einige <anchor type="page" value="167" />Autoren vermutet, dass das Schiedsgericht und folglich auch der EuGH nur selten angerufen worden wären.<footnotecall number="84" fnid="fn85" /> Diese Annahme ist einleuchtend, wenn man bedenkt, dass es für eine gute Zusammenarbeit darauf ankommt, nur die politisch bedeutsamen Fragen zu klären.<footnotecall number="85" fnid="fn86" /> Dies bedeutet aber auch, dass juristisch wichtige Fragen mangels politischer Relevanz wohl nie geklärt worden wären.</p>
+					<p align="justify">Auch mit dem Rahmenabkommen hätte eine Aufdatierung mitunter sehr lange dauern können. So hätte es wegen eines Referendums bis zur Umsetzung drei Jahre länger dauern können.<footnotecall number="86" fnid="fn87" /> Kommt hinzu, dass ein allfälliges Schiedsgerichtsverfahren und ein allfälliges Verfahren vor dem EuGH wegen Unstimmigkeiten bei der Übernahme von EU-Recht allenfalls Jahre hätte dauern können.</p>
+					<title level="3" type="text"><number>2.</number>Exkurs zur Aufdatierung des EWR-<i>acquis</i></title>
+					<p align="justify">Oft wird der EWR oder aber ein Andocken an EWR-Institutionen als Beispiel für eine mögliche Form der europäischen Integration genannt.<footnotecall number="87" fnid="fn88" /> Festzuhalten ist, dass auch im EWR die Handlungsfreiheiten bei der Aufdatierung beschränkt sind, da die Homogenität der Rechtsordnungen das erklärte Ziel ist.<footnotecall number="88" fnid="fn89" /> Der EWR-Ausschuss entscheidet über die Aufnahme von neuem EU-Recht.<footnotecall number="89" fnid="fn90" /> Verweigert eine Partei die Übernahme, so kann dies zur Aussetzung des Abkommens führen, was aber noch nie passiert ist, da die EWR/EFTA-Staaten sowie die EU am Funktionieren des EWR-Abkommens interessiert sind.<footnotecall number="90" fnid="fn91" /> Dennoch konnte auch im EWR ein <i>Backlog,</i> d.h. ein Rückstand, bei der Aufdatierung festgestellt werden.<footnotecall number="91" fnid="fn92" /> Durchschnittlich dauerte es etwa ein Jahr länger, bis EU-Recht in den EWR-<i>acquis</i> übernommen wurde; in Einzelfällen dauerte es auch fünf Jahre länger. Die Europäische Kommission vermerkte, dass dies zu Wettbewerbsvorteilen für Anbieter in den EWR/EFTA-Staaten führen könnte.<footnotecall number="92" fnid="fn93" /> Diese Argumentation entspricht etwa auch derjenigen im Verhältnis Schweiz–EU zur Aufdatierung, nämlich der Schaffung eines sog. <i>Level Playing Field.</i><footnotecall number="93" fnid="fn94" /></p>
+					<title level="1" type="text"><number>III.</number>Beispiel: Nichtaufdatierung von Anhang III FZA: Diplomanerkennung Schweiz–EU</title>
+					<title level="2" type="text"><number>A.</number>Einleitung</title>
+					<p align="justify">Die Aufdatierung von Anhang III FZA zur Diplomanerkennung ist – soweit ersichtlich – nicht umstritten. Nach <a href="https://www.fedlex.admin.ch/eli/cc/2002/243/de#a9"><?link  id="496daeb4-7bde-488c-8611-71c8f440d4a1" type="law" art="9" law="FZA"?>Art. 9 FZA<?end_link ?></a> treffen die Vertragsparteien die erforderlichen Massnahmen zur gegenseitigen Anerkennung der Diplome. Anhang III FZA verweist auf die jeweils gültigen Erlasse für die Diplomanerkennung Schweiz– EU. Zu den einschlägigen Erlassen gehören u.a. die folgenden EU-Richtlinien:</p>
+					<ul>
+						<li><bullet>■</bullet>die EU-Berufsanerkennungsrichtlinie<footnotecall number="94" fnid="fn95" /> (für die meisten Berufe, etwa Ärzte, Optiker, Architekten),</li>
+						<li><bullet>■</bullet>die EU-Niederlassungsrichtlinie für Anwälte<footnotecall number="95" fnid="fn96" />,</li>
+						<li><bullet>■</bullet>die EU-Dienstleistungsrichtlinie für Anwälte<footnotecall number="96" fnid="fn97" />,</li>
+						<li><anchor type="page" value="168" /></li>
+						<li><bullet>■</bullet>die alte EU-Anerkennungsrichtlinie für Hochschuldiplome<footnotecall number="97" fnid="fn98" /> (abgelöst durch die EU-Berufsanerkennungsrichtlinie) mittels Verweises in der EU-Anwaltsniederlassungsrichtlinie.</li>
+					</ul>
+					<p align="justify">Die regelmässige Aufdatierung von Anhang III FZA ist primär notwendig für die Aktualisierung der automatisch zu anerkennenden Diplome gemäss dem automatischen Anerkennungssystem gemäss den Anhängen V und VI FZA. Dies betrifft massgeblich die Ärzte für ihr Arztdiplom sowie ihre Weiterbildungsdiplome und die Gesundheitsfachpersonen. Daneben geht es auch in einem geringeren Masse um die Architekten.<footnotecall number="98" fnid="fn99" /> Allerdings ist der Beruf des Architekten ohnehin nur in sechs Kantonen reglementiert,<footnotecall number="99" fnid="fn100" /> weshalb die praktische Bedeutung in der Schweiz für diesen Beruf nicht derart gross ist.</p>
+					<title level="2" type="text"><number>B.</number>Fehlende Aufdatierung der EU-Berufs­anerkennungsrichtlinie im Verhältnis Schweiz–EU</title>
+					<p align="justify">Bereits die ursprüngliche Einführung der EU-Berufsanerkennungsrichtlinie wurde 2011 beschlossen,<footnotecall number="100" fnid="fn101" /> aber erst 2013 definitiv umgesetzt,<footnotecall number="101" fnid="fn102" /> nachdem die Mitgliedsstaaten diese bis zum 20. Oktober 2007 umzusetzen hatten.<footnotecall number="102" fnid="fn103" /> Auch aktuell verzögert sich die Aufdatierung der EU-Berufsanerkennungsrichtlinie. Diese Verzögerung war vor allem dem Umstand geschuldet, dass die EU wegen der Annahme der Masseneinwanderungsinitiative die Aufdatierung bestimmter Dossiers verzögerte.<footnotecall number="103" fnid="fn104" /> Dagegen ist die fehlende Aufdatierung nicht mit dem Rahmenabkommen verknüpft.<footnotecall number="104" fnid="fn105" /></p>
+					<p align="justify">Ausstehend sind die Änderungen der EU-Änderungsrichtlinie zur IMI-Verordnung<footnotecall number="105" fnid="fn106" /> und EU-Verhältnismässigkeitsrichtlinie<footnotecall number="106" fnid="fn107" />. Die Aufdatierung der EU-Änderungsrichtlinie zur IMI-Verordnung benötigt im Verhältnis Schweiz–EU wieder sehr viel Zeit, obschon sie in der EU bis am 18. Januar 2016 von den Mitgliedsstaaten umzusetzen war.<footnotecall number="107" fnid="fn108" /> Die nächste, bereits überfällige Aufdatierung von Anhang III FZA sollte demnächst in der Vernehmlassung sein. Ziel der Anpassung ist die Modernisierung der Regelungen zur Anerkennung von Berufsqualifikationen, um sie mit dem EU-Recht in Einklang zu bringen. Die wichtigsten Neuerungen der EU-Änderungsrichtlinie zur IMI-Verordnung sind die Teilnahme der Schweiz am «IMI» (<i>Internal Market Information System</i> [Binnenmarkt-Informationssystem]; Online-Portal für den Austausch zwischen Behörden), die Digitalisierung des Anerkennungsverfahrens <i>(European Professional Card)</i> sowie der Vorwarnmechanismus über Berufsausübungsverbote und -beschränkungen für Berufe im Gesundheitswesen und für bestimmte erzieherische Berufe.<footnotecall number="108" fnid="fn109" /> Neben technischen Anpassungen beschlagen diese Änderungen auch kodifizierte Konzepte der Rechtsprechung des EuGH, namentlich das Konzept der partiellen Anerkennung.<footnotecall number="109" fnid="fn110" /> Daneben werden auch Klarstellungen eingefügt, etwa zum Beruf des Notars.<footnotecall number="110" fnid="fn111" /></p>
+					<p><anchor type="page" value="169" /></p>
+					<title level="2" type="text"><number>C.</number>Fehlende Aufdatierung der EU-Berufs­anerkennungsrichtlinie in der EU</title>
+					<p align="justify">Auch innerhalb der EU werden die Richtlinien nicht immer schnellstmöglich aufdatiert. In der EU wurde etwa die EU-Niederlassungsrichtlinie für Anwälte zwar mit dem Beitritt neuer EU-Mitgliedsstaaten aufdatiert. Sie verweist jedoch für die Anerkennung (nach drei Jahren der Berufstätigkeit oder mittels Eignungsprüfung) auf die alte EU-Anerkennungsrichtlinie für Hochschuldiplome, d.h. auf eine der Vorgängerrichtlinien zur EU-Berufsanerkennungsrichtlinie.<footnotecall number="111" fnid="fn112" /> Dies ist allerdings aufgrund der besonderen Regelungen der EU-Niederlassungsrichtlinie für Anwälte nicht gross von Bedeutung. So ist etwa die Anerkennung von Drittstaatsdiplomen bzw. die Anerkennung der Anerkennung eines Drittstaatsdiplomes unter der (aufgehobenen) EU-Anerkennungsrichtlinie für Hochschuldiplome bzw. EU-Berufsanerkennungsrichtlinie oder subsidiär unter dem Primärrecht deutlich komplexer als unter der EU-Niederlassungsrichtlinie für Anwälte.<footnotecall number="112" fnid="fn113" /> Unter der EU-Niederlassungsrichtlinie für Anwälte handelt es sich dagegen vereinfacht ausgedrückt um eine Anerkennung nach Titel.<footnotecall number="113" fnid="fn114" /> Eine EU-Staatsangehörige oder eine Schweizerin, die einen in der Richtlinie aufgeführten Titel trägt, profitiert somit grundsätzlich von der Freizügigkeit unter der Berufsbezeichnung des Herkunftsstaats. Dies verdeutlicht ein anschauliches Beispiel des Verwaltungsgerichts des Kantons Zürich. Ein spanischer Staatsangehöriger hatte sein Studium sowie sein Anwaltspatent ursprünglich in Venezuela erlangt, war aber (vermutlich) in Spanien ohne weitere Prüfung als Anwalt <i>(«Abogado»)</i> nach den dazumal gültigen Regeln zugelassen. Der Sachverhalt war in dieser Hinsicht nicht klar, weshalb das Verwaltungsgericht die Sache zu weiteren Abklärungen zurückwies. Entscheidend ist aber, dass der in der Richtlinie für Spanien aufgeführte Titel <i>«Abogado»</i> die Niederlassung als EU-Anwalt in der Schweiz erlaubt, unabhängig davon, wie der formale Teil der Ausbildung absolviert wurde, d.h. sogar in einem Drittstaat.<footnotecall number="114" fnid="fn115" /></p>
+					<title level="2" type="text"><number>D.</number>Nachträgliche Präzisierung von Richtlinien für die Notare</title>
+					<title level="3" type="text"><number>1.</number>Rechtsprechung des EuGH zu den Notaren</title>
+					<p align="justify">Bei der Aufdatierung von EU-Recht handelt es sich teilweise nur um Kodifikationen der Rechtsprechung. Als Beispiel für eine solche Kodifikation der EU-Berufsanerkennungsrichtlinie sei auf die Urteile des EuGH zu dem Beruf des Notars hingewiesen. Der EuGH hat in einer Reihe von Urteilen aufgrund der Entstehungsgeschichte der aufgehobenen EU-Anerkennungsrichtlinie für Hochschuldiplome sowie der EU-Berufsanerkennungsrichtlinie entschieden, dass der Beruf des Notars nicht unter diese Richtlinien fällt.<footnotecall number="115" fnid="fn116" /> Die EU hat später mit der EU-Änderungsrichtlinie zur IMI-Verordnung diese Rechtsprechung kodifiziert. Notare sind nun ausdrücklich vom Anwendungsbereich der EU-Berufsanerkennungsrichtlinie ausgenommen.<footnotecall number="116" fnid="fn117" /> Nichtsdestotrotz fällt die Freizügigkeit von Notaren nach den Urteilen des EuGH unter das Primärrecht, d.h., die Grundfreiheiten sind grundsätzlich anwendbar.<footnotecall number="117" fnid="fn118" /> Eine hoheitliche Tätigkeit wird bei Notaren angesichts der Rechtsprechung des EuGH i.d.R. nicht vorliegen.<footnotecall number="118" fnid="fn119" /></p>
+					<title level="3" type="text"><number>2.</number>Rechtslage im <i>acquis suisse</i> zu den Notaren</title>
+					<p align="justify">Unklar ist die Rechtslage für Notare im Verhältnis Schweiz–EU. Klar erscheint, dass eine hoheitliche Tätigkeit i.d.R. zu verneinen ist, da das Bundesgericht der Rechtsprechung des EuGH folgt.<footnotecall number="119" fnid="fn120" /> Für die Anwendbarkeit der Freizügigkeit gibt es zwei mögliche Rechtsgrundlagen: Erstens kann argumentiert werden, dass der Beruf unter die EU-Berufsanerkennungsrichtlinie fällt, da die EU-Berufsanerkennungsrichtlinie – entgegen eines Urteils des Verwaltungsgerichts des Kantons Aargau – vor der Aktualisierung angewendet wird. Für die Anwendbarkeit der revidierten EU-Berufsanerken-<anchor type="page" value="170" />nungsrichtlinie bedürfte es eines Beschlusses des Gemischten Ausschusses Schweiz–EU.<footnotecall number="120" fnid="fn121" /> Allerdings ist der Rechtsprechung des EuGH aufgrund der Homogenitätsregel von <a href="https://www.fedlex.admin.ch/eli/cc/2002/243/de#a16"><?link  id="2fe32ed2-7df4-4141-a566-e19d880b6342" type="law" art="16" par="2" law="FZA"?>Art. 16 Abs. 2 FZA<?end_link ?></a> auch nach dem Stichdatum zu folgen, ausser bei Vorliegen triftiger Gründe. Kommt eine Anerkennung nach dem Sekundärrecht nicht zustande, wäre eine Anerkennung allerdings nach den Bestimmungen des Primärrechts zu prüfen. So oder aber anders kann sich ein Notar somit auf die Freizügigkeit Schweiz–EU berufen. Dies wurde auch explizit von der Wettbewerbskommission (WEKO) festgehalten.<footnotecall number="121" fnid="fn122" /> Bei der Anwendbarkeit von Primärrecht ist einzig anzufügen, dass unklar bleibt, ob auch Beschränkungen unter das FZA fallen.<footnotecall number="122" fnid="fn123" /> Die Frage, ob eine Anerkennung im Verhältnis Schweiz–EU auch ausserhalb des Richtlinienrechts möglich ist, wurde von den Gerichten dogmatisch nie geklärt, wird aber vom Bundesgericht wohl akzeptiert.<footnotecall number="123" fnid="fn124" /> Irrelevant für diesen Fall (der Niederlassungsfreiheit) ist schliesslich, ob die Umsetzung in der VMD<footnotecall number="124" fnid="fn125" /> verfassungskonform ist, da diese erstens nur für Dienstleistungen relevant ist und zweitens die Bestimmungen der über die Niederlassungsfreiheit in der Schweiz i.d.R. <i>Self-Executing</i> sind.<footnotecall number="125" fnid="fn126" /> Somit kann auch für das FZA gesagt werden, dass im Ergebnis die Freizügigkeit von Notaren auch im Verhältnis Schweiz–EU zur Anwendung gelangt.<footnotecall number="126" fnid="fn127" /> Abschliessend ist zu erwähnen, dass diese Fragen auch Reflexwirkung auf die interkantonale Anerkennung von Notariatsausweisen zeitigen. Denn <a href="https://www.fedlex.admin.ch/eli/cc/1996/1738_1738_1738/de#a4bis"><?highlight_link  art="4bis" type="law" id="8db57f9b-6ac8-4684-b7b4-134b2f77cca8" law="BGBM"?>Art. 4<sup>bis</sup> des Binnenmarktgesetzes<?end_highlight_link ?></a> (BGBM)<footnotecall number="127" fnid="fn128" /> verweist auf die Diplomanerkennung nach dem bilateralen Recht. Diese interkantonale Mehrebene erhöht die Komplexität zusätzlich.<footnotecall number="128" fnid="fn129" /></p>
+					<title level="2" type="text"><number>E.</number>Zwischenfazit</title>
+					<p align="justify">Das EU-Richtlinienrecht wird im Bereich der Diplomanerkennung im Verhältnis Schweiz–EU nicht zeitnah aktualisiert. Dies führt zu erhöhter Komplexität bei der Auslegung, obschon die Anwendung des Richtlinienrechts bereits anspruchsvoll ist, wie die Rechtsprechung zeigt. Bestimmte unbedeutende Aktualisierungen fehlen selbst im Unionsrecht. Bei den Notaren wurde eine klarstellende Ergänzung in der EU-Änderungsrichtlinie zur IMI-Verordnung eingefügt, nachdem sich der EuGH bereits vielfach damit beschäftigt hatte. Allerdings ist zum Teil nicht einmal klar, welche Konzepte des EU-Rechts im FZA enthalten sind. Die Übernahme der EU-Änderungsrichtlinie zur IMI-Verordnung würde zumindest für das Konzept der partiellen Anerkennung für mehr Rechtssicherheit sorgen. Dagegen bleibt die Freizügigkeit von Notaren auch bei einer Aufdatierung bis zu einem höchstrichterlichen Entscheid weiterhin ungeklärt.</p>
+					<title level="1" type="text"><number>IV.</number>Schluss</title>
+					<p align="justify">Die Vorteile der regelmässigen Aufdatierung liegen in der Rechtssicherheit, der Transparenz und einem <i>Level Playing Field</i> zwischen der Schweiz und der EU. Zudem zeitigen fehlende Aufdatierungen grosse volkswirtschaftliche Schäden, namentlich die aktuell fehlenden Aufdatierungen in den Bereichen Strom oder Medizinalprodukte. Das Problem wurde auch vom Bund erkannt, welcher nebst Verhandlungen die Möglichkeiten des autonomen Nachvollzugs sondieren möchte. Augenscheinlich ist, dass weder der autonome Nachvollzug, die Rechtsvergleichung noch die parallele Auslegung der Gerichte die Aufdatierung von EU-Recht zu ersetzen vermögen. Nur durch eine rasche Übernahme von EU-Recht kann eine parallele Rechtsordnung und eine Homogenität erreicht werden, ohne dass sich die Gerichte äusserst schwierige Rechtsfragen stellen müssen, wie sich etwa am Beispiel der Notare gezeigt hat. Die Parteien hätten im Bereich des FZA Gelegenheit gehabt, mittels eines Beschlusses des Gemischten Ausschusses für Klarheit in der einschlägigen Rechtsprechung zu sorgen. Dies haben sie aber bisher unterlassen und überlassen es bei vielen Fragen den Gerichten, diese im Einzelfall zu klären. Dazu passt auch, dass die Rezeption von EU-Recht oft unbemerkt im technischen Bereich oder über das <i>Soft Law</i> erfolgt. Ausserdem sind grundlegende Konzepte des EU-Rechts in den bilateralen Abkommen ungeklärt. Gerade deshalb wäre ein klares Bekenntnis des Gesetzgebers dazu, welche Konzepte übernommen werden, von grossem Vorteil für die Rechtssicherheit.</p>
+					<p><anchor type="page" value="171" /></p>
+					<p align="justify">Die dynamische Rechtsübernahme und die Rezeption von EU-Recht sind nicht nur von Vorteil. Diesbezüglich besteht die Gefahr eines demokratischen Defizits, welches aber auch schon im bisherigen bilateralen Weg bestand. Hinzu kommt, dass die Aufdatierungen nicht rein rechtlich motiviert sind, sondern zum Teil auch einem politischen Prozess folgen, wie etwa die flankierenden Massnahmen (sog. roten Linien) bei den Verhandlungen zum Rahmenabkommen. Ungeachtet aller rechtlicher Probleme bleibt es letztlich eine politische Frage, ob die Schweiz Zugang zum Binnenmarkt wünscht. Sofern sie gewillt ist, Zugang zu diesem zu erhalten, ist die dynamische Aufdatierung von EU-Recht ein Teil des Preises dafür. Daran vermag weder die freiwillige Rezeption von EU-Recht noch die Zahlung von Kohäsionsbeiträgen etwas zu ändern.</p>
+				</text>
+				<footnotes>
+					<fn number="*" id="fn1">
+						<p align="justify">Dr. Joel Günthardt, LL.M., Rechtsanwalt, ist Gerichtsschreiber am Bundesverwaltungsgericht in St. Gallen. Zudem ist er Lehrbeauftragter für Bundesstaatsrecht an der Universität St. Gallen.</p>
+					</fn>
+					<fn number="1" id="fn2">
+						<p align="justify">Vgl. <i>Bundesrat,</i> Schreiben an Ursula von der Leyen vom 26. Mai 2021 betr. <i>Accord institutionnel entre la Suisse et l’Union européenne,</i> &lt;<a href="https://www.eda.admin.ch/content/dam/europa/fr/documents/abkommen/20210526-brief-BR-vdL-InstA_FR.pdf">https://​www.eda.admin.ch​/​content/​dam/​europa/​fr/​documents/​abkommen/​20210526-​brief-​BR-​vdL-​InstA_​FR.pdf</a>&gt; (zuletzt besucht am 16.12.2021).</p>
+					</fn>
+					<fn number="2" id="fn3">
+						<p align="justify">Vizepräsident der Europäischen Kommission Maroš Šefčovič an der Plenartagung des Europäischen Parlaments zur Zukunft der Beziehungen zwischen der EU und der Schweiz vom 23.6.2021 (<i>Europäische Kommission,</i> Pressemitteilung vom 23.6.2021 betr. <i>Vice-President Maroš</i> Šefčovič <i>at the European Parliament Plenary Session on the Future of EU-Swiss Relations,</i> &lt;<a href="https://ec.europa.eu/commission/presscorner/detail/fr/speech_21_3174">https://​ec.europa.eu​/​commission/​presscorner/​detail/​fr/​speech_​21_​3174</a>&gt; [zuletzt besucht am 16.12.2021]).</p>
+					</fn>
+					<fn number="3" id="fn4">
+						<p align="justify"><i>Matthias Oesch,</i> Schweiz – Europäische Union: Grundlagen, Bilaterale Abkommen, Autonomer Nachvollzug, Zürich 2020, Rz. 101.</p>
+					</fn>
+					<fn number="4" id="fn5">
+						<p align="justify"><i>Bundesrat,</i> Antwort vom 11.6.2021 auf die Interpellation Nr. 21.3516, &lt;<a href="https://www.parlament.ch/centers/documents/de/cv-2021-3516-d.pdf">https://www.parlament.ch/centers/documents/de/cv-2021-3516-d.pdf</a>&gt; (zuletzt besucht am 16.12.2021).</p>
+					</fn>
+					<fn number="5" id="fn6">
+						<p align="justify"><i>Rat der Europäischen Union,</i> Schlussfolgerungen des Rates zu den Beziehungen zwischen der EU und den EFTA-Ländern vom 14. Dezember 2010, Rz. 48 f.</p>
+					</fn>
+					<fn number="6" id="fn7">
+						<p align="justify"><i>Schweizerische Eidgenossenschaft,</i> Erläuterungen zum Institutionellen Abkommen Schweiz – EU vom 16. Januar 2019, &lt;<a href="https://www.eda.admin.ch/content/dam/europa/de/documents/abkommen/InstA-Erlaeuterungen_de.pdf">https://www.eda.admin.ch/content/dam/europa/de/documents/abkommen/InstA-Erlaeuterungen_de.pdf</a>&gt; (zuletzt besucht am 16.12.2021) 2.</p>
+					</fn>
+					<fn number="7" id="fn8">
+						<p align="justify">Vgl. die Pressemitteilung zum Treffen von Vizepräsident Maroš Šefčovič der Europäischen Kommission und Bundesrat Ignazio Cassis (<i>Europäische Kommission,</i> Pressemitteilung vom 15.11.2021 betr. <i>Press remarks by Vice-President</i> Šefčovič <i>following his meeting with Ignazio Cassis,</i> &lt;<a href="https://ec.europa.eu/commission/presscorner/detail/de/speech_21_6043">https://ec.europa.eu/commission/presscorner/detail/de/speech_21_6043</a>&gt; [zuletzt besucht am 16.12.2021]).</p>
+					</fn>
+					<fn number="8" id="fn9">
+						<p align="justify">Siehe nachfolgend II.A.1.</p>
+					</fn>
+					<fn number="9" id="fn10">
+						<p align="justify">Siehe nachfolgend II.A.2.</p>
+					</fn>
+					<fn number="10" id="fn11">
+						<p align="justify">Siehe nachfolgend II.A.3. und II.A.4.</p>
+					</fn>
+					<fn number="11" id="fn12">
+						<p align="justify">Art. 14 Abs. 3 des Entwurfs des Rahmenabkommens bzw. des Institutionellen Abkommens Schweiz–EU vom 7. Dezember 2018 (zit. E-InstA), &lt;<a href="https://www.eda.admin.ch/content/dam/europa/de/documents/abkommen/Acccord-inst-Projet-de-texte_de.pdf">https://www.eda.admin.ch/content/dam/europa/de/documents/abkommen/Acccord-inst-Projet-de-texte_de.pdf</a>&gt; (zuletzt besucht am 16.12.2021).</p>
+					</fn>
+					<fn number="12" id="fn13">
+						<p align="justify"><i>Matthias Oesch,</i> Switzerland-EU Bilateral Agreements, the Incorporation of EU Law and the Continuous Erosion of Democratic Rights, Yearbook of European Law 2019, 1 ff., 5.</p>
+					</fn>
+					<fn number="13" id="fn14">
+						<p align="justify">Richtlinie 2017/853/EU des Europäischen Parlaments und des Rates vom 17. Mai 2017 zur Änderung der Richtlinie 91/477/EWG des Rates über die Kontrolle des Erwerbs und des Besitzes von Waffen (zit. EU-Waffenrichtlinie), ABl. L 137 vom 24.5.2017, 22.</p>
+					</fn>
+					<fn number="14" id="fn15">
+						<p align="justify"><i>Oesch</i> (Fn. 12) 16 f.; <i>Joel Günthardt,</i> Switzerland and the European Union: The implications of the institutional framework and the right of free movement for the mutual recognition of professional qualifications, Zürich/St. Gallen 2021, 60 f.</p>
+					</fn>
+					<fn number="15" id="fn16">
+						<p align="justify">Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Erleichterung der Kontrollen und Formalitäten im Güterverkehr und über zollrechtliche Sicherheitsmassnahmen vom 25. Juni 2009 (SR 0.631.242.05) (zit. ZollA).</p>
+					</fn>
+					<fn number="16" id="fn17">
+						<p align="justify"><?link  id="ebbae3d7-c366-4acd-bc38-a813f01ba95e" type="law" art="29" par="2" law="ZollA"?>Art. 29 Abs. 2 ZollA<?end_link ?>.</p>
+					</fn>
+					<fn number="17" id="fn18">
+						<p align="justify"><i>Christa Tobler/Jacques Beglinger,</i> Brevier zum institutionellen Abkommen Schweiz–EU vom 2.5.2021, &lt;<a href="http://www.eur-charts.eu/books/institutional-negotiations-ch-eu/">http://www.eur-charts.eu/books/institutional-negotiations-ch-eu/</a>&gt; (zuletzt besucht am 16.12.2021) Frage 32.</p>
+					</fn>
+					<fn number="18" id="fn19">
+						<p align="justify">Vgl. <i>Matthias Oesch,</i> Die bilateralen Abkommen Schweiz – EU und die Übernahme von EU-Recht, AJP 2017 638 ff., 640 f.</p>
+					</fn>
+					<fn number="19" id="fn20">
+						<p align="justify">Abkommen zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (FZA) vom 21. Juni 1999 (SR 0.142.112.681).</p>
+					</fn>
+					<fn number="20" id="fn21">
+						<p align="justify"><i>Christa Tobler,</i> Wie weiter mit dem Institutionellen Abkommen?, Varianten zum Umgang mit den drei heiklen Punkten, Jusletter vom 20.1.2020, Fn. 56; <i>Astrid Epiney/Sian Affolter,</i> Das Institutionelle Abkommen und die Unionsbürgerrichtlinie, Jusletter 11.3.2019, Rz. 23.</p>
+					</fn>
+					<fn number="21" id="fn22">
+						<p align="justify">Art. 5 und Art. 12 ff. E-InstA; <i>Oesch</i> (Fn. 12) 34; vgl. zum Ganzen <i>Epiney/Affolter</i> (Fn. 20) Rz. 24 ff.</p>
+					</fn>
+					<fn number="22" id="fn23">
+						<p align="justify">Art. 13 Abs. 1 E-InstA.</p>
+					</fn>
+					<fn number="23" id="fn24">
+						<p align="justify">Art. 14 Abs. 3 E-InstA.</p>
+					</fn>
+					<fn number="24" id="fn25">
+						<p align="justify">Richtlinie 2014/67/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 zur Durchsetzung der Richtlinie 96/71/EG über die Entsendung von Arbeitnehmern im Rahmen der Erbringung von Dienstleistungen und zur Änderung der Verordnung (EU) Nr. 1024/2012 über die Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-Informationssystems («IMI-Verordnung») (zit. EU-Durchsetzungsrichtlinie), ABl. L 159 vom 28.5.2014, 11.</p>
+					</fn>
+					<fn number="25" id="fn26">
+						<p align="justify">Richtlinie 2018/957/EU des Europäischen Parlaments und des Rates vom 28. Juni 2018 zur Änderung der Richtlinie 96/71/EG über die Entsendung von Arbeitnehmern im Rahmen der Erbringung von Dienstleistungen (zit. EU-Entsenderichtlinie), ABl. L 173 vom 9.7.2018, 16.</p>
+					</fn>
+					<fn number="26" id="fn27">
+						<p align="justify"><i>Schweizerische Eidgenossenschaft</i> (Fn. 6) 12; <i>Bundesrat,</i> Bericht über die Konsultationen zum institutionellen Abkommen zwischen der Schweiz und der Europäischen Union vom 7. Juni 2019, &lt;<a href="https://www.eda.admin.ch/content/dam/europa/de/documents/bericht_konsultationen_insta/BR-Bericht-Konsulationen-InstA-190607_de.pdf">https://​www.eda.admin.ch​/​content/​dam/​europa/​de/​documents/​bericht_​konsultationen_​insta/​BR-​Bericht-​Konsulationen-​InstA-​190607_​de.pdf</a>&gt; (zuletzt besucht am 16.12.2021) 1 ff.; <i>Bundesrat,</i> Bericht betreffend die Verhandlungen über ein institutionelles Abkommen zwischen der Schweiz und der EU vom 26. Mai 2021, &lt;<a href="https://www.eda.admin.ch/content/dam/europa/de/documents/abkommen/20210526-bericht_verhandlungen_institutionelles-Abkommen_ch-eu_DE.pdf">https://​www.eda.admin.ch​/​content/​dam/​europa/​de/​documents/​abkommen/​20210526-​bericht_​verhandlungen_​institutionelles-​Abkommen_​ch-​eu_​DE.pdf</a>&gt; (zuletzt besucht am 16.12.2021) 28 f.</p>
+					</fn>
+					<fn number="27" id="fn28">
+						<p align="justify"><i>Bundesrat,</i> Medienmitteilung vom 30.6.2021 betr. Bundesrat vertieft Analyse der Regelungsunterschiede zur EU, &lt;<a href="https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-84247.html">https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-84247.html</a>&gt; (zuletzt besucht am 16.12.2021); vgl. ferner <i>Simon Hirsbrunner,</i> Überschätzter autonomer Nachvollzug?, Die Pläne des Bundesrats zur Stabilisierung der Beziehungen zur EU, Jusletter vom 22.11.2021, Rz. 2.</p>
+					</fn>
+					<fn number="28" id="fn29">
+						<p align="justify"><i>Bundesrat</i> (Fn. 26) 31.</p>
+					</fn>
+					<fn number="29" id="fn30">
+						<p align="justify">Gl.M. <i>Hirsbrunner</i> (Fn. 27) Rz. 8 ff.</p>
+					</fn>
+					<fn number="30" id="fn31">
+						<p align="justify">BVGer <a href="http://www.bvger.ch/publiws/pub/cache.jsf?displayName=B-5941/2019&amp;decisionDate=2020-2-19"><?link  id="3aa1f904-044b-4caa-a64c-4094a36d848c" type="decision" reference="B-5941/2019" court="BVGer" date="19.2.2020" reference_number="B-5941/2019"?>B-5941/2019<?end_link ?></a> vom 19.2.2020 E. 3.2; vgl. <i>Linda Kubli,</i> Zum Grundsatz der Parallelität im Kartellrecht – eine rechtsvergleichende Auslegung?, AJP 2018 199 ff., 204, 207 mit Hinweisen; kritisch zu den grossen Abweichungen bei der Anwendung des Schweizer und des EU-Kartellrechts: <i>Simon Hirsbrunner,</i> Parallele Auslegung und Anwendung des Schweizer und des EU-Kartellrechts, Das Beispiel des Behinderungsmissbrauchs durch marktbeherrschende Unternehmen, <a href="/link?abbreviation=SJZ-RSJ&amp;year=2020&amp;page=779"><?link  id="ed21cfc1-18d0-43a6-a799-9800f296fc4b" type="journal" journal="SJZ" year="2020" page="779"?>SJZ 2020 779 ff.<?end_link ?></a>, 779; vgl. ferner <i>Oesch</i> (Fn. 3) Rz. 337 ff.</p>
+					</fn>
+					<fn number="31" id="fn32">
+						<p align="justify">Vgl. <a href="https://www.fedlex.admin.ch/eli/cc/2002/243/de#a16"><?link  id="a153f5cc-6543-46a6-aeca-d3b8d54314ab" type="law" art="16" par="2" law="FZA"?>Art. 16 Abs. 2 FZA<?end_link ?></a>; <?link  id="95df2038-f718-49e4-82e5-734ae3b741d3" type="law" art="1" par="2" law="LuftVA"?>Art. 1 Abs. 2 LuftVA<?end_link ?>; Art. 4 Abs. 2 E-InstA.</p>
+					</fn>
+					<fn number="32" id="fn33">
+						<p align="justify">Vgl. <i>Joel Günthardt,</i> Zur Diplomanerkennung im Freizügigkeitsabkommen Schweiz – EU, Ungeklärte Fragen zur primärrechtlichen Diplomanerkennung Schweiz – EU unter Berücksichtigung des institutionellen Rahmenabkommens, Jusletter vom 14.6.2021, Rz. 36.</p>
+					</fn>
+					<fn number="33" id="fn34">
+						<p align="justify">Vgl. hinten III.</p>
+					</fn>
+					<fn number="34" id="fn35">
+						<p align="justify">Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Güter- und Personenverkehr auf Schiene und Strasse (LVA) vom 21. Juni 1999 (SR 0.740.72).</p>
+					</fn>
+					<fn number="35" id="fn36">
+						<p align="justify">Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr (LuftVA) vom 21. Juni 1999 (SR 0.748.127.192.68).</p>
+					</fn>
+					<fn number="36" id="fn37">
+						<p align="justify"><i>Christoph G. Schmutz,</i> Die EU zeigt sich im bilateralen Verhältnis pragmatisch und aktualisiert das Landverkehrsabkommen mit der Schweiz, NZZ vom 5.7.2021.</p>
+					</fn>
+					<fn number="37" id="fn38">
+						<p align="justify"><i>Bundesrat</i> (Fn. 4) 7.</p>
+					</fn>
+					<fn number="38" id="fn39">
+						<p align="justify"><i>Rat der Europäischen Union,</i> Schlussfolgerungen des Rates zu einem homogenen erweiterten Binnenmarkt und den Beziehungen der EU zu nicht der EU angehörenden westeuropäischen Ländern vom 16.12.2014, Rz. 44.</p>
+					</fn>
+					<fn number="39" id="fn40">
+						<p align="justify"><a href="https://www.fedlex.admin.ch/eli/cc/2011/577/fr#a14"><?link  id="e13ba63b-3080-4a90-ab17-767d8f13a0fc" type="law" art="14" law="LVA"?>Art. 14 LVA<?end_link ?></a>; <?link  id="2a3a96d6-aa89-49dd-bf54-ccbceda7d26f" type="law" art="15" par="3" law="LuftVA"?>Art. 15 Abs. 3 LuftVA<?end_link ?>; vgl. <i>Oesch</i> (Fn. 3) Rz. 211.</p>
+					</fn>
+					<fn number="40" id="fn41">
+						<p align="justify"><i>Bundesrat</i> (Fn. 4) 12.</p>
+					</fn>
+					<fn number="41" id="fn42">
+						<p align="justify">Erwägungsgründe 3 und 4 der Verordnung (EU) Nr. 2019/27 der Kommission vom 19. Dezember 2018 zur Änderung der Verordnung (EU) Nr. 1178/2011 zur Festlegung technischer Vorschriften und von Verwaltungsverfahren in Bezug auf das fliegende Personal in der Zivilluftfahrt gemäß der Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates (zit. EU-Durchführungsverordnung), ABl. L 8 vom 10.1.2019, 1.</p>
+					</fn>
+					<fn number="42" id="fn43">
+						<p align="justify">Vgl. Beschluss Nr. 1/2021 des Gemischten Luftverkehrsausschusses Europäische Union/Schweiz, der durch das Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über den Luftverkehr eingesetzt wurde, vom 15. Juli 2021 zur Ersetzung des Anhangs des Abkommens zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über den Luftverkehr, ABl. L 265 vom 26.7.2021, 26.</p>
+					</fn>
+					<fn number="43" id="fn44">
+						<p align="justify">Vgl. <i>EASA,</i> Executive Director Decision 2019/002/R (ED Decision 2019/002/R) vom 28. Januar 2019 und der dazugehörige Anhang I (<i>EASA,</i> Acceptable Means of Compliance [AMC] and Guidance Material [GM] to Part-MED Medical requirements for air crew [Annex I to ED Decision 2019/002/R] vom 28. Januar 2019), &lt;<a href="https://www.easa.europa.eu/document-library/agency-decisions/ed-decision-2019002r">https://www.easa.europa.eu/document-library/agency-decisions/ed-decision-2019 002r</a>&gt; (zuletzt besucht am 16.12.2021).</p>
+					</fn>
+					<fn number="44" id="fn45">
+						<p align="justify"><a href="https://www.fedlex.admin.ch/eli/cc/2012/291/de#a2">Art. 2 Abs. 1 und 2 der Verordnung des UVEK über die europaweit geregelten Ausweise und Berechtigungen für Flugpersonal vom 18. Dezember 2020</a> (SR 748.222.0).</p>
+					</fn>
+					<fn number="45" id="fn46">
+						<p align="justify"><i>Integrationsbüro des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA/EVD)/Direktion für Völkerrecht des EDA/Bundesamt für Justiz des Eidgenössischen Justiz- und Polizeidepartements (EJPD),</i> Aide-mémoire: Kompetenzen und Vorgehen für Beschlüsse der Gemischten Ausschüsse der sektoriellen Abkommen Schweiz-EG vom 6. September 2007, &lt;<a href="https://www.eda.admin.ch/content/dam/europa/fr/documents/publikationen_dea/Aide-m%C3%A9moire-final_fr.pdf">https://www.eda.admin.ch/content/dam/europa/fr/documents/publikationen_dea/Aide-m%C3%A9moire-final_fr.pdf</a>&gt; (zuletzt besucht am 16.12.2021) 7.</p>
+					</fn>
+					<fn number="46" id="fn47">
+						<p align="justify"><i>Europäische Kommission,</i> Group of Coordinators for the Recognition of Professional Qualifications, Directive 2005/36/EC, Frequently Asked Questions (MARKT D/3418/6/2006-EN) (FAQ) Update vom 22. Oktober 2010, &lt;<a href="https://harno.ee/sites/default/files/documents/2021-03/frequently%20asked%20questions.pdf">https://harno.ee/sites/default/files/documents/2021-03/frequently%20asked%20questions.pdf</a>&gt; (zuletzt besucht am 16.12.2021).</p>
+					</fn>
+					<fn number="47" id="fn48">
+						<p align="justify"><i>Europäische Kommission,</i> Von der Koordinatorengruppe gebilligter Verhaltenskodex für die Richtlinie 2005/36/EG über die Anerkennung von Berufsqualifikationen, Nationale Verwaltungspraktiken, die unter die Richtlinie 2005/36/EG fallen (<i>Code of Conduct</i> der Diplomanerkennung), &lt;<a href="https://ec.europa.eu/docsroom/documents/14981?locale=de">https://ec.europa.eu/docsroom/documents/14981?locale=de</a>&gt; (zuletzt besucht am 16.12.2021).</p>
+					</fn>
+					<fn number="48" id="fn49">
+						<p align="justify">BVGer <a href="http://www.bvger.ch/publiws/pub/cache.jsf?displayName=B-6082/2020&amp;decisionDate=2021-10-12"><?link  id="e2daac9c-2c5e-4ef5-aedc-9eea6e469798" type="decision" reference="B-6082/2020" court="BVGer" date="12.10.2021" reference_number="B-6082/2020"?>B-6082/2020<?end_link ?></a> vom 12.10.2021 E. 3.1 und BVGer <a href="http://www.bvger.ch/publiws/pub/cache.jsf?displayName=B-404/2019&amp;decisionDate=2020-12-28"><?link  id="070741a8-56f8-4e6b-bdc7-3885710c34aa" type="decision" reference="B-404/2019" court="BVGer" date="28.12.2020" reference_number="B-404/2019"?>B-404/2019<?end_link ?></a> vom 28.12.2020 E. 4.1.4.</p>
+					</fn>
+					<fn number="49" id="fn50">
+						<p align="justify">Vgl. <i>Matthias Oesch,</i> Die Auslegung und Weiterentwicklung des Freizügigkeitsabkommens Schweiz – EU, Zugang zum Beruf des Notars und Anerkennung von Berufsqualifikationen als aktuelle Beispiele, in: Jean-Baptiste Zufferey/Jacques Dubey/Adriano Previtali (Hrsg.), L’Homme et son Droit, Mélanges en l’honneur de Marco Borghi, à l’occasion de son 65<sup>e</sup> anniversaire, Zürich 2011, 361 ff., 379; <i>Benjamin F. Brägger/Bernhard Waldmann,</i> Kantonale Souveränität im Spannungsfeld von völkerrechtlichem Soft Law, NZZ vom 1.9.2021.</p>
+					</fn>
+					<fn number="50" id="fn51">
+						<p align="justify">Vgl. <i>Pavlina Hubkova,</i> Judicial review of EU soft law: a revolutionary step which has not fully happened (Case note on BT v. Balgarska Narodna Banka, <a href="http://curia.europa.eu/juris/liste.jsf?&amp;num=C-501%2F18"><?highlight_link  type="decision" reference_number="C-501/18" id="e683fa6e-3eb1-4fe3-bb94-cb34988b53fa" court="EuGH"?>C-501/18<?end_highlight_link ?></a>), Revista General de Derecho Europeo 2021 175 ff.; <i>Giulia Gentile,</i> Ensuring Effective Judicial Review of EU Soft Law via the Action for Annulment before the EU Courts: a Plea for a Liberal-Constitutional Approach, European Constitutional Law Review 2020 466 ff.; <i>Daniela Thurnherr,</i> Rechtsschutz im Kontext von Soft Law – eine Auslegeordnung, LeGes 2018 29/3.</p>
+					</fn>
+					<fn number="51" id="fn52">
+						<p align="justify">Vgl. BVGer <a href="http://www.bvger.ch/publiws/pub/cache.jsf?displayName=A-1653/2017&amp;decisionDate=2018-2-20"><?link  id="8c917bed-2c24-48c8-b6ed-9939176c5ba8" type="decision" reference="A-1653/2017" court="BVGer" date="20.2.2018" reference_number="A-1653/2017"?>A-1653/2017<?end_link ?></a> vom 20.2.2018 E. 2.</p>
+					</fn>
+					<fn number="52" id="fn53">
+						<p align="justify">Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die gegenseitige Anerkennung von Konformitätsbewertungen (MRA) vom 21. Juni 1999 (SR 0.946.526.81).</p>
+					</fn>
+					<fn number="53" id="fn54">
+						<p align="justify">Art. 2 Abs. 2 Spiegelstrich 5 E-InstA.</p>
+					</fn>
+					<fn number="54" id="fn55">
+						<p align="justify"><i>Bundesrat</i> (Fn. 26) 30; vgl. dagegen die leicht abweichende Schätzung: <i>Bundesrat</i> (Fn. 4) 6.</p>
+					</fn>
+					<fn number="55" id="fn56">
+						<p align="justify">Wiener Übereinkommen über das Recht der Verträge (VRK) vom 23. Mai 1969 (SR 0.111).</p>
+					</fn>
+					<fn number="56" id="fn57">
+						<p align="justify">Vgl. BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F142-II-35%3Ade&amp;lang=de&amp;type=show_document"><?link  id="8f90d242-e60a-4bbe-a6ca-4892221cb3e9" type="decision" reference="142 II 35" journal_reference="BGE"?>142 II 35<?end_link ?></a> E. 3.2; <i>Jacques Beglinger/Christa Tobler,</i> Gleichwertigkeit, Angemessenheit, Äquivalenz, Adäquanz, Ein Hotspot in den Beziehungen zwischen der Schweiz und der EU im rechtlichen Kontext, in: Astrid Epiney/Petru Emanuel Zlatescu (Hrsg.), Schweizerisches Jahrbuch für Europarecht 2019/2020, Zürich/Bern 2020, 547 ff., 551 f.</p>
+					</fn>
+					<fn number="57" id="fn58">
+						<p align="justify"><i>Bundesrat</i> (Fn. 4) 7.</p>
+					</fn>
+					<fn number="58" id="fn59">
+						<p align="justify">Vgl. <a href="https://www.fedlex.admin.ch/eli/cc/2014/503/de#a10"><?highlight_link  art="10" type="law" id="de578003-7ab4-48f1-ae89-0916185c2fe1" law="FRPBV"?>Art. 10 der Verordnung über die Massnahmen für die Beteiligung der Schweiz an den Programmen der Europäischen Union im Bereich Forschung und Innovation <?end_highlight_link ?></a>(FIPBV) vom 20. Januar 2021 (SR 420.126).</p>
+					</fn>
+					<fn number="59" id="fn60">
+						<p align="justify">Vgl. Abkommen zwischen der Schweizerischen Eidgenossenschaft und den Europäischen Gemeinschaften über die wissenschaftliche und technologische Zusammenarbeit (Forschungsabkommen) vom 21. Juni 1999 (AS 2002 1998).</p>
+					</fn>
+					<fn number="60" id="fn61">
+						<p align="justify"><i>SBFI,</i> Status Update: Teilnahme der Schweiz an Horizon Europe und dazugehörigen Programmen und Initiativen, Information vom 17. Dezember 2021, &lt;<a href="https://www.sbfi.admin.ch/sbfi/de/home/forschung-und-innovation/internationale-f-und-i-zusammenarbeit/forschungsrahmenprogramme-der-eu/horizon-2020/status-ch-horizon-2020.html">https://www.sbfi.admin.ch/sbfi/de/home/forschung-und-innovation/internationale-f-und-i-zusammenarbeit/forschungsrahmenprogramme-der-eu/horizon-2020/status-ch-horizon-2020.html</a>&gt; (zuletzt besucht am 16.12.2021).</p>
+					</fn>
+					<fn number="61" id="fn62">
+						<p align="justify"><i>Bundesrat</i> (Fn. 4) 10.</p>
+					</fn>
+					<fn number="62" id="fn63">
+						<p align="justify">Botschaft zur Förderung von Bildung, Forschung und Innovation in den Jahren 2021–2024 vom 26. Februar 2020, BBl 2020 3681.</p>
+					</fn>
+					<fn number="63" id="fn64">
+						<p align="justify">Richtlinie 2018/2001/EU des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (zit. EU-Erneuerbare-Energien-Richtlinie), ABl. L 328 vom 21.12.2018, 82.</p>
+					</fn>
+					<fn number="64" id="fn65">
+						<p align="justify">Art. 19 Abs. 11 EU-Erneuerbare-Energien-Richtlinie.</p>
+					</fn>
+					<fn number="65" id="fn66">
+						<p align="justify"><i>Bundesrat</i> (Fn. 4) 8 m.H. auf eine Studie.</p>
+					</fn>
+					<fn number="66" id="fn67">
+						<p align="justify"><i>Christof Forster,</i> Ein weiterer Nadelstich der EU: Die Schweiz ist bei den europäischen Strom-Regulatoren nicht mehr erwünscht, NZZ vom 13.9.2021.</p>
+					</fn>
+					<fn number="67" id="fn68">
+						<p align="justify">EuG Rs. <a href="http://curia.europa.eu/juris/liste.jsf?&amp;num=T-127%2F21"><?highlight_link  type="decision" reference_number="T-127/21" id="9b194c80-3046-4cd7-a64a-ddd1fe07c289" court="EuGH"?>T-127/21<?end_highlight_link ?></a> (Swissgrid/Kommission), hängige Rs., noch nicht publiziert; <i>Bundesrat</i> (Fn. 4) 9.</p>
+					</fn>
+					<fn number="68" id="fn69">
+						<p align="justify">Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Handel mit landwirtschaftlichen Erzeugnissen vom 21. Juni 1999 (SR 0.916.026.81) (zit. Agrarabkommen).</p>
+					</fn>
+					<fn number="69" id="fn70">
+						<p align="justify"><i>Bundesrat</i> (Fn. 4) 8.</p>
+					</fn>
+					<fn number="70" id="fn71">
+						<p align="justify"><i>Bundesrat</i> (Fn. 4) 12.</p>
+					</fn>
+					<fn number="71" id="fn72">
+						<p align="justify"><i>Bundesrat</i> (Fn. 4) 9.</p>
+					</fn>
+					<fn number="72" id="fn73">
+						<p align="justify">Durchführungsbeschluss (EU) 2021/1126 der Kommission vom 8. Juli 2021 zur Feststellung der Gleichwertigkeit der von der Schweiz ausgestellten COVID-19-Zertifikate mit den gemäss der Verordnung (EU) 2021/953 des Europäischen Parlaments und des Rates ausgestellten Zertifikaten, ABl. L 243 vom 9.7.2021, 49.</p>
+					</fn>
+					<fn number="73" id="fn74">
+						<p align="justify"><a href="https://www.fedlex.admin.ch/eli/cc/1999/404/de#a184"><?highlight_link  par="1" art="184" type="law" id="da8ad98a-863f-41b1-9bde-bcc91a502b89" law="BV"?>Art. 184 Abs. 1 und 2 der Bundesverfassung der Schweizerischen Eidgenossenschaft<?end_highlight_link ?></a> (BV) vom 18. April 1999 (SR 101); <a href="https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/de#a7a"><?highlight_link  par="1" art="7a" type="law" id="bd2025b1-3359-47b7-ad03-9c5b19b3f123" law="RVOG"?>Art. 7a Abs. 1 und 2 des Regierungs- und Verwaltungsorganisationsgesetzes<?end_highlight_link ?></a> (RVOG) vom 21. März 1997 (SR 172.010); <i>Integrationsbüro EDA/EVD/Direktion für Völkerrecht EDA/Bundesamt für Justiz EJPD</i> (Fn. 45) 2 f.</p>
+					</fn>
+					<fn number="74" id="fn75">
+						<p align="justify"><a href="https://www.fedlex.admin.ch/eli/cc/1997/2022_2022_2022/de#a48a"><?link  id="e19bb43e-3445-45af-b6d8-7d898db566c5" type="law" art="48a" par="1" law="RVOG"?>Art. 48a Abs. 1 RVOG<?end_link ?></a>; <i>Integrationsbüro EDA/EVD/Direktion für Völkerrecht EDA/Bundesamt für Justiz EJPD</i> (Fn. 45) 3.</p>
+					</fn>
+					<fn number="75" id="fn76">
+						<p align="justify"><a href="https://www.fedlex.admin.ch/eli/cc/2002/243/de#a16"><?link  id="d78e68f8-83ff-4627-88e0-ba6f926baf82" type="law" art="16" par="2" law="FZA"?>Art. 16 Abs. 2 FZA<?end_link ?></a>; vgl. <i>Günthardt</i> (Fn. 14) 130 f.</p>
+					</fn>
+					<fn number="76" id="fn77">
+						<p align="justify">Bundesgesetz über die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und -erbringern in reglementierten Berufen (BGMD) vom 14. Dezember 2012 (SR 935.01).</p>
+					</fn>
+					<fn number="77" id="fn78">
+						<p align="justify">Vgl. <a href="https://www.fedlex.admin.ch/eli/cc/2011/577/fr#a52"><?link  id="a2a59201-e80f-4643-8e82-aa8551c6fc55" type="law" art="52" par="6" law="LVA"?>Art. 52 Abs. 6 LVA<?end_link ?></a>; vgl. ferner <i>Beglinger/Tobler</i> (Fn. 56) 552 ff. zum MRA.</p>
+					</fn>
+					<fn number="78" id="fn79">
+						<p align="justify"><i>Oesch</i> (Fn. 12) 62.</p>
+					</fn>
+					<fn number="79" id="fn80">
+						<p align="justify">Vgl. ausführlich II.A.2. hiervor.</p>
+					</fn>
+					<fn number="80" id="fn81">
+						<p align="justify">Art. 5 und Art. 12 ff. E-InstA.</p>
+					</fn>
+					<fn number="81" id="fn82">
+						<p align="justify">Art. 10 Abs. 2 und 3 E-InstA.</p>
+					</fn>
+					<fn number="82" id="fn83">
+						<p align="justify">Art. 10 Abs. 6 E-InstA.</p>
+					</fn>
+					<fn number="83" id="fn84">
+						<p align="justify">Art. 10 Abs. 7 E-InstA.</p>
+					</fn>
+					<fn number="84" id="fn85">
+						<p align="justify">Vgl. <i>Astrid Epiney,</i> Der Entwurf des Institutionellen Abkommens Schweiz–EU, Überblick und erste Einschätzung, Jusletter vom 17.12.2018, Rz. 46; <i>Aussenpolitische Kommission des Nationalrates (APK-NR),</i> Institutionelles Abkommen Schweiz – EU, Prof. Dr. Matthias Oesch in der Öffentlichen Anhörung der APK-NR vom 15.1.2019 bei Stunde 1 und 11 Minuten, &lt;<a href="https://www.youtube.com/watch?v=LODKvWROkxU">https://www.youtube.com/watch?v=LODKvWROkxU</a>&gt; (zuletzt besucht am 16.12.2021).</p>
+					</fn>
+					<fn number="85" id="fn86">
+						<p align="justify">Vgl. <i>Günthardt</i> (Fn. 14) 91 f.</p>
+					</fn>
+					<fn number="86" id="fn87">
+						<p align="justify">Vgl. Art. 14 Abs. 3 E-InstA.</p>
+					</fn>
+					<fn number="87" id="fn88">
+						<p align="justify">Vgl. <i>Carl Baudenbacher,</i> Institutionalisation of the Sectoral Agreements Switzerland-EU, Fairy Tales and the Theatre of the Absurd, European Law Reporter 2014 324 ff.</p>
+					</fn>
+					<fn number="88" id="fn89">
+						<p align="justify">Art. 6, Art. 3 Abs. 2 und Art. 102 des Abkommens über den Europäischen Wirtschaftsraum (zit. EWR-Abkommen), ABl. 1994 L 1 vom 3.1.1994, 3.</p>
+					</fn>
+					<fn number="89" id="fn90">
+						<p align="justify">Art. 102 EWR-Abkommen.</p>
+					</fn>
+					<fn number="90" id="fn91">
+						<p align="justify">Vgl. Art. 102 EWR-Abkommen; <i>Oesch</i> (Fn. 12) 25; ausführlich <i>Europäische Kommission,</i> Commission Staff Working Document, A review of the functioning of the European Economic Area (SWD [2012] 425 final) vom 7.12.2021, &lt;<a href="https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/swd/2012/0425/COM_SWD(2012)0425_EN.pdf">https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/swd/2012/0425/COM_SWD(2012)0425_EN. pdf</a>&gt; (zuletzt besucht am 16.12.2021); vgl. ferner den Streitschlichtungsmechanismus in Art. 111 Abs. 2 und die Anrufung des EuGH in Art. 111 Abs. 3 EWR-Abkommen.</p>
+					</fn>
+					<fn number="91" id="fn92">
+						<p align="justify">Vgl. <i>Halvard Haukeland Fredriksen,</i> EEA Main Agreement and Secondary EU Law Incorporated into the Annexes and Protocols, in: Carl Baudenbacher (Hrsg.), The Handbook of EEA Law, Cham 2016, 95 ff., 109.</p>
+					</fn>
+					<fn number="92" id="fn93">
+						<p align="justify"><i>Europäische Kommission</i> (Fn. 91) 8.</p>
+					</fn>
+					<fn number="93" id="fn94">
+						<p align="justify">Vgl. Art. 1 Abs. 1 E-InstA.</p>
+					</fn>
+					<fn number="94" id="fn95">
+						<p align="justify">Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung der Berufsqualifikationen (zit. EU-Berufsanerkennungsrichtlinie), ABl. L 255 vom 30.9.2005, 22 (in der teilweise aktualisierten Fassung gemäss den Beschlüssen des Gemischten Ausschusses FZA).</p>
+					</fn>
+					<fn number="95" id="fn96">
+						<p align="justify">Richtlinie 98/5/EG des Europäischen Parlaments und des Rates vom 16. Februar 1998 zur Erleichterung der ständigen Ausübung des Rechtsanwaltsberufs in einem anderen Mitgliedstaat als dem, in dem die Qualifikation erworben wurde (zit. EU-Niederlassungsrichtlinie für Anwälte), ABl. L 77 vom 14.3.1998, 36.</p>
+					</fn>
+					<fn number="96" id="fn97">
+						<p align="justify">Richtlinie 77/249/EWG des Rates vom 22. März 1977 zur Erleichterung der tatsächlichen Ausübung des freien Dienstleistungsverkehrs der Rechtsanwälte (zit. EU-Dienstleistungsrichtlinie für Anwälte), ABl. L 78 vom 26.3.1977, 17.</p>
+					</fn>
+					<fn number="97" id="fn98">
+						<p align="justify">Richtlinie 89/48/EWG des Rates vom 21. Dezember 1988 über eine allgemeine Regelung zur Anerkennung der Hochschuldiplome, die eine mindestens dreijährige Berufsausbildung abschliessen (zit. EU-Anerkennungsrichtlinie für Hochschuldiplome), ABl. L 19 vom 24.1.1989, 16.</p>
+					</fn>
+					<fn number="98" id="fn99">
+						<p align="justify">Vgl. Art. 46 EU-Berufsanerkennungsrichtlinie; Anhänge 5.7.1 und Anhang VI FZA.</p>
+					</fn>
+					<fn number="99" id="fn100">
+						<p align="justify"><i>Jean-Baptiste Zufferey,</i> § 20 Der Beruf des Planers im öffentlichen Recht, in: Hubert Stöckli (Hrsg.), Die Planerverträge: Verträge mit Architekten und Ingenieuren, Zürich 2019, 926 ff.</p>
+					</fn>
+					<fn number="100" id="fn101">
+						<p align="justify">Beschluss Nr. 2/2011 des Gemischten Ausschusses EU-Schweiz, der mit Artikel 14 des Abkommens zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit eingesetzt wurde vom 30. September 2011 über die Änderung von Anhang III (Gegenseitige Anerkennung von Berufsqualifikationen) dieses Abkommens, ABl. L 277 vom 22.10.2011, 20.</p>
+					</fn>
+					<fn number="101" id="fn102">
+						<p align="justify">Genehmigung des Beschlusses Nr. 2/2011 und Inkrafttreten des BGBM am 1. September 2013 (AS 2013 2415).</p>
+					</fn>
+					<fn number="102" id="fn103">
+						<p align="justify">Art. 63 EU-Berufsanerkennungsrichtlinie.</p>
+					</fn>
+					<fn number="103" id="fn104">
+						<p align="justify"><i>Bundesrat,</i> Antwort vom 28.11.2014 auf die Interpellation Nr. 14.3729, Schweizer Teilnahme am Informationssystem IMI zwecks Prüfung der Gültigkeit von ausländischen Berufsqualifikationen, &lt;<a href="https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20143729">https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20143729</a>&gt; (zuletzt besucht am 16.12.2021); vgl. ferner <i>Günthardt</i> (Fn. 14) 42 f.</p>
+					</fn>
+					<fn number="104" id="fn105">
+						<p align="justify"><i>Bundesrat</i> (Fn. 4) 8.</p>
+					</fn>
+					<fn number="105" id="fn106">
+						<p align="justify">Richtlinie 2013/55/EU des Europäischen Parlaments und des Rates vom 20. November 2013 zur Änderung der Richtlinie 2005/36/EG über die Anerkennung von Berufsqualifikationen und der Verordnung 1024/2012 über die Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-Informationssystems («IMI-Verordnung») (zit. EU-Änderungsrichtlinie zur IMI-Verordnung), ABl. 2013 L 354 vom 28.12.2013, 132.</p>
+					</fn>
+					<fn number="106" id="fn107">
+						<p align="justify">Richtlinie 2018/958/EU des Europäischen Parlaments und des Rates vom 28. Juni 2018 über eine Verhältnismässigkeitsprüfung vor Erlass neuer Berufsreglementierungen (zit. EU-Verhältnismässig­keitsrichtlinie), ABl. 2018 L 173 vom 9.7.2018, 25.</p>
+					</fn>
+					<fn number="107" id="fn108">
+						<p align="justify">Art. 3 Abs. 1 EU-Änderungsrichtlinie zur IMI-Verordnung; vgl. zum Ganzen <i>Günthardt</i> (Fn. 32) Rz. 2 ff.</p>
+					</fn>
+					<fn number="108" id="fn109">
+						<p align="justify"><i>Larissa Rhyn,</i> Laufende Gesetzesprojekte des Bundes: Geplante Vernehmlassungen, <a href="/link?abbreviation=SJZ-RSJ&amp;year=2021&amp;page=941"><?link  id="3551f712-8c62-4beb-b9f4-501d97c824d8" type="journal" journal="SJZ" year="2021" page="941"?>SJZ 2021 941<?end_link ?></a>.</p>
+					</fn>
+					<fn number="109" id="fn110">
+						<p align="justify">Vgl. Art. 4f EU-Berufsanerkennungsrichtlinie i.d.F. gemäss EU-Änderungsrichtlinie zur IMI-Verordnung; vgl. ferner <i>Günthardt</i> (Fn. 32) Rz. 3.</p>
+					</fn>
+					<fn number="110" id="fn111">
+						<p align="justify">Erwägungsgrund 3 EU-Änderungsrichtlinie zur IMI-Verordnung.</p>
+					</fn>
+					<fn number="111" id="fn112">
+						<p align="justify">Vgl. Art. 10 Abs. 1, 2 und 3 EU-Niederlassungsrichtlinie für Anwälte.</p>
+					</fn>
+					<fn number="112" id="fn113">
+						<p align="justify">Art. 3 Abs. 3 EU-Berufsanerkennungsrichtlinie; EuGH Rs. <a href="http://curia.europa.eu/juris/liste.jsf?&amp;num=C-238%2F98"><?highlight_link  type="decision" reference_number="C-238/98" id="d6a321bc-5d31-453f-8c9f-a39d472ae215" court="EuGH"?>C-238/98<?end_highlight_link ?></a> vom 14.9.2000, Hocsman; <i>Günthardt</i> (Fn. 14) 260 ff.</p>
+					</fn>
+					<fn number="113" id="fn114">
+						<p align="justify">Art. 3 EU-Niederlassungsrichtlinie für Anwälte; <i>Günthardt</i> (Fn. 14) 430 f.</p>
+					</fn>
+					<fn number="114" id="fn115">
+						<p align="justify">VGer ZH VB.2016.00490 vom 8.12.2016 E. 4.4 ff.</p>
+					</fn>
+					<fn number="115" id="fn116">
+						<p align="justify">EuGH Rs. <a href="http://curia.europa.eu/juris/liste.jsf?&amp;num=C-47%2F08"><?highlight_link  type="decision" reference_number="C-47/08" id="0f9271c7-a1aa-49c9-bbe1-2f8c46d9acd9" court="EuGH"?>C-47/08<?end_highlight_link ?></a> vom 24.5.2011, Kommission/Belgien, Rz. 134 ff.; EuGH Rs. <a href="http://curia.europa.eu/juris/liste.jsf?&amp;num=C-51%2F08"><?highlight_link  type="decision" reference_number="C-51/08" id="4a5645d1-7201-4933-8c22-bcf02a9376b6" court="EuGH"?>C-51/08<?end_highlight_link ?></a> vom 24.5.2011, Kommission/Luxembourg, Rz. 136 ff.; EuGH Rs. <a href="http://curia.europa.eu/juris/liste.jsf?&amp;num=C-52%2F08"><?highlight_link  type="decision" reference_number="C-52/08" id="d538ee97-1024-4c71-874b-c14b4a7a1763" court="EuGH"?>C-52/08<?end_highlight_link ?></a> vom 24.5.2011, Kommission/Portugal, Rz. 49 ff.; EuGH Rs. <a href="http://curia.europa.eu/juris/liste.jsf?&amp;num=C-53%2F08"><?highlight_link  type="decision" reference_number="C-53/08" id="f60b3470-a833-4ebc-a3cb-a7ff6a6ee0d0" court="EuGH"?>C-53/08<?end_highlight_link ?></a> vom 24.5.2011, Kommission/Österreich, Rz. 135 ff.; EuGH Rs. <a href="http://curia.europa.eu/juris/liste.jsf?&amp;num=C-54%2F08"><?highlight_link  type="decision" reference_number="C-54/08" id="388fcb76-f29a-462f-a679-80f4adedccf1" court="EuGH"?>C-54/08<?end_highlight_link ?></a> vom 24.5.2011, Kommission/Deutschland, Rz. 135 ff.; EuGH Rs. <a href="http://curia.europa.eu/juris/liste.jsf?&amp;num=C-61%2F08"><?highlight_link  type="decision" reference_number="C-61/08" id="bd9ddcb5-f0c6-42ba-917a-423cc2e761e6" court="EuGH"?>C-61/08<?end_highlight_link ?></a> vom 24.5.2011, Kommission/Griechenland, Rz. 125 ff.</p>
+					</fn>
+					<fn number="116" id="fn117">
+						<p align="justify">Erwägungsgrund 3 EU-Änderungsrichtlinie zur IMI-Verordnung.</p>
+					</fn>
+					<fn number="117" id="fn118">
+						<p align="justify">EuGH Rs. <a href="http://curia.europa.eu/juris/liste.jsf?&amp;num=C-47%2F08"><?highlight_link  type="decision" reference_number="C-47/08" id="c7f091c9-d5af-463a-8d45-a88eb0370894" court="EuGH"?>C-47/08<?end_highlight_link ?></a> vom 24.5.2011, Kommission/Belgien; EuGH Rs. <a href="http://curia.europa.eu/juris/liste.jsf?&amp;num=C-50%2F08"><?highlight_link  type="decision" reference_number="C-50/08" id="e6d08f9c-3c2b-4019-a2bf-041446b0ec60" court="EuGH"?>C-50/08<?end_highlight_link ?></a> vom 24.5.2011, Kommission/Frankreich; EuGH Rs. <a href="http://curia.europa.eu/juris/liste.jsf?&amp;num=C-51%2F08"><?highlight_link  type="decision" reference_number="C-51/08" id="e991a7b5-9f28-49ac-9040-f963337c1430" court="EuGH"?>C-51/08<?end_highlight_link ?></a> vom 24.5.2011, Kommission/Luxembourg; EuGH Rs. <a href="http://curia.europa.eu/juris/liste.jsf?&amp;num=C-52%2F08"><?highlight_link  type="decision" reference_number="C-52/08" id="1bd3e26a-80bb-467b-b0fe-8a157bd49bd1" court="EuGH"?>C-52/08<?end_highlight_link ?></a> vom 24.5.2011, Kommission/Portugal; EuGH Rs. <a href="http://curia.europa.eu/juris/liste.jsf?&amp;num=C-53%2F08"><?highlight_link  type="decision" reference_number="C-53/08" id="3babf29e-dc3b-4f13-9fc6-d0a49509cb05" court="EuGH"?>C-53/08<?end_highlight_link ?></a> vom 24.5.2011, Kommission/Österreich; EuGH Rs. <a href="http://curia.europa.eu/juris/liste.jsf?&amp;num=C-54%2F08"><?highlight_link  type="decision" reference_number="C-54/08" id="a1c8deff-e3d3-409e-816e-9ebc5b01128c" court="EuGH"?>C-54/08<?end_highlight_link ?></a> vom 24.5.2011, Kommission/Deutschland; EuGH Rs. <a href="http://curia.europa.eu/juris/liste.jsf?&amp;num=C-61%2F08"><?highlight_link  type="decision" reference_number="C-61/08" id="6807ae07-65c0-445d-aa0a-6f7cf2213b17" court="EuGH"?>C-61/08<?end_highlight_link ?></a> vom 24.5.2011, Kommission/Griechenland.</p>
+					</fn>
+					<fn number="118" id="fn119">
+						<p align="justify">EuGH Rs. <a href="http://curia.europa.eu/juris/liste.jsf?&amp;num=C-151%2F14"><?highlight_link  type="decision" reference_number="C-151/14" id="3a85daef-622c-41ec-b7d2-ba25ebeb6cff" court="EuGH"?>C-151/14<?end_highlight_link ?></a> vom 10.9.2015, Kommission/Lettland, Rz. 75; vgl. <i>Günthardt</i> (Fn. 14) 155 ff., 440 f., je m.H.</p>
+					</fn>
+					<fn number="119" id="fn120">
+						<p align="justify">Vgl. BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F140-II-112%3Ade&amp;lang=de&amp;type=show_document"><?link  id="d693106a-0e8b-4026-83fc-b0b378c8b7a8" type="decision" reference="140 II 112" journal_reference="BGE"?>140 II 112<?end_link ?></a> E. 3.2.4.</p>
+					</fn>
+					<fn number="120" id="fn121">
+						<p align="justify">VGer AG WBE.2018.36 vom 21.8.2018 E. 3.4.</p>
+					</fn>
+					<fn number="121" id="fn122">
+						<p align="justify"><i>WEKO,</i> Empfehlung Nr. 614–0002 vom 23. September 2013 betr. Freizügigkeit für Notare und öffentliche Urkunden, Rz. 64 ff.</p>
+					</fn>
+					<fn number="122" id="fn123">
+						<p align="justify"><i>Günthardt</i> (Fn. 32) Rz. 23 ff.</p>
+					</fn>
+					<fn number="123" id="fn124">
+						<p align="justify">In diesem Sinne wohl BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F136-II-470%3Ade&amp;lang=de&amp;type=show_document"><?link  id="18a67902-7706-49e1-8c8c-70e33d1654e9" type="decision" reference="136 II 470" journal_reference="BGE"?>136 II 470<?end_link ?></a> E. 4.1; <i>Nicolas F. Diebold,</i> Freizügigkeit im Mehrebenensystem, Eine Rechtsvergleichung der Liberalisierungsprinzipien im Binnenmarkt-, Aussenwirtschafts- und Europarecht, Zürich/Baden-Baden 2016, Rz. 1116 ff.; vgl. zum Ganzen <i>Günthardt</i> (Fn. 32) Rz. 32 f.</p>
+					</fn>
+					<fn number="124" id="fn125">
+						<p align="justify">Verordnung über die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und -erbringern in reglementierten Berufen (VMD) vom 26. Juni 2013 (SR 935.011).</p>
+					</fn>
+					<fn number="125" id="fn126">
+						<p align="justify">Art. 15 Abs. 2 Anhang I i.V.m. Art. 9 Anhang I FZA; Schlussanträge des Generalanwalts Ruiz-Jarabo Colomer vom 6. Juni 2006, in: EuGH Rs. <a href="http://curia.europa.eu/juris/liste.jsf?&amp;num=C-339%2F05"><?highlight_link  type="decision" reference_number="C-339/05" id="54766680-5bf7-4c38-bef2-d3bfb609631e" court="EuGH"?>C-339/05<?end_highlight_link ?></a>, Zentralbetriebsrat der Landeskrankenhäuser Tirols/Land Tirol, Rz. 32 ff., vgl. <i>Günthardt</i> (Fn. 14) 121 f., 141 f. m.H.; a.A. zum VMD das Urteil VGer AG WBE.2018.36 vom 21.8.2018 E. 3.4.</p>
+					</fn>
+					<fn number="126" id="fn127">
+						<p align="justify"><i>Günthardt</i> (Fn. 14) 450.</p>
+					</fn>
+					<fn number="127" id="fn128">
+						<p align="justify">Bundesgesetz über den Binnenmarkt (Binnenmarktgesetz, BGBM) vom 6. Oktober 1995 (SR 943.02).</p>
+					</fn>
+					<fn number="128" id="fn129">
+						<p align="justify">Vgl. zum Ganzen <i>Diebold</i> (Fn. 124) Rz. 326 ff.</p>
+					</fn>
+				</footnotes>
+			</document>
+		</singleDocument>
+	</singleDocuments>
+</source>

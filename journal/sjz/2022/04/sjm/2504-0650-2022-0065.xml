@@ -1,0 +1,79 @@
+<source schemaVersion="2.1">
+	<publicationInfo>
+		<documentTitle>2504-0650-2022-0065.xml</documentTitle>
+		<accessCode accesstype="abo" />
+		<articleId>2504-0650-2022-0065</articleId>
+		<language langtype="de" />
+		<publisher publisherid="sjm">Schulthess Juristische Medien AG</publisher>
+		<eIssn>2504-0650</eIssn>
+		<issn>0036-7613</issn>
+		<journalAbbreviation>SJZ-RSJ</journalAbbreviation>
+		<journalName>Schweizerische Juristen-Zeitung/Revue Suisse de Jurisprudence</journalName>
+		<journalCode journalid="sjz" />
+		<issueInfo>
+			<year>2022</year>
+			<volume>118</volume>
+			<issueNumber>4</issueNumber>
+			<publicationDate>2022-03-01</publicationDate>
+		</issueInfo>
+	</publicationInfo>
+	<singleDocuments>
+		<singleDocument type="CaseLawAsset">
+			<documentInfo>
+				<title>Obergericht Zürich, II. Zivilkammer, Urteil LB190052-O/U vom 14. September 2020</title>
+				<firstPage>198</firstPage>
+				<lastPage>199</lastPage>
+				<decisionInfos>
+					<decisionInfo>
+						<decisionNumber>LB190052-O/U</decisionNumber>
+						<decisionDate>2020-09-14</decisionDate>
+						<decisionSubjectField>Zivilprozessrecht</decisionSubjectField>
+						<decisionObject>Verletzung der Begründungspflicht. Konsequenzen.</decisionObject>
+						<decisionCourtLocation>ZH</decisionCourtLocation>
+						<decisionCourtName name="Obergericht Zürich">32</decisionCourtName>
+						<decisionCourtDevision>II. Zivilkammer</decisionCourtDevision>
+					</decisionInfo>
+				</decisionInfos>
+				<commentedArticles>
+					<commentedArticle link="https://www.fedlex.admin.ch/eli/cc/2010/262/de#a238">Art. 238 ZPO</commentedArticle>
+				</commentedArticles>
+				<jurisdictionals>
+					<jurisdictional name="Zivilprozessrecht">10-40</jurisdictional>
+				</jurisdictionals>
+				<categories>
+					<category name="Kantonale Rechtsprechung">sjz-005-02</category>
+				</categories>
+				<keywords>
+					<title>Schlagworte</title>
+					<keyword>Verletzung der Begründungspflicht</keyword>
+					<keyword>Rückweisung von Amtes wegen</keyword>
+				</keywords>
+				<targetGroup targettype="praxis" />
+				<focus focustype="sp" />
+				<licence licencetype="Schulthess Juristische Medien AG" />
+				<price>(PayPerDoc)</price>
+			</documentInfo>
+			<document>
+				<text>
+					<title level="1" type="document"><decisionCourtName>Obergericht Zürich</decisionCourtName>, <decisionCourtDevision>II. Zivilkammer</decisionCourtDevision>, Urteil <decisionNumber>LB190052-O/U</decisionNumber> vom <decisionNumber>14. September 2020</decisionNumber></title>
+					<zone type="abstract">
+						<p align="justify" lang="de"><a href="https://www.fedlex.admin.ch/eli/cc/2010/262/de#a238"><?link  id="a90d8d5f-ab8a-4d34-8e7e-9c438c91a5b1" type="law" art="238" letter="g" law="ZPO"?>Art. 238 lit. g ZPO<?end_link ?></a>. Verletzung der Begründungspflicht, Konsequenzen. In einem besonders krassen Fall kommt Rückweisung von Amtes wegen in Frage.</p>
+						<p align="justify" lang="fr"><a href="https://www.fedlex.admin.ch/eli/cc/2010/262/fr#a238"><?link  id="a9fd582d-a918-467c-8a2b-de73523c381b" type="law" art="238" letter="g" law="CPC"?>Art. 238 let. g CPC<?end_link ?></a>. Violation de l’obligation de motiver la décision. Conséquences. Dans un cas particulièrement grave, on doit considérer la possibilité de renvoyer d'office la décision à l’instance inférieure. 	(P.P.)</p>
+					</zone>
+					<title level="1" type="text">Aus dem Sachverhalt:</title>
+					<p align="justify">Das Urteil des Bezirksgerichts beginnt mit seitenlangen Darstellungen der Prozessgeschichte und prozessualen Erwägungen. Die anschliessenden Ausführungen zur Sache sind für Aussenstehende, insbesondere für eine Rechtsmittelinstanz, nicht verständlich: Weder wird der «angefochtene Beschluss Nr. 3» der Eigentümerversammlung dem Inhalt nach erläutert, noch enthält das Urteil Angaben zu den tatsächlichen Gegebenheiten. Die Parteien rügen das nicht, weil sie offenkundig wissen, worum es geht.</p>
+					<zone type="considerations">
+						<title level="1" type="text">Aus den Erwägungen:</title>
+						<p align="justify">«Eine Eigenheit des Falles ist der Umstand, dass das angefochtene Urteil zunächst unverständlich war. Es wurde von einer ‹Brücke› gesprochen, von ‹Technikzylindern›, ‹Oblichtern› und einem ‹Atrium›, ohne dass diese Begriffe im Urteil irgendwie erläutert wurden. Wesentlich war offenkundig der Unterschied in einen westlichen und einen östlichen Dach-Teil, aber ein Plan mit Nordrichtung wurde nicht genannt, geschweige denn wurde die Beschreibung oder eine Unterscheidung dieser beiden Dachteile gegeben. Ein Privatgutachten der Kläger mit Fotos gab Hinweise darauf, weshalb sich die Kläger von einer Brücke gestört fühlen könnten, allerdings hatte jener Fachmann den neuen Begriff ‹Winter­garten› eingeführt, und es blieb unklar, was das sein sollte. Offenkundig war dem Gericht und auch den Parteien selbstverständlich, worum es ging, und glaubte sich das Bezirksgericht darum die Mühe sparen zu können, die tatsächlichen Grundlagen darzustellen.</p>
+						<p align="justify">Die Gerichte haben ihre Urteile zu begründen (<a href="https://www.fedlex.admin.ch/eli/cc/2010/262/de#a238"><?link  id="4abf60e4-aae1-4a79-b131-6f0fa846e450" type="law" art="238" letter="g" law="ZPO"?>Art. 238 lit. g ZPO<?end_link ?></a>). Natürlich ist das vor allem im Interesse der Parteien, welche als Teil des Anspruchs auf rechtliches Gehör (<a href="https://www.fedlex.admin.ch/eli/cc/2010/262/de#a53"><?link  id="10725866-d77d-4b2f-bb6d-b4fb3895488d" type="law" art="53" law="ZPO"?>Art. 53 ZPO<?end_link ?></a>) den zu ihren Gunsten oder Lasten gefällten Spruch verstehen können müssen. Wenn sie ein Rechtsmittel ergreifen wollen, müssen sie das Urteil und insbesondere seine Erwägungen kritisieren (<a href="https://www.fedlex.admin.ch/eli/cc/2010/262/de#a311"><?link  id="6bf45222-9a85-40a2-9cc0-6bde89885531" type="law" art="311" law="ZPO"?>Art. 311<?end_link ?></a> und <a href="https://www.fedlex.admin.ch/eli/cc/2010/262/de#a321"><?link  id="c13387de-3032-4b74-8a6d-62962cb6e7e9" type="law" law="ZPO" art="321"?>321 ZPO<?end_link ?></a>; OGer ZH LB110 049 vom 5. März 2012, E. 1.1 f. mit Verweisen sowie BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F138-III-374%3Ade&amp;lang=de&amp;type=show_document"><?link  id="66ca990c-45c0-4a31-b08f-3a64c9772e40" type="decision" reference="138 III 374" journal_reference="BGE"?>138 III 374<?end_link ?></a>). Damit die Rechtsmittelinstanz diese Rügen prüfen kann, muss allerdings auch sie das angefochtene Urteil verstehen. Anders kann sie ihre Aufgabe nicht erfüllen. Das Bundesrecht kennt dazu eine ausdrückliche Vorschrift: die kantonalen Urteile müssen unter anderem ‹die massgeblichen Gründe tatsächlicher und rechtlicher Art› enthalten, und genügt ein Urteil dieser Anforderung nicht, kann das Bundesgericht es zur Verbesserung zurückweisen oder aufheben (<a href="https://www.fedlex.admin.ch/eli/cc/2006/218/de#a112"><?highlight_link  letter="b" par="1" art="112" type="law" id="29e0161e-af2a-4b55-85e3-7d83a6aaba9e" law="BGG"?>Art. 112 Abs. 1 lit. b und Abs. 3 BGG<?end_highlight_link ?></a>). Das dürfte von der Sache her auch im kantonalen Rechtsmittelverfahren gelten – da sonst wie gesehen die Rechtsmittelinstanz ihre Aufgabe gar nicht erfüllen kann. Auf jeden Fall muss eine Rückweisung oder Aufhebung im Sinne von <a href="https://www.fedlex.admin.ch/eli/cc/2006/218/de#a112"><?link  id="ecb2998c-6cec-40f3-8204-628420660e45" type="law" art="112" law="BGG"?>Art. 112 BGG<?end_link ?></a> aber die Ausnahme bleiben und soll nur in zwingenden Fällen angeordnet werden.</p>
+						<p align="justify">In diesem Fall war die Hoffnung erlaubt, ein Augenschein werde ausreichend Klarheit schaffen. Mit Zustimmung und in Anwesenheit aller Beteiligten wurde <anchor type="page" value="199" />dieser Augenschein vom Referenten und dem Gerichtsschreiber durchgeführt und im Einzelnen dokumentiert. Sein Ergebnis holte das nach, was das Bezirksgericht hätte tun sollen: Klarheit darüber zu schaffen, was streitig ist – vom Tatsächlichen her, und zum Verständnis des für sich allein unverständlichen Rechtsbegehrens; der angefochtene ‹Beschluss Nr. 3› legt offenkundig fest, die Brücke solle an ihrem jetzigen Standort platziert oder belassen werden.</p>
+						<p align="justify">Die Vertreter der Parteien konnten bei jeder einzelnen Feststellung, die laut diktiert wurde, und bei jeder Fotografie, welche ihnen mit Standort und Blickrichtung angekündigt und dann sofort (auf dem kleinen Bildschirm des Fotoapparates) gezeigt wurde, Bedenken anmelden. Das taten sie nicht. Die im Protokoll enthaltenen Feststellungen, die Fotografien und die Pläne können daher den folgenden Erwägungen zugrunde gelegt werden. [...]</p>
+						<p align="justify">(Anmerkung: Eine Rückweisung von Amtes wegen war damit entbehrlich, und es konnte in der Sache entschieden werden).»</p>
+					</zone>
+					<p align="right"><i>Mitgeteilt von der Redaktion</i></p>
+				</text>
+				<footnotes />
+			</document>
+		</singleDocument>
+	</singleDocuments>
+</source>

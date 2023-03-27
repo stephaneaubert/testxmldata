@@ -1,0 +1,87 @@
+<source schemaVersion="2.1">
+	<publicationInfo>
+		<documentTitle>2504-0650-2022-0066.xml</documentTitle>
+		<accessCode accesstype="abo" />
+		<articleId>2504-0650-2022-0066</articleId>
+		<language langtype="de" />
+		<publisher publisherid="sjm">Schulthess Juristische Medien AG</publisher>
+		<eIssn>2504-0650</eIssn>
+		<issn>0036-7613</issn>
+		<journalAbbreviation>SJZ-RSJ</journalAbbreviation>
+		<journalName>Schweizerische Juristen-Zeitung/Revue Suisse de Jurisprudence</journalName>
+		<journalCode journalid="sjz" />
+		<issueInfo>
+			<year>2022</year>
+			<volume>118</volume>
+			<issueNumber>4</issueNumber>
+			<publicationDate>2022-03-01</publicationDate>
+		</issueInfo>
+	</publicationInfo>
+	<singleDocuments>
+		<singleDocument type="CaseLawAsset">
+			<documentInfo>
+				<title>Kantonsgericht St. Gallen, Einzelrichter im Familienrecht, ZV.2020.98-EZE2 vom 16. September 2020</title>
+				<authors>
+					<author>
+						<person id="KT03580" />
+						<honorific>lic. iur.</honorific>
+						<firstName>Annina</firstName>
+						<lastName>Scheiwiler</lastName>
+					</author>
+				</authors>
+				<firstPage>199</firstPage>
+				<lastPage>200</lastPage>
+				<decisionInfos>
+					<decisionInfo>
+						<decisionNumber>ZV.2020.98-EZE2</decisionNumber>
+						<decisionDate>2020-09-16</decisionDate>
+						<decisionSubjectField>aufschiebende Wirkung</decisionSubjectField>
+						<decisionObject>Familienrecht</decisionObject>
+						<decisionCourtLocation>SG</decisionCourtLocation>
+						<decisionCourtName name="Kantonsgericht St. Gallen">8</decisionCourtName>
+					</decisionInfo>
+				</decisionInfos>
+				<commentedArticles>
+					<commentedArticle link="https://www.fedlex.admin.ch/eli/cc/2010/262/de#a315">Art. 315 ZPO</commentedArticle>
+				</commentedArticles>
+				<jurisdictionals>
+					<jurisdictional name="Familienrecht">10-15</jurisdictional>
+					<jurisdictional name="Zivilprozessrecht">10-40</jurisdictional>
+				</jurisdictionals>
+				<categories>
+					<category name="Kantonale Rechtsprechung">sjz-005-02</category>
+				</categories>
+				<keywords>
+					<title>Schlagworte</title>
+					<keyword>Ehegattenunterhalt</keyword>
+					<keyword>aufschiebende Wirkung</keyword>
+					<keyword>Vollstreckbarkeit von vorsorglichen Massnahmen</keyword>
+				</keywords>
+				<targetGroup targettype="praxis" />
+				<focus focustype="sp" />
+				<licence licencetype="Schulthess Juristische Medien AG" />
+				<price>(PayPerDoc)</price>
+			</documentInfo>
+			<document>
+				<text>
+					<title level="1" type="document"><decisionCourtName>Kantonsgericht St. Gallen</decisionCourtName>, <decisionCourtDevision>Einzelrichter im Familienrecht</decisionCourtDevision>, <decisionNumber>ZV.2020.98-EZE2</decisionNumber> vom <decisionDate>16. September 2020</decisionDate></title>
+					<zone type="abstract">
+						<p align="justify" lang="de"><a href="https://www.fedlex.admin.ch/eli/cc/2010/262/de#a315"><?link  id="44453432-c2f9-4d64-948d-b26a6719257c" type="law" art="315" par="5" law="ZPO"?>Art. 315 Abs. 5 ZPO<?end_link ?></a>. Aufschiebende Wirkung der Berufung beim Ehegattenunterhalt. Die Vollstreckbarkeit von vorsorglichen Massnahmen und Eheschutzmassnahmen kann nur ausnahmsweise aufgeschoben werden, wenn ein nicht leicht wiedergutzumachender Nachteil droht. Schwierigkeiten bei der Rückforderung von zu viel bezahltem Unterhalt stellen keinen rechtlichen, sondern lediglich einen wirtschaftlichen Nachteil dar, weshalb bei Unterhaltsforderungen in der Regel das Vorliegen eines nicht leicht wiedergutzumachenden rechtlichen Nachteils verneint wird. Die aufschiebende Wirkung wird für die Zeit bis zum Einreichen der Berufung gewährt, hingegen wird sie verweigert für die zukünftige Zeit.</p>
+						<p align="justify" lang="fr"><a href="https://www.fedlex.admin.ch/eli/cc/2010/262/fr#a315"><?link  id="460b4975-d1d5-499e-8c8d-7afb680fdfa0" type="law" art="315" par="5" law="CPC"?>Art. 315 al. 5 CPC<?end_link ?></a>. Effet suspensif de l’appel en matière de contributions d’entretien entre époux. Le caractère exécutoire des mesures provisionnelles et des mesures protectrices de l’union conjugale ne peut être reporté qu’exceptionnellement, lorsque celles-ci peuvent causer un préjudice difficilement réparable. Les difficultés pour répéter des contributions d’entretien payées en trop ne constituent pas un désavantage juridique, mais uniquement un désavantage économique, c’est pourquoi il faut en principe nier l’existence d’un préjudice difficilement réparable pour les créances d’entretien. L’effet suspensif est accordé pour la période allant jusqu’à l’introduction de l’appel, en revanche il est refusé pour la période ultérieure. 	(P.P.)</p>
+					</zone>
+					<title level="1" type="text">Aus dem Sachverhalt:</title>
+					<p align="justify">Die Ehefrau wurde durch Eheschutzentscheid der Vorinstanz verpflichtet, dem Ehemann Ehegattenunterhalt zu bezahlen. Hiergegen erhob die Ehefrau Berufung und verlangte die aufschiebende Wirkung der Berufung.</p>
+					<zone type="considerations">
+						<title level="1" type="text">Aus den Erwägungen:</title>
+						<p align="justify">«4. Die Ehefrau begründet ihren Antrag auf Gewährung der aufschiebenden Wirkung damit, dass der vorin­stanzliche Entscheid falsch sei, dass der Ehemann auf den Unterhalt nicht angewiesen sei und dass sie über ausreichend Vermögen verfüge, um eine allfällige Unterhaltspflicht später noch erfüllen zu können.</p>
+						<p align="justify">Demgegenüber begründet der Ehemann seinen Antrag auf Abweisung des Antrages betreffend aufschiebende Wirkung damit, dass es nicht stimme, dass er nicht auf den Unterhalt angewiesen sei. Nachdem seine Firma, die A. GmbH, Ende Juni 2020 liquidiert werde, werde er nur noch über ein Einkommen von Fr. 1800.00 pro Monat in Form von Arbeitslosentaggeldern verfügen.</p>
+						<p align="justify">Klar und unbestritten ist, dass der vorinstanzliche Entscheid vollsteckbar ist (<a href="https://www.fedlex.admin.ch/eli/cc/2010/262/de#a315"><?link  id="d8bdde6e-15c7-43c7-bbd0-4e9fafdc6650" type="law" art="315" par="4" letter="b" law="ZPO"?>Art. 315 Abs. 4 lit. b ZPO<?end_link ?></a>). Gemäss <a href="https://www.fedlex.admin.ch/eli/cc/2010/262/de#a315"><?link  id="b208e533-ed9d-4d0d-8c46-25b9670e8ccf" type="law" art="315" par="5" law="ZPO"?>Art. 315 Abs. 5 ZPO<?end_link ?></a> kann die Rechtsmittelinstanz die Vollstreckung ausnahmsweise aufschieben, wenn der betroffenen Partei ein nicht leicht wiedergutzumachender Nachteil droht. Geht es um die Bezahlung von Unterhalt, hat das Bundesgericht im massgebenden Entscheid <anchor type="page" value="200" />i.S. <a href="http://relevancy.bger.ch/php/aza/http/index.php?lang=de&amp;type=highlight_simple_query&amp;page=1&amp;from_date=&amp;to_date=&amp;sort=relevance&amp;insertion_date=&amp;top_subcollection_aza=all&amp;query_words=5A_56%2F2019&amp;rank=1&amp;azaclir=aza&amp;highlight_docid=aza:%2F%2F09-05-2019-5A_56-2019&amp;number_of_ranks=8"><?highlight_link  id="ac09e843-f035-461e-a929-ac9cd8ce5336" type="decision" reference_number="5A_56/2019" url="http://relevancy.bger.ch/php/aza/http/index.php?lang=de&amp;type=highlight_simple_query&amp;page=1&amp;from_date=&amp;to_date=&amp;sort=relevance&amp;insertion_date=&amp;top_subcollection_aza=all&amp;query_words=5A_56%2F2019&amp;rank=1&amp;azaclir=aza&amp;highlight_docid=aza:%2F%2F09-05-2019-5A_56-2019&amp;number_of_ranks=8"?>5A_56/2019<?end_highlight_link ?></a> erklärt, stellen Schwierigkeiten bei der Rückforderung von zu viel bezahltem Unterhalt keinen rechtlichen, sondern lediglich einen wirtschaftlichen Nachteil dar (mit Verweis auf BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F138-III-333%3Ade&amp;lang=de&amp;type=show_document"><?link  id="60d39c8a-2215-425b-beb9-f1f487a34d11" type="decision" reference="138 III 333" journal_reference="BGE"?>138 III 333<?end_link ?></a> E. 1.3.1 S. 335; <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F137-III-637%3Ade&amp;lang=de&amp;type=show_document"><?link  id="c1cd94e9-6493-4716-93a4-e2f6632c2f0f" type="decision" reference="137 III 637" journal_reference="BGE" tocollect=";"?>137 III 637<?end_link ?></a> E. 1.2 S. 640; Urteile <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=08.01.2015_5A_601/2014"><?link  id="641d2c54-b971-43ed-9d25-179fd71e76ea" type="decision" reference_number="5A_601/2014" date="08.01.2015" court="BGer"?>5A_601/2014<?end_link ?></a> vom 8. Januar 2015 E. 1; <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=30.01.2013_5A_954/2012"><?link  id="f0fc1209-151d-477f-b654-3fb90c24e0c4" type="decision" reference_number="5A_954/2012" date="30.01.2013" court="BGer"?>5A_954/2012<?end_link ?></a> vom 30. Januar 2013 E. 4; s. E. 1.1), was nicht genügt. Anzumerken ist, dass im Fall von BGer <a href="http://relevancy.bger.ch/php/aza/http/index.php?lang=de&amp;type=highlight_simple_query&amp;page=1&amp;from_date=&amp;to_date=&amp;sort=relevance&amp;insertion_date=&amp;top_subcollection_aza=all&amp;query_words=5A_56%2F2019&amp;rank=1&amp;azaclir=aza&amp;highlight_docid=aza:%2F%2F09-05-2019-5A_56-2019&amp;number_of_ranks=8"><?highlight_link  id="66a6a22d-c8e2-4e17-8b1e-881ed29c7e13" type="decision" reference_number="5A_56/2019" url="http://relevancy.bger.ch/php/aza/http/index.php?lang=de&amp;type=highlight_simple_query&amp;page=1&amp;from_date=&amp;to_date=&amp;sort=relevance&amp;insertion_date=&amp;top_subcollection_aza=all&amp;query_words=5A_56%2F2019&amp;rank=1&amp;azaclir=aza&amp;highlight_docid=aza:%2F%2F09-05-2019-5A_56-2019&amp;number_of_ranks=8"?>5A_56/2019<?end_highlight_link ?></a> die Unterhaltsgläubigerin von der Fürsorgebehörde unterstützt wurde (vgl. BGer <a href="http://relevancy.bger.ch/php/aza/http/index.php?lang=de&amp;type=highlight_simple_query&amp;page=1&amp;from_date=&amp;to_date=&amp;sort=relevance&amp;insertion_date=&amp;top_subcollection_aza=all&amp;query_words=5A_56%2F2019&amp;rank=1&amp;azaclir=aza&amp;highlight_docid=aza:%2F%2F09-05-2019-5A_56-2019&amp;number_of_ranks=8"><?highlight_link  id="acacfa04-f3ff-41d6-a133-18fce0ab13ed" type="decision" reference_number="5A_56/2019" url="http://relevancy.bger.ch/php/aza/http/index.php?lang=de&amp;type=highlight_simple_query&amp;page=1&amp;from_date=&amp;to_date=&amp;sort=relevance&amp;insertion_date=&amp;top_subcollection_aza=all&amp;query_words=5A_56%2F2019&amp;rank=1&amp;azaclir=aza&amp;highlight_docid=aza:%2F%2F09-05-2019-5A_56-2019&amp;number_of_ranks=8"?>5A_56/2019<?end_highlight_link ?></a> E. 1.2.1). Deshalb wird bei Unterhaltsforderungen in der Regel das Vorliegen eines nicht leicht wiedergutzumachenden rechtlichen Nachteils verneint. <sc>Von Werdt</sc> fasst die bundesgerichtliche Rechtsprechung deshalb wie folgt zusammen: ‹…. blieben die Folgen unbeachtet, die ein Aufschub der Vollstreckung des Unterhaltsbeitrages für den Unterhaltsgläubiger haben kann. Ist nämlich der Unterhaltsanspruch als solcher strittig, entzöge ein Vollstreckungsaufschub dem Unterhaltsgläubiger die zur Deckung seines Bedarfs notwendigen Mittel. Die Abwägung der Interessen führt im Regelfall dazu, dass die aufschiebende Wirkung für die Beiträge ab dem Zeitpunkt der Einreichung des Rechtsmittels zu verweigern und sie nur für rückständige Unterhaltsforderungen zu gewähren ist (in praeteritum non vivitur)› (<sc>von Werdt</sc>, Der Rechtsschutz im Eheschutz, in: Fankhauser/Reusser/Schwander (Hrsg.), Brennpunkt Familienrecht, Festschrift für Thomas Geiser zum 65. Geburtstag, Zürich/St. Gallen 2017, S. 614 mit Verweis auf BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=02.12.2015_5A_661/2015"><?link  id="81db214f-e976-4311-9bbf-86eb1f21ef1d" type="decision" reference="5A_661/2015" court="BGer" date="02.12.2015" reference_number="5A_661/2015"?>5A_661/2015<?end_link ?></a> vom 2. Dezember 2015, E. 5.2. Für die Praxis im Verfahren vor Bundesgericht: Verfügungen des BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=26.05.2016_5A_842/2015"><?link  id="8cf909b0-ca28-4459-b913-c63db0f67ceb" type="decision" reference="5A_842/2015" court="BGer" date="26.05.2016" reference_number="5A_842/2015"?>5A_842/2015<?end_link ?></a> vom 26. Mai 2016 und BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=10.05.2016_5A_780/2015"><?link  id="8f01cb95-4252-4b91-8fee-3edb36d83f1d" type="decision" reference="5A_780/2015" court="BGer" date="10.05.2016" reference_number="5A_780/2015"?>5A_780/2015<?end_link ?></a> vom 10. Mai 2016).</p>
+						<p align="justify">Vorliegend bringen die Ehegatten keine Argumente vor, die ein Abweichen von der Regel rechtfertigen, dass nämlich die aufschiebende Wirkung für die Zeit bis zum Einreichen der Berufung gewährt wird, hingegen wird sie verweigert für die zukünftige Zeit.»</p>
+					</zone>
+					<p align="right" authorId="KT03580" slxclass="author">Mitgeteilt und bearbeitet von <honorificPrefix>lic. iur.</honorificPrefix> <givenName>Annina</givenName> <familyName>Scheiwiler</familyName>, <jobTitle>Kantonsgerichtsschreiberin</jobTitle></p>
+				</text>
+				<footnotes />
+			</document>
+		</singleDocument>
+	</singleDocuments>
+</source>

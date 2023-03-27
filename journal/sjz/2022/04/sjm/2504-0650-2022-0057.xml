@@ -1,0 +1,69 @@
+<source schemaVersion="2.1">
+	<publicationInfo>
+		<documentTitle>2504-0650-2022-0057.xml</documentTitle>
+		<accessCode accesstype="abo" />
+		<articleId>2504-0650-2022-0057</articleId>
+		<language langtype="de" />
+		<publisher publisherid="sjm">Schulthess Juristische Medien AG</publisher>
+		<eIssn>2504-0650</eIssn>
+		<issn>0036-7613</issn>
+		<journalAbbreviation>SJZ-RSJ</journalAbbreviation>
+		<journalName>Schweizerische Juristen-Zeitung/Revue Suisse de Jurisprudence</journalName>
+		<journalCode journalid="sjz" />
+		<issueInfo>
+			<year>2022</year>
+			<volume>118</volume>
+			<issueNumber>4</issueNumber>
+			<publicationDate>2022-03-01</publicationDate>
+		</issueInfo>
+	</publicationInfo>
+	<singleDocuments>
+		<singleDocument type="NewsAsset">
+			<documentInfo>
+				<title>Zur amtlichen Publikation vorgesehene Urteile des Bundesgerichts | Arrêts du Tribunal fédéral destinés à la publication dans le Recueil officiel</title>
+				<firstPage>158</firstPage>
+				<lastPage>158</lastPage>
+				<jurisdictionals>
+					<jurisdictional name="" />
+				</jurisdictionals>
+				<categories>
+					<category name="Zur amtlichen Publikation vorgesehene BGer-Urteile">sjz-007-05</category>
+				</categories>
+				<targetGroup targettype="praxis" />
+				<focus focustype="sp" />
+				<licence licencetype="Schulthess Juristische Medien AG" />
+				<price>(PayPerDoc)</price>
+			</documentInfo>
+			<document>
+				<text>
+					<title level="1" type="document">Zur amtlichen Publikation vorgesehene Urteile des Bundesgerichts | Arrêts du Tribunal fédéral destinés à la publication dans le Recueil officiel</title>
+					<zone type="abstract">
+						<p align="justify" lang="de">Die folgenden Bundesgerichtsentscheide sind mit den nachstehend aufgeführten Erwägungen zur Publikation in der amtlichen Entscheidsammlung vorgesehen:</p>
+						<p align="justify" lang="fr">Les arrêts du Tribunal fédéral suivants sont, avec les considérants ci-dessous, destinés à la publication dans le Recueil officiel:</p>
+					</zone>
+					<title level="1" type="text">Öffentlich-rechtliche Abteilungen/Cours de droit public</title>
+					<ul>
+						<li><bullet>■</bullet><a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=05.11.2021_1B_333/2021"><?link  id="735a792f-6066-44fe-b5a6-ccb4ce5b4289" type="decision" reference_number="1B_333/2021" date="05.11.2021" court="BGer"?>1B_333/2021<?end_link ?></a> vom 5. November 2021 E. 2 <br />Strafverfahren; Ausstand</li>
+					</ul>
+					<title level="1" type="text">Zivilrechtliche Abteilungen/Cours de droit civil</title>
+					<ul>
+						<li><bullet>■</bullet><a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=01.11.2021_4A_36/2021"><?link  id="5725768f-2a85-4b34-bc7e-4a9ce15ece7c" type="decision" reference_number="4A_36/2021" date="01.11.2021" court="BGer"?>4A_36/2021<?end_link ?></a> vom 1. November 2021 E. 3.2–3.2.3.2 <br />Aktienrechtliche Verantwortlichkeit; Aktivlegitimation, Schaden</li>
+					</ul>
+					<title level="1" type="text">Strafrechtliche Abteilung/Cour de droit pénal</title>
+					<ul>
+						<li><bullet>■</bullet><a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=28.10.2021_6B_727/2020"><?link  id="818f4c9a-4bc6-444c-a64b-19f6e436fd8b" type="decision" reference_number="6B_727/2020" date="28.10.2021" court="BGer"?>6B_727/2020<?end_link ?></a> vom 28. Oktober 2021 E. 2 <br />Fahrlässige Tötung (Freispruch), Sorgfaltspflichtverletzung, Heilmittelgesetz (HMG)</li>
+					</ul>
+					<title level="1" type="text">Sozialrechtliche Abteilungen/Cours de droit social</title>
+					<ul>
+						<li><bullet>■</bullet><a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=09.11.2021_8C_463/2021"><?link  id="2c5ade00-6fbc-4b9c-b3f9-d2164e4e1b12" type="decision" reference_number="8C_463/2021" date="09.11.2021" court="BGer"?>8C_463/2021<?end_link ?></a> vom 9. November 2021 E. 2–4, E. 6 <br />Arbeitslosenversicherung (Kurzarbeitsentschädigung)</li>
+						<li><bullet>■</bullet><a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=09.11.2021_8C_773/2020"><?link  id="5c895790-65c8-41d4-9c1e-e123d61f698c" type="decision" reference_number="8C_773/2020" date="09.11.2021" court="BGer"?>8C_773/2020<?end_link ?></a> vom 9. November 2021 E. 2–8 <br />Unfallversicherung (versicherter Verdienst)</li>
+						<li><bullet>■</bullet><a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=23.11.2021_9C_764/2020"><?link  id="7a5621a5-368f-4d61-9bcd-50ff39ce5a6f" type="decision" reference_number="9C_764/2020" date="23.11.2021" court="BGer"?>9C_764/2020<?end_link ?></a> vom 23. November 2021 E. 2, E. 5 <br />Krankenversicherung (Spital­behandlung; Kantonsanteil)</li>
+						<li><bullet>■</bullet><a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=17.11.2021_8C_280/2021"><?link  id="147f72ab-b7f3-4238-a88e-6ab1b1c95d70" type="decision" reference_number="8C_280/2021" date="17.11.2021" court="BGer"?>8C_280/2021<?end_link ?></a> vom 17. November 2021 E. 2, E. 5–7 <br />Invalidenversicherung (Invalidenrente)</li>
+						<li><bullet>■</bullet><a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=17.11.2021_8C_272/2021"><?link  id="afea726f-e0a4-4645-a3ac-d740521b220f" type="decision" reference_number="8C_272/2021" date="17.11.2021" court="BGer"?>8C_272/2021<?end_link ?></a> vom 17. November 2021 E. 3–6 <br />Arbeitslosenversicherung (Kurzarbeitsentschädigung; Rückerstattung)</li>
+					</ul>
+				</text>
+				<footnotes />
+			</document>
+		</singleDocument>
+	</singleDocuments>
+</source>

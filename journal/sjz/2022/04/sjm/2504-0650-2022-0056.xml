@@ -1,0 +1,52 @@
+<source schemaVersion="2.1">
+	<publicationInfo>
+		<documentTitle>2504-0650-2022-0056.xml</documentTitle>
+		<accessCode accesstype="offen" />
+		<articleId>2504-0650-2022-0056</articleId>
+		<language langtype="de" />
+		<publisher publisherid="sjm">Schulthess Juristische Medien AG</publisher>
+		<eIssn>2504-0650</eIssn>
+		<issn>0036-7613</issn>
+		<journalAbbreviation>SJZ-RSJ</journalAbbreviation>
+		<journalName>Schweizerische Juristen-Zeitung/Revue Suisse de Jurisprudence</journalName>
+		<journalCode journalid="sjz" />
+		<issueInfo>
+			<year>2022</year>
+			<volume>118</volume>
+			<issueNumber>4</issueNumber>
+			<publicationDate>2022-03-01</publicationDate>
+		</issueInfo>
+	</publicationInfo>
+	<singleDocuments>
+		<singleDocument type="NewsAsset">
+			<documentInfo>
+				<title>Vernehmlassung zur Einführung des AIA mit zwölf weiteren Staaten und Territorien eröffnet</title>
+				<firstPage>158</firstPage>
+				<lastPage>158</lastPage>
+				<jurisdictionals>
+					<jurisdictional name="Banken- und Finanzmarktrecht">40-35</jurisdictional>
+				</jurisdictionals>
+				<categories>
+					<category name="Aktuelle Meldungen">sjz-007-02</category>
+				</categories>
+				<keywords>
+					<title>Schlagworte</title>
+					<keyword>automatischer Informationsaustausch über Finanzkonten (AIA) </keyword>
+				</keywords>
+				<targetGroup targettype="praxis" />
+				<focus focustype="sp" />
+				<licence licencetype="Schulthess Juristische Medien AG" />
+				<price>(PayPerDoc)</price>
+			</documentInfo>
+			<document>
+				<text>
+					<p><anchor type="page" value="158" /></p>
+					<title level="1" type="document">Vernehmlassung zur Einführung des AIA mit zwölf weiteren Staaten und Territorien eröffnet</title>
+					<p align="justify">Zur Stärkung der Integrität und Transparenz des Schweizer Finanzplatzes sowie zur Bekämpfung von illegalen Finanzflüssen hat der Bundesrat an seiner Sitzung vom 3. Dezember 2021 die Vernehmlassung zur Einführung des automatischen Informationsaustauschs über Finanzkonten (AIA) mit zwölf weiteren Staaten und Territorien eröffnet. Geplant ist das Inkrafttreten des erweiterten AIA am 1. Januar 2023.</p>
+					<p align="justify">Ziel dieser weiteren AIA-Einführungen ist die Erweiterung des bisherigen Netzwerks der Schweiz sowie die Bekräftigung des Engagements zur Einhaltung der internationalen Standards. Zudem soll der Schweizer Finanzplatz weiterhin zu den global führenden und modernen Finanzplätzen gehören. Die Erweiterung des AIA-Netzwerks soll Finanzkriminalität, Steuerhinterziehung, Geldwäscherei und Korruption entgegengenwirken und zu deren Verhinderung beitragen.</p>
+				</text>
+				<footnotes />
+			</document>
+		</singleDocument>
+	</singleDocuments>
+</source>

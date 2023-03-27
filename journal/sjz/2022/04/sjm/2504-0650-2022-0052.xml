@@ -1,0 +1,52 @@
+<source schemaVersion="2.1">
+	<publicationInfo>
+		<documentTitle>2504-0650-2022-0052.xml</documentTitle>
+		<accessCode accesstype="offen" />
+		<articleId>2504-0650-2022-0052</articleId>
+		<language langtype="de" />
+		<publisher publisherid="sjm">Schulthess Juristische Medien AG</publisher>
+		<eIssn>2504-0650</eIssn>
+		<issn>0036-7613</issn>
+		<journalAbbreviation>SJZ-RSJ</journalAbbreviation>
+		<journalName>Schweizerische Juristen-Zeitung/Revue Suisse de Jurisprudence</journalName>
+		<journalCode journalid="sjz" />
+		<issueInfo>
+			<year>2022</year>
+			<volume>118</volume>
+			<issueNumber>4</issueNumber>
+			<publicationDate>2022-03-01</publicationDate>
+		</issueInfo>
+	</publicationInfo>
+	<singleDocuments>
+		<singleDocument type="NewsAsset">
+			<documentInfo>
+				<title>Kontingente 2022 für Erwerbstätige aus Drittstaaten und dem UK festgelegt</title>
+				<firstPage>157</firstPage>
+				<lastPage>157</lastPage>
+				<jurisdictionals>
+					<jurisdictional name="Völkerrecht">120-30</jurisdictional>
+				</jurisdictionals>
+				<categories>
+					<category name="Aktuelle Meldungen">sjz-007-02</category>
+				</categories>
+				<keywords>
+					<title>Schlagworte</title>
+					<keyword>Erwerbstätige aus Drittstaaten </keyword>
+				</keywords>
+				<targetGroup targettype="praxis" />
+				<focus focustype="sp" />
+				<licence licencetype="Schulthess Juristische Medien AG" />
+				<price>(PayPerDoc)</price>
+			</documentInfo>
+			<document>
+				<text>
+					<p><anchor type="page" value="157" /></p>
+					<title level="1" type="document">Kontingente 2022 für Erwerbstätige aus Drittstaaten und dem UK festgelegt</title>
+					<p align="justify">Der Bundesrat verabschiedete an seiner Sitzung vom 24. November 2021 die Teilrevision der Verordnung über die Zulassung, Aufenthalt und Erwerbstätige (VZAE), welches die Kontingente für Erwerbstätige aus Drittstatten und dem UK für das Jahr 2022 regelt. Die neuen Regeln sind am 1. Januar 2022 in Kraft getreten und werden auf dem Niveau von 2021 weitergeführt. Mit dem neu festgelegten Kontingent für dieses Jahr können Schweizer Unternehmen, nebst Arbeitskräften aus den EU/EFTA-Staaten auch Fachkräfte aus Drittstaaten und dem UK rekrutieren.</p>
+					<p align="justify">Der Bundesrat legte sein Kontingent nach Anhörung der Kantone und Sozialpartner wie auch mit Blick auf den wirtschaftlichen Be­darf fest. So können es im Jahr 2022 bis zu 8500 qualifizierte Fachkräfte aus Drittstaaten und dem UK werden. Diese Zahl setzt sich aus 4500 Aufenthaltsbewilligungen B und 4000 Kurzaufenthaltsbewilligungen L zusammen.</p>
+				</text>
+				<footnotes />
+			</document>
+		</singleDocument>
+	</singleDocuments>
+</source>

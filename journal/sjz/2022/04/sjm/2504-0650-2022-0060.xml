@@ -1,0 +1,417 @@
+<source schemaVersion="2.1">
+	<publicationInfo>
+		<documentTitle>2504-0650-2022-0060.xml</documentTitle>
+		<accessCode accesstype="abo" />
+		<articleId>2504-0650-2022-0060</articleId>
+		<language langtype="de" />
+		<publisher publisherid="sjm">Schulthess Juristische Medien AG</publisher>
+		<eIssn>2504-0650</eIssn>
+		<issn>0036-7613</issn>
+		<journalAbbreviation>SJZ-RSJ</journalAbbreviation>
+		<journalName>Schweizerische Juristen-Zeitung/Revue Suisse de Jurisprudence</journalName>
+		<journalCode journalid="sjz" />
+		<issueInfo>
+			<year>2022</year>
+			<volume>118</volume>
+			<issueNumber>4</issueNumber>
+			<publicationDate>2022-03-01</publicationDate>
+		</issueInfo>
+	</publicationInfo>
+	<singleDocuments>
+		<singleDocument type="EssayAsset">
+			<documentInfo>
+				<title>Entwicklungen im Sachenrecht und Bodenrecht | Le point sur les droits réels et le droit foncier</title>
+				<subtitle>Berichtszeitraum November 2020 bis November 2021</subtitle>
+				<authors>
+					<author>
+						<person id="K01402" />
+						<honorific>Prof. em. Dr. iur.</honorific>
+						<firstName>Roland</firstName>
+						<lastName>Pfäffli</lastName>
+					</author>
+				</authors>
+				<firstPage>185</firstPage>
+				<lastPage>191</lastPage>
+				<decisionInfos>
+					<decisionInfo>
+						<decisionNumber>5A_782/2020</decisionNumber>
+						<decisionDate>2021-08-23</decisionDate>
+						<decisionSubjectField>Sachenrecht</decisionSubjectField>
+						<decisionObject>Vorkaufsrecht (Miteigentum)</decisionObject>
+						<decisionCourtLocation>CH</decisionCourtLocation>
+						<decisionCourtName name="Bundesgericht">2</decisionCourtName>
+						<decisionCourtDevision>II. zivilrechtliche Abteilung</decisionCourtDevision>
+					</decisionInfo>
+					<decisionInfo>
+						<decisionNumber>5D_91/2020</decisionNumber>
+						<decisionDate>2020-09-07</decisionDate>
+						<decisionSubjectField>Sachenrecht</decisionSubjectField>
+						<decisionObject>Nachbarrecht</decisionObject>
+						<decisionCourtLocation>CH</decisionCourtLocation>
+						<decisionCourtName name="Bundesgericht">2</decisionCourtName>
+						<decisionCourtDevision>II. zivilrechtliche Abteilung</decisionCourtDevision>
+					</decisionInfo>
+					<decisionInfo>
+						<decisionNumber>5A_127/2020</decisionNumber>
+						<decisionDate>2021-04-22</decisionDate>
+						<decisionSubjectField>Droits réels</decisionSubjectField>
+						<decisionObject>action en prévention et cessation de trouble</decisionObject>
+						<decisionCourtLocation>CH</decisionCourtLocation>
+						<decisionCourtName name="Bundesgericht">2</decisionCourtName>
+						<decisionCourtDevision>IIe Cour de droit civil</decisionCourtDevision>
+					</decisionInfo>
+					<decisionInfo>
+						<decisionNumber>5A_753/2020</decisionNumber>
+						<decisionDate>2020-12-15</decisionDate>
+						<decisionSubjectField>Sachenrecht</decisionSubjectField>
+						<decisionObject>Anfechtung von Beschlüssen der Stockwerkeigentümergemeinschaft</decisionObject>
+						<decisionCourtLocation>CH</decisionCourtLocation>
+						<decisionCourtName name="Bundesgericht">2</decisionCourtName>
+						<decisionCourtDevision>II. zivilrechtliche Abteilung</decisionCourtDevision>
+					</decisionInfo>
+					<decisionInfo>
+						<decisionNumber>5A_878/2020</decisionNumber>
+						<decisionDate>2021-02-02</decisionDate>
+						<decisionSubjectField>Sachenrecht</decisionSubjectField>
+						<decisionObject>Festlegung des Standortes der Fluchtwegbrücke (Stockwerkeigentum)</decisionObject>
+						<decisionCourtLocation>CH</decisionCourtLocation>
+						<decisionCourtName name="Bundesgericht">2</decisionCourtName>
+						<decisionCourtDevision>II. zivilrechtliche Abteilung</decisionCourtDevision>
+					</decisionInfo>
+					<decisionInfo>
+						<decisionNumber>5A_89/2020</decisionNumber>
+						<decisionDate>2020-10-21</decisionDate>
+						<decisionSubjectField>Sachenrecht</decisionSubjectField>
+						<decisionObject>Überschreitung von Eigentumsrechten</decisionObject>
+						<decisionCourtLocation>CH</decisionCourtLocation>
+						<decisionCourtName name="Bundesgericht">2</decisionCourtName>
+						<decisionCourtDevision>II. zivilrechtliche Abteilung</decisionCourtDevision>
+					</decisionInfo>
+					<decisionInfo>
+						<decisionNumber>5A_664/2019</decisionNumber>
+						<decisionDate>2020-12-03</decisionDate>
+						<decisionSubjectField>Droits réels</decisionSubjectField>
+						<decisionObject>servitude de passage (action confessoire, cessation de trouble)</decisionObject>
+						<decisionCourtLocation>CH</decisionCourtLocation>
+						<decisionCourtName name="Bundesgericht">2</decisionCourtName>
+						<decisionCourtDevision>IIe Cour de droit civil</decisionCourtDevision>
+					</decisionInfo>
+					<decisionInfo>
+						<decisionReference>145 III 121</decisionReference>
+						<decisionNumber>5A_340/2017</decisionNumber>
+						<decisionDate>2018-12-11</decisionDate>
+						<decisionSubjectField>Sachenrecht</decisionSubjectField>
+						<decisionObject>Besitzesstörung, Eigentumsfreiheitsklage</decisionObject>
+						<decisionCourtLocation>CH</decisionCourtLocation>
+						<decisionCourtName name="Bundesgericht">2</decisionCourtName>
+						<decisionCourtDevision>II. zivilrechtliche Abteilung</decisionCourtDevision>
+					</decisionInfo>
+					<decisionInfo>
+						<decisionReference>147 III 215 </decisionReference>
+						<decisionNumber>5A_128/2020</decisionNumber>
+						<decisionDate>2021-04-13</decisionDate>
+						<decisionSubjectField>Sachenrecht</decisionSubjectField>
+						<decisionObject>Verlegung einer Wegrechtsfläche</decisionObject>
+						<decisionCourtLocation>CH</decisionCourtLocation>
+						<decisionCourtName name="Bundesgericht">2</decisionCourtName>
+						<decisionCourtDevision>II. zivilrechtliche Abteilung</decisionCourtDevision>
+					</decisionInfo>
+					<decisionInfo>
+						<decisionNumber>5A_1007/2020</decisionNumber>
+						<decisionDate>2021-07-02</decisionDate>
+						<decisionSubjectField>Sachenrecht</decisionSubjectField>
+						<decisionObject>Bestand des Baurechtsverhältnisses</decisionObject>
+						<decisionCourtLocation>CH</decisionCourtLocation>
+						<decisionCourtName name="Bundesgericht">2</decisionCourtName>
+						<decisionCourtDevision>II. zivilrechtliche Abteilung</decisionCourtDevision>
+					</decisionInfo>
+					<decisionInfo>
+						<decisionReference>146 III 426</decisionReference>
+						<decisionNumber>5A_806/2019</decisionNumber>
+						<decisionDate>2020-09-14</decisionDate>
+						<decisionSubjectField>Schuldbetreibungs- und Konkursrecht</decisionSubjectField>
+						<decisionObject>Steigerungsbedingungen</decisionObject>
+						<decisionCourtLocation>CH</decisionCourtLocation>
+						<decisionCourtName name="Bundesgericht">2</decisionCourtName>
+						<decisionCourtDevision>II. zivilrechtliche Abteilung</decisionCourtDevision>
+					</decisionInfo>
+					<decisionInfo>
+						<decisionNumber>2C_552/2020</decisionNumber>
+						<decisionDate>2020-11-16</decisionDate>
+						<decisionSubjectField>Finances publiques &amp; droit fiscal</decisionSubjectField>
+						<decisionObject>Impôt sur les gains imobiliers; hypothèque légale</decisionObject>
+						<decisionCourtLocation>CH</decisionCourtLocation>
+						<decisionCourtName name="Bundesgericht">2</decisionCourtName>
+						<decisionCourtDevision>IIe Cour de droit public</decisionCourtDevision>
+					</decisionInfo>
+					<decisionInfo>
+						<decisionNumber>5A_395/2020</decisionNumber>
+						<decisionDate>2021-03-16</decisionDate>
+						<decisionSubjectField>Sachenrecht</decisionSubjectField>
+						<decisionObject>Vorläufige Eintragung eines Bauhandwerkerpfandrechts</decisionObject>
+						<decisionCourtLocation>CH</decisionCourtLocation>
+						<decisionCourtName name="Bundesgericht">2</decisionCourtName>
+						<decisionCourtDevision>II. zivilrechtliche Abteilung</decisionCourtDevision>
+					</decisionInfo>
+					<decisionInfo>
+						<decisionNumber>9C_293/2020</decisionNumber>
+						<decisionDate>2021-07-01</decisionDate>
+						<decisionSubjectField>Berufliche Vorsorge</decisionSubjectField>
+						<decisionObject>Berufliche Vorsorge</decisionObject>
+						<decisionCourtLocation>CH</decisionCourtLocation>
+						<decisionCourtName name="Bundesgericht">2</decisionCourtName>
+						<decisionCourtDevision>II. sozialrechtliche Abteilung</decisionCourtDevision>
+					</decisionInfo>
+					<decisionInfo>
+						<decisionNumber>5A_1024/2020</decisionNumber>
+						<decisionDate>2020-12-11</decisionDate>
+						<decisionSubjectField>Sachenrecht</decisionSubjectField>
+						<decisionObject>Ausstellung eines Grundbuchauszuges</decisionObject>
+						<decisionCourtLocation>CH</decisionCourtLocation>
+						<decisionCourtName name="Bundesgericht">2</decisionCourtName>
+						<decisionCourtDevision>II. zivilrechtliche Abteilung</decisionCourtDevision>
+					</decisionInfo>
+					<decisionInfo>
+						<decisionNumber>2C_589/2020</decisionNumber>
+						<decisionDate>2021-03-22</decisionDate>
+						<decisionSubjectField>Sachenrecht</decisionSubjectField>
+						<decisionObject>Erwerb von Grundstücken durch Personen im Ausland</decisionObject>
+						<decisionCourtLocation>CH</decisionCourtLocation>
+						<decisionCourtName name="Bundesgericht">2</decisionCourtName>
+						<decisionCourtDevision>II. öffentlich-rechtliche Abteilung</decisionCourtDevision>
+					</decisionInfo>
+				</decisionInfos>
+				<commentedArticles>
+					<commentedArticle link="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a684">Art. 684 ZGB</commentedArticle>
+					<commentedArticle link="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a647c">Art. 647c ZGB</commentedArticle>
+					<commentedArticle link="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a742">Art. 742 ZGB</commentedArticle>
+					<commentedArticle link="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a779c">Art. 779c ZGB</commentedArticle>
+					<commentedArticle link="https://www.fedlex.admin.ch/eli/cc/11/529_488_529/de#a156">Art. 156 SchKG</commentedArticle>
+					<commentedArticle link="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a836">Art. 836 ZGB</commentedArticle>
+					<commentedArticle link="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a839">Art. 839 ZGB</commentedArticle>
+					<commentedArticle link="https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/de#a30c">Art. 30c f. BVG</commentedArticle>
+					<commentedArticle link="https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/de#a2">Art. 2 BewG</commentedArticle>
+				</commentedArticles>
+				<jurisdictionals>
+					<jurisdictional name="Sachenrecht">10-25</jurisdictional>
+				</jurisdictionals>
+				<categories>
+					<category name="Entwicklungen">sjz-002</category>
+				</categories>
+				<keywords>
+					<title>Schlagworte</title>
+					<keyword>Lex Koller</keyword>
+					<keyword>Ausübung Vorkaufsrecht</keyword>
+					<keyword>Nachbarrecht</keyword>
+					<keyword>Stockwerkeigentum</keyword>
+					<keyword>gemeinschaftliche Kosten</keyword>
+					<keyword>notwendige bauliche Massnahme</keyword>
+					<keyword>Dienstbarkeit</keyword>
+					<keyword>Baurecht</keyword>
+					<keyword>Schuldbrief</keyword>
+					<keyword>Gesetzliches Grundpfandrecht</keyword>
+					<keyword>Bauhandwerkerpfandrecht</keyword>
+					<keyword>BVG-Vorbezug für Eigenheim</keyword>
+					<keyword>Öffentlichkeit des Grundbuchs</keyword>
+				</keywords>
+				<targetGroup targettype="praxis" />
+				<focus focustype="sp" />
+				<licence licencetype="Schulthess Juristische Medien AG" />
+				<price>(PayPerDoc)</price>
+			</documentInfo>
+			<document>
+				<text>
+					<p><anchor type="page" value="185" /></p>
+					<title level="1" type="document">Entwicklungen im Sachenrecht und Bodenrecht | Le point sur les droits réels et le droit foncier</title>
+					<title level="2" type="document">Berichtszeitraum November 2020 bis November 2021</title>
+					<p align="justify" authorId="K01402" slxclass="author"><honorificPrefix>Prof. em. Dr. iur.</honorificPrefix> <givenName>Roland</givenName> <familyName>Pfäffli</familyName>, <jobTitle>Notar</jobTitle>, Thun<footnotecall number="*" fnid="fn1" /></p>
+					<title level="1" type="text"><number>I.</number>Gesetzgebung</title>
+					<title level="2" type="text"><number>A.</number>Untergrund</title>
+					<p align="justify">Am 18. September 2019 hat <i>Nationalrat Karl Vogler</i> (CVP/OW) die Motion Nr. 19.4059 eingereicht,<footnotecall number="1" fnid="fn2" /> wonach der Bundesrat beauftragt wurde, einen Aktionsplan «Digitalisierung des geologischen Untergrunds» zur Sicherung zukünftiger Investitionen für unterirdische Infrastrukturen, für die Gewinnung von Georessourcen und für die Lagerung von Abfällen zu erstellen. Die Motion wurde sowohl vom Nationalrat wie auch vom Ständerat angenommen.</p>
+					<p align="justify">In Erfüllung dieser Motion und auch des früheren Postulats Nr. 16.4108 vom 16. Dezember 2016<footnotecall number="2" fnid="fn3" /> des gleichen Parlamentariers wurde am 19. Mai 2021 vom Bundesrat das Vernehmlassungsverfahren zur Änderung des GeoIG<footnotecall number="3" fnid="fn4" /> eröffnet. Die Vernehmlassungsfrist ist am 20. September 2021 abgelaufen.<footnotecall number="4" fnid="fn5" /></p>
+					<title level="2" type="text"><number>B.</number>Lex Koller</title>
+					<p align="justify">Als Folge des Austritts des Vereinigten Königreichs von Grossbritannien und Nordirland aus der Europäischen Union (Brexit mit Wirkung ab 1. Januar 2021) wurden das BewG<footnotecall number="5" fnid="fn6" /> sowie die BewV<footnotecall number="6" fnid="fn7" /> den neuen Verhältnissen angepasst. Die Änderungen sind am 1. März 2021 in Kraft getreten.<footnotecall number="7" fnid="fn8" /></p>
+					<p align="justify">Im Rahmen einer parlamentarischen Initiative Nr. 16.498 vom 16. Dezember 2016<footnotecall number="8" fnid="fn9" /> sollen neben den Grundstücken neu auch strategische Infrastrukturen der Energiewirtschaft – wie namentlich die Wasserkraftwerke, die Stromnetze sowie Gasnetze – unter die Lex Koller fallen. Dazu gehören auch Rohrleitungen zur Beförderung von gasförmigen Brenn- oder Treibstoffen sowie Kernkraftwerke. Die Vernehmlassung zum Vorentwurf der Gesetzesänderung ist am 17. Februar 2022 abgelaufen.</p>
+					<p align="justify">Zudem hat der Nationalrat gestützt auf die Motion Nr. 21.3598 vom 17. Mai 2021 der Kommission für Wirt-<anchor type="page" value="186" />schaft und Abgaben (WAK-NR)<footnotecall number="9" fnid="fn10" /> beschlossen, die Vernehmlassungsvorlage vom 10. März 2017<footnotecall number="10" fnid="fn11" />, die gestützt auf das seinerzeitige Ergebnis dazu geführt hat, dass der Bundesrat auf die Gesetzesänderung verzichtet hat, wieder in Form einer Botschaft dem Parlament zu unterbreiten. Die Abstimmung im Ständerat über diese Frage steht noch aus.</p>
+					<title level="1" type="text"><number>II.</number>Rechtsprechung</title>
+					<title level="2" type="text"><number>A.</number>Kaufpreis (Ausübung Vorkaufsrecht)</title>
+					<p align="justify">In einem öffentlich beurkundeten Kaufvertrag wurde ein Baurechtsgrundstück zu einem Preis von 1,45 Mio. CHF verkauft. In einer separaten, jedoch nicht öffentlich beurkundeten Vereinbarung wurde zwischen den Vertragsparteien festgehalten, dass der Käufer zum vereinbarten Kaufpreis von 1,45 Mio. CHF zusätzlich ein Inventar zum Preis von CHF 150 000.00 übernimmt. Der öffentlich beurkundete Kaufvertrag enthält diesbezüglich folgende Bestimmung: <i>«Über die Übernahme des Inventars haben die Parteien, ohne Mitwirkung und Verantwortung des Notariates X., eine separate Vereinbarung getroffen.»</i></p>
+					<p align="justify">In der Folge übte der Grundeigentümer sein gesetzliches Vorkaufsrecht gemäss <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a682"><?link  id="c316c183-19b2-45fa-85d9-6b57bba949b6" type="law" art="682" par="2" law="ZGB"?>Art. 682 Abs. 2 ZGB<?end_link ?></a><footnotecall number="11" fnid="fn12" /> aus, und zwar zum Preis von 1,45 Mio. CHF Der Verkäufer wollte sich jedoch auf den höheren Preis (1,6 Mio. CHF) berufen, der (wie erwähnt) nicht beurkundet wurde.</p>
+					<p align="justify">Mit anderen Worten: Der im Vertrag nicht aufgeführte Inventarpreis von CHF 150 000.00 hätte auch beurkundet werden müssen, da der von den Vertragsparteien wirklich gewollte Kaufpreis effektiv 1,6 Mio. CHF betrug. Der Kaufvertrag wurde somit formungültig abgeschlossen. Trotzdem konnte im vorliegenden Fall das Vorkaufsrecht ausgeübt werden, und zwar zum Preis von 1,45 Mio. CHF, da sich der Verkäufer gegenüber dem Vorkaufsberechtigten rechtsmissbräuchlich auf den Formmangel berief und in diesem Fall gestützt auf Lehre und Rechtsprechung vom Eintritt eines gültigen Vorkaufsfalls auszugehen war.<footnotecall number="12" fnid="fn13" /></p>
+					<title level="2" type="text"><number>B.</number>Nachbarrecht (Beeinträchtigung der Aussicht)</title>
+					<p align="justify">Gemäss <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a684"><?link  id="5f8b3274-21e3-4337-981a-5715181b86c5" type="law" art="684" law="ZGB"?>Art. 684 ZGB<?end_link ?></a> ist jedermann verpflichtet, sich bei der Ausübung seines Eigentums aller übermässigen Einwirkung auf das Eigentum der Nachbarn zu enthalten. Verboten sind insbesondere alle schädlichen und nach Lage und Beschaffenheit der Grundstücke oder nach Ortsgebrauch nicht gerechtfertigten Einwirkungen, namentlich Erschütterungen.</p>
+					<p align="justify">Zu den von <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a684"><?link  id="bdea5c7c-c4fc-41c4-953c-158123c5ba85" type="law" art="684" law="ZGB"?>Art. 684 ZGB<?end_link ?></a> erfassten negativen Immissionen zählen nicht nur der Schattenwurf und der Lichtentzug, sondern auch das Verstellen einer spektakulären Aussicht. Diese Art der Beeinträchtigung kann aber nur unter ausserordentlich strengen Voraussetzungen übermässig i.S.v. <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a684"><?link  id="998a65ff-87dc-4b16-b414-da47a73c52f8" type="law" art="684" par="1" law="ZGB"?>Art. 684 Abs. 1 ZGB<?end_link ?></a> sein, etwa wenn eine besonders schöne Aussicht in schwerwiegender Weise eingeschränkt wird oder das Nachbargrundstück aufgrund einer besonderen Nutzungsart auf die Aussicht angewiesen ist, wie dies beispielsweise bei einem Hotelbetrieb der Fall sein kann.</p>
+					<p align="justify">Im konkreten Fall aus dem Kanton Wallis ging es um eine doppelstämmige Tanne sowie eine Arve, durch die dem Nachbargrundstück (Chalet und Vorplatz) massgeblich Sonne und Licht entzogen werden, was die Aussicht auf das Weisshornmassiv stark beeinträchtigte. Die Vorinstanzen verfügten deshalb die Entfernung der beiden Bäume. Der Streitwert betrug CHF 20 000.00. Das Bundesgericht bestätigte im Rahmen einer Verfassungsbeschwerde (mit dem strengen Rügeprinzip gemäss <a href="https://www.fedlex.admin.ch/eli/cc/2006/218/de#a117"><?link  id="ef5fab6f-8058-4731-a312-a4f6bc0a9991" type="law" art="117" law="BGG"?>Art. 117 BGG<?end_link ?></a><footnotecall number="13" fnid="fn14" /> i.V.m. <a href="https://www.fedlex.admin.ch/eli/cc/2006/218/de#a106"><?link  id="87577efd-8cb1-403d-a799-f31fa47ae026" type="law" art="106" par="2" law="BGG"?>Art. 106 Abs. 2 BGG<?end_link ?></a>) dieses Urteil, sodass die beiden Bäume beseitigt werden mussten.<footnotecall number="14" fnid="fn15" /></p>
+					<title level="2" type="text"><number>C.</number>Stockwerkeigentum (Betreuungstätigkeit)</title>
+					<p align="justify">Jedermann ist verpflichtet, bei der Ausübung seines Eigentums, wie namentlich beim Betrieb eines Gewerbes auf seinem Grundstück, sich aller übermässigen Einwirkungen auf das Eigentum der Nachbarn zu enthalten <anchor type="page" value="187" />(<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a684"><?link  id="a8b3a889-acf6-4081-b0c0-f58a1adda771" type="law" art="684" par="1" law="ZGB"?>Art. 684 Abs. 1 ZGB<?end_link ?></a>). Nebst diesem Grundsatz kommen beim Stockwerkeigentum regelmässig auch die Bestimmungen des Reglements der Stockwerkeigentümergemeinschaft zum Tragen (<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a712g"><?link  id="f43daa67-bdb5-44ca-855e-67d875444f4d" type="law" art="712g" par="2" law="ZGB"?>Art. 712g Abs. 2 ZGB<?end_link ?></a>).</p>
+					<p align="justify">Im konkreten Fall ging es um die Betreuungstätigkeit einer professionell ausgebildeten Tagesmutter <i>(Maman de jour)</i> in einer Stockwerkeinheit. Als Miteigentümerin dieser Einheit kümmerte sie sich um fremde Kinder, und zwar maximal fünf Schulkinder jeweils vor, zwischen und nach dem Unterricht. Die ersten Kinder kommen morgens zwischen 7.30 Uhr und 8.00 Uhr, manche allein, manche werden von den Eltern gebracht und auch wieder abgeholt.</p>
+					<p align="justify">Es stellte sich die Frage, ob diese Tätigkeit mit dem Reglement der Stockwerkeigentümergemeinschaft vereinbar sei. Dieses Reglement hält fest, dass eine gewerbliche Tätigkeit nur zulässig ist, wenn die Ruhe im Gebäude damit nicht gestört wird. Das Bundesgericht kommt zum Schluss, dass die erwähnte Tätigkeit als Tagesmutter mit dem Reglement nicht vereinbar sei.<footnotecall number="15" fnid="fn16" /></p>
+					<title level="2" type="text"><number>D.</number>Stockwerkeigentum (gemeinschaftliche Kosten)</title>
+					<p align="justify">Strittig war im konkreten Fall, ob ein Stockwerkeigentümer sich (wie an der Versammlung der Stockwerkeigentümer beschlossen) anteilsmässig an den Kosten für einen Kinderspielplatz auf dem Nachbargrundstück beteiligen muss, obwohl er keine Kinder hat.</p>
+					<p align="justify">Der Streitwert erreichte den gesetzlichen Mindestbetrag von CHF 30 000.00 nicht (<a href="https://www.fedlex.admin.ch/eli/cc/2006/218/de#a74"><?link  id="fca16e6d-d881-46a2-8c97-70fbbb249778" type="law" art="74" par="1" letter="b" law="BGG"?>Art. 74 Abs. 1 lit. b BGG<?end_link ?></a>). Auch lag keine Frage von grundsätzlicher Bedeutung vor. Im Rahmen der Verfassungsbeschwerde (mit dem strengen Rügeprinzip gemäss <a href="https://www.fedlex.admin.ch/eli/cc/2006/218/de#a117"><?link  id="aa561b75-0a34-41da-8209-39fd9d31d165" type="law" art="117" law="BGG"?>Art. 117 BGG<?end_link ?></a> i.V.m. <a href="https://www.fedlex.admin.ch/eli/cc/2006/218/de#a106"><?link  id="fdfb7fe8-e9c6-445f-9181-248cad9c639c" type="law" art="106" par="2" law="BGG"?>Art. 106 Abs. 2 BGG<?end_link ?></a>) wurde die Beschwerde des Stockwerkeigentümers abgewiesen. Er ist Eigentümer einer Stockwerkeinheit seit 1992 und bezahlte seither alle Beiträge an den Kinderspielplatz. Im Jahre 2014 wurde beschlossen, die Kosten weiterhin zu bezahlen, allerdings neu durch die eigene Verwaltung. Dieser Beschluss wurde in den Jahren 2015, 2016 und 2017 bestätigt, wobei der Beschwerdeführer jeweils nicht zugestimmt hat, ohne jedoch die Beschlüsse anzufechten. Erst im Jahr 2018 machte der Beschwerdeführer die Nichtigkeit aller Beschlüsse von 2014 bis 2018 geltend. Diese Vorgehensweise erweist sich als rechtsmissbräuchlich.<footnotecall number="16" fnid="fn17" /></p>
+					<title level="2" type="text"><number>E.</number>Stockwerkeigentum (notwendige bauliche Massnahme)</title>
+					<p align="justify">Welche baulichen Massnahmen beim Stockwerkeigentum als notwendig, welche als nützlich und welche als luxuriös anzusehen sind, ist im Einzelfall unter Würdigung aller Umstände zu prüfen. Notwendig sind die Unterhalts-, Wiederherstellungs- und Erneuerungsarbeiten, die für die Erhaltung des Wertes und der Gebrauchsfähigkeit der Sache nötig sind (<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a647c"><?link  id="5dfa8778-5088-418f-82c0-c00dca17289f" type="law" art="647c" law="ZGB"?>Art. 647c ZGB<?end_link ?></a>), nützlich sind die Erneuerungs- und Umbauarbeiten, die eine Wertsteigerung oder Verbesserung der Wirtschaftlichkeit oder Gebrauchsfähigkeit der Sache bezwecken (<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a647d"><?link  id="8947b1d9-19c6-460a-91f2-24982239e527" type="law" art="647d" par="1" law="ZGB"?>Art. 647d Abs. 1 ZGB<?end_link ?></a>), und luxuriös sind die Bauarbeiten, die lediglich der Verschönerung, der Ansehnlichkeit der Sache oder der Bequemlichkeit im Gebrauch dienen (<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a647e"><?link  id="7f56f1c2-67a8-47ff-9218-4e6b59a7096f" type="law" art="647e" par="1" law="ZGB"?>Art. 647e Abs. 1 ZGB<?end_link ?></a>).</p>
+					<p align="justify">Konkret ging es um die definitive Festlegung des Standorts einer Fluchtwegbrücke. Es wurde gerichtlich festgestellt, dass es sich beim Beschluss der Stockwerkeigentümergemeinschaft um eine notwendige bauliche Massnahme handelte, die mit der Zustimmung der Mehrheit aller Miteigentümer ordnungsgemäss gefasst wurde (<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a647c"><?link  id="0f57edf4-00d7-44fe-8d41-0b5c8eaffe35" type="law" art="647c" law="ZGB"?>Art. 647c ZGB<?end_link ?></a>). Obschon noch zwei andere Varianten des Standorts des Fluchtweges in Erwägung gezogen wurden, lag in der Wahl am heutigen Standort kein Rechtsmissbrauch vor.<footnotecall number="17" fnid="fn18" /></p>
+					<title level="2" type="text"><number>F.</number>Stockwerkeigentum (Aktivlegitimation)</title>
+					<p align="justify">Im konkreten Fall ging es um die Frage, ob ein Stockwerkeigentümer seine Wohnung auch zur Ausübung eines stillen Gewerbes verwenden dürfe. Ein einzelner Stockwerkeigentümer kann einen anderen Stockwerkeigentümer nicht direkt auf Einhaltung des Begründungsaktes und des Reglements der Stockwerkeigentümergemeinschaft einklagen. Vorerst muss ein diesbezüglicher Beschluss der Stockwerkeigentümergemeinschaft vorliegen.</p>
+					<p><anchor type="page" value="188" /></p>
+					<p align="justify">Losgelöst von diesem Beschluss stehen einem Stockwerkeigentümer (allein) die zivilrechtlichen Abwehransprüche aus dem Eigentum (<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a641"><?link  id="ab6abc07-7ac2-48f0-a2bb-b0ab67826912" type="law" art="641" par="2" law="ZGB"?>Art. 641 Abs. 2<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a679"><?link  id="ecc2111a-dfcf-422d-9866-b26ceed91f22" type="law" art="679" law="ZGB"?>Art. 679<?end_link ?></a> und <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a684"><?link  id="6ac3eb2c-78f7-45a4-be7f-0f25241794f8" type="law" art="684" law="ZGB"?>Art. 684 ZGB<?end_link ?></a>) und dem Besitz (<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a928"><?link  id="0ad94b21-616f-4df3-9316-101dac29ce7c" type="law" art="928" law="ZGB"?>Art. 928 ZGB<?end_link ?></a>) gegenüber den anderen Stockwerkeigentümern zu.<footnotecall number="18" fnid="fn19" /></p>
+					<title level="2" type="text"><number>G.</number>Stockwerkeigentum (Passivlegitimation)</title>
+					<p align="justify">Der Dienstbarkeitsberechtigte ist befugt, alles zu tun, was zur Erhaltung und Ausübung der Dienstbarkeit nötig ist. Im konkreten Fall verlangte er, dass der Dienstbarkeitsbelastete die Zufahrt zu seiner Liegenschaft (i.S.d. Vereinbarung im Dienstbarkeitsvertrag) auf der gesamten Breite von drei Metern gewährleistet, was im Zuge von Bauarbeiten nicht mehr der Fall war.</p>
+					<p align="justify">Das belastete Grundstück war in Stockwerkeigentum aufgeteilt. Demzufolge muss sich die Klage (konkret: <i>actio confessoria</i>) nicht gegen einen einzelnen Stockwerkeigentümer und auch nicht gegen die Gemeinschaft der Stockwerkeigentümer als Verwaltungsgemeinschaft (<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a712l"><?link  id="12c827e7-cefd-43d2-b0d4-b41e443dfc8d" type="law" art="712l" par="2" law="ZGB"?>Art. 712l Abs. 2 ZGB<?end_link ?></a>), sondern gegen die Gesamtheit der Stockwerkeigentümer als Miteigentümer des Grundstücks richten.<footnotecall number="19" fnid="fn20" /></p>
+					<p align="justify">Gleiches gilt bei der Eigentumsfreiheitsklage (<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a641"><?link  id="82af63f5-0793-45a1-9251-e7c4760699ed" type="law" art="641" law="ZGB"?>Art. 641 ZGB<?end_link ?></a>). Geht eine Störung (des Sonderrechts eines einzelnen Stockwerkeigentümers) von einem gemeinschaftlichen Teil aus, so sind bei einer Eigentumsfreiheitsklage die einzelnen Stockwerkeigentümer (als Miteigentümer) passivlegitimiert und nicht die Stockwerkeigentümergemeinschaft.<footnotecall number="20" fnid="fn21" /></p>
+					<title level="2" type="text"><number>H.</number>Dienstbarkeit (Verlegung)</title>
+					<p align="justify">Wird durch die Ausübung einer Grunddienstbarkeit nur ein Teil des Grundstücks in Anspruch genommen, so kann der Eigentümer, wenn er ein Interesse nachweist und die Kosten übernimmt, die Verlegung auf eine andere, für den Berechtigten nicht weniger geeignete Stelle verlangen (<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a742"><?link  id="8f3132bd-bc84-457c-9d0b-3ccb3ef67794" type="law" art="742" par="1" law="ZGB"?>Art. 742 Abs. 1 ZGB<?end_link ?></a>). Dies gilt auch dann, wenn die Dienstbarkeit (gemäss Grundbuchbeleg) auf eine bestimmte Stelle gelegt worden ist (<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a742"><?link  id="b11e2efc-d9cb-47aa-9aa8-0c6753cd46e7" type="law" art="742" par="2" law="ZGB"?>Art. 742 Abs. 2 ZGB<?end_link ?></a>). Trotz der gesetzlichen Formulierung <i>(«nicht weniger geeignet»)</i> sind bei einer Verlegung kleinere Verschlechterungen zu Lasten des Dienstbarkeitsberechtigten nach der Rechtsprechung zulässig.</p>
+					<p align="justify">Bedingt durch ein Bauprojekt verlangte der Dienstbarkeitsbelastete im konkreten Fall die Verlegung eines Fuss- und Fahrwegrechts. Dieses Wegrecht war bisher in der Höhe nicht beschränkt, wogegen gemäss der geplanten Verlegung eine 3,6 m hohe Durchfahrt durch das neue Gebäude zu passieren wäre. Das Bundesgericht kam zum Schluss, dass die neue Ausübung in wirtschaftlicher Hinsicht gleichwertig ist und dem Berechtigten objektiv betrachtet den gleichen Nutzen, d.h. die gleichen Vorteile und Annehmlichkeiten in der Ausübung bietet. Die Dienstbarkeitsverlegung wurde somit bewilligt.<footnotecall number="21" fnid="fn22" /></p>
+					<title level="2" type="text"><number>I.</number>Baurecht (Dauer)</title>
+					<p align="justify">Drei selbstständige und dauernde Baurechte wurden auf eine Dauer von je fünfzig Jahren begründet und im Grundbuch bis zum 29. März 2017 eingetragen. In den Baurechtsverträgen war eine Bestimmung enthalten, wonach der Vertrag jeweils für eine weitere Dauer von zehn Jahren als verlängert gilt, wenn er nicht sechs Monate vor Ablauf der Vertragsdauer gekündigt wird.</p>
+					<p align="justify">Die Baurechtsbelasteten kündigten rechtzeitig den Baurechtsvertrag. Das Baurecht ist am 29. März 2017 untergegangen und an diesem Tag ist der Heimfall (<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a779c"><?link  id="018a6aad-b2ed-49fa-9c73-d893eeaa3b13" type="law" art="779c" law="ZGB"?>Art. 779c ZGB<?end_link ?></a>) eingetreten. Die Verlängerungsoption hat lediglich obligationenrechtliche Wirkung. Eine Verlängerung des Baurechts müsste vor Ablauf der Baurechtsdauer erfolgen, und zwar in öffentlicher Urkunde. Die Löschung des Baurechts im Grundbuch erfolgte zu Recht.<footnotecall number="22" fnid="fn23" /></p>
+					<p><anchor type="page" value="189" /></p>
+					<title level="2" type="text"><number>J.</number>Schuldbrief (Verwertung)</title>
+					<p align="justify">Ein vom Grundeigentümer zu Faustpfand begebener Eigentümer- oder Inhaberschuldbrief wird im Fall einer separaten Verwertung auf den Betrag des Erlöses herabgesetzt (<a href="https://www.fedlex.admin.ch/eli/cc/11/529_488_529/de#a156"><?link  id="f327c33b-51ea-43af-8ebc-ccfa9b1e9335" type="law" art="156" par="2" law="SchKG"?>Art. 156 Abs. 2 SchKG<?end_link ?></a><footnotecall number="23" fnid="fn24" />).</p>
+					<p align="justify">Diese Bestimmung ist seit dem 1. Januar 1997 in Kraft. Nach dem klaren Wortlaut und auch nach der Entstehungsgeschichte dieser Bestimmung werden Schuldbriefe betragsmässig nur herabgesetzt, wenn diese <i>«verpfändet»</i> waren, somit zu Faustpfand hinterlegt waren. Wurde jedoch der Schuldbrief <i>«gepfändet»,</i> so findet keine Reduktion statt. Es liegt keine Lücke vor, die durch analoge Anwendung von <a href="https://www.fedlex.admin.ch/eli/cc/11/529_488_529/de#a156"><?link  id="80b78548-7174-481c-8f9c-01f7a1d5c952" type="law" art="156" par="2" law="SchKG"?>Art. 156 Abs. 2 SchKG<?end_link ?></a> geschlossen werden könnte.<footnotecall number="24" fnid="fn25" /></p>
+					<p align="justify">Bereits sechs Jahre zuvor hat sich ein kantonales Gericht mit der gleichen Streitfrage befasst und ist zum gleichen Ergebnis wie jetzt das Bundesgericht gelangt.<footnotecall number="25" fnid="fn26" /></p>
+					<p align="justify">Die Gesetzesänderung aus dem Jahr 1997 wurde punktuell gestützt auf ein damals aktuelles Urteil des Bundesgerichts vorgenommen (BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F115-II-149%3Ade&amp;lang=de&amp;type=show_document"><?link  id="5bc9ef5c-178d-4bd8-8bf1-f4c0d4fe1f76" type="decision" reference="115 II 149" journal_reference="BGE"?>115 II 149<?end_link ?></a>), worin das Gericht festhielt, dass es Sache des Gesetzgebers sei, die unbefriedigende Rechtslage (stossendes Ergebnis) zu korrigieren.<footnotecall number="26" fnid="fn27" /></p>
+					<title level="2" type="text"><number>K.</number>Gesetzliches Grundpfandrecht (Grundstück­gewinnsteuern)</title>
+					<p align="justify">Obschon der Notar die Vertragsparteien eines Grundstückkaufvertrags ausdrücklich auf die Existenz des gesetzlichen Grundpfandrechts für die Grundstückgewinnsteuern aufmerksam gemacht hatte, wurde auf eine Sicherstellung dieser Forderung verzichtet. In der Folge wurde die Grundstückgewinnsteuer vom Verkäufer nicht bezahlt, sodass das Grundstück, nunmehr im Eigentum des Käufers, mit dem gesetzlichen Pfandrecht für die Grundstückgewinnsteuer belastet wurde.</p>
+					<p align="justify">Gemäss <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a836"><?link  id="09883784-84c5-4f6d-a232-63333687b0f7" type="law" art="836" par="2" law="ZGB"?>Art. 836 Abs. 2 ZGB<?end_link ?></a> entstehen gesetzliche Pfandrechte im Betrag von über CHF 1000.00 aufgrund des kantonalen Rechts ohne Eintragung im Grundbuch. Werden diese nicht innert vier Monaten nach der Fälligkeit der zugrunde liegenden Forderung, spätestens jedoch innert zwei Jahren seit der Entstehung der Forderung in das Grundbuch eingetragen, so können sie (nach Ablauf der Eintragungsfrist) Dritten, die sich in gutem Glauben auf das Grundbuch verlassen, nicht mehr entgegengehalten werden.</p>
+					<p align="justify">Konkret ging es um einen Betrag von beinahe 0,5 Mio. CHF. Der Käufer als neuer Eigentümer wurde zwar nicht Schuldner der Forderung, sondern bloss Pfandgeber im Sinne eines Drittpfandes. Er kann sich als Käufer nicht als Dritter auf den guten Glauben i.S.v. <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a836"><?link  id="fae15c14-3ebf-4da6-a3a4-720529f472c9" type="law" art="836" par="2" law="ZGB"?>Art. 836 Abs. 2 ZGB<?end_link ?></a> berufen. Ihm war der Sachverhalt bekannt und er hat keine Sicherstellung für die Steuer verlangt; das Grundpfandrecht besteht deshalb zu Recht.<footnotecall number="27" fnid="fn28" /></p>
+					<title level="2" type="text"><number>L.</number>Bauhandwerkerpfandrecht (Vollendungsarbeiten)</title>
+					<p align="justify">Die Vorinstanz (Handelsgericht) verfügte ohne Anhörung der Gegenpartei die vorläufige Eintragung eines Bauhandwerkerpfandrechts als Vormerkung im Grundbuch. In der Folge verfügte das gleiche Gericht die Löschung der Vormerkung. Das Bundesgericht beurteilte die dagegen geführte Beschwerde gemäss <a href="https://www.fedlex.admin.ch/eli/cc/2006/218/de#a75"><?link  id="05f7d850-4a11-418a-bcf0-4516b8e8b202" type="law" art="75" par="2" letter="b" law="BGG"?>Art. 75 Abs. 2 lit. b BGG<?end_link ?></a>.</p>
+					<p align="justify">Es ging dabei um die Überprüfung der «Viermonatsfrist nach Vollendung der Arbeit» (<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a839"><?link  id="7e4d69c9-d8ef-46dd-81a6-29504c67e971" type="law" art="839" par="2" law="ZGB"?>Art. 839 Abs. 2 ZGB<?end_link ?></a>). Geringfügige oder nebensächliche Arbeiten sowie Arbeiten, die rein der Vervollkommnung (Perfektion) dienen, sind keine Vollendungsarbeiten i.S.d. <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a839"><?link  id="5e3d7bcd-387f-4c85-ac29-bce277194498" type="law" art="839" par="2" law="ZGB"?>Art. 839 Abs. 2 ZGB<?end_link ?></a>. Als Vollendungsarbeiten gelten Arbeiten, wenn sie unerlässlich und damit funktionell notwendig sind<footnotecall number="28" fnid="fn29" />. Das Bundesgericht hat die Angelegenheit zur weiteren Abklärung an die Vorinstanz zurückgewiesen.<footnotecall number="29" fnid="fn30" /></p>
+					<p align="justify">Bemerkung: Wichtig und deshalb bemerkenswert (vgl. E. 5 <i>in fine</i> des erwähnten Urteils) ist die Tatsache, dass die vorläufige Eintragung des Bauhandwerkerpfandrechts nach wie vor im Grundbuch vorgemerkt bleibt, <anchor type="page" value="190" />damit die Verwirkungsfrist von vier Monaten (<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a839"><?link  id="3598cdf5-1e2e-4b51-8340-7cebae13e124" type="law" art="839" par="2" law="ZGB"?>Art. 839 Abs. 2 ZGB<?end_link ?></a>) gewahrt wird.</p>
+					<title level="2" type="text"><number>M.</number>BVG-Vorbezug für Eigenheim (Rückzahlung)</title>
+					<p align="justify">Der Versicherte kann bis drei Jahre vor Entstehung des Anspruchs auf Altersleistungen von seiner Vorsorgeeinrichtung einen Betrag für Wohneigentum zum eigenen Bedarf geltend machen (<a href="https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/de#a30c"><?link  id="0cb04ba3-b682-4db6-9b42-89bcc859bc81" type="law" art="30c" par="1" law="BVG"?>Art. 30c Abs. 1 BVG<?end_link ?></a><footnotecall number="30" fnid="fn31" />). Als Eigenbedarf gilt die Nutzung durch die versicherte Person an ihrem Wohnsitz oder an ihrem gewöhnlichen Aufenthalt (<a href="https://www.fedlex.admin.ch/eli/cc/1994/2379_2379_2379/de#a4"><?link  id="584e5a0e-c22b-4009-a2cb-8b79755e4b6c" type="law" art="4" par="1" law="WEFV"?>Art. 4 Abs. 1 WEFV<?end_link ?></a><footnotecall number="31" fnid="fn32" />).</p>
+					<p align="justify">Im konkreten Fall hatte eine Frau im Jahr 2003 einen Betrag von CHF 60 000.00 von ihrem Pensionskassen-Guthaben zum Kauf einer Viereinhalbzimmer-Wohnung vorbezogen. Diese bewohnte sie bis im Jahr 2016 selber. Dann zog sie zu ihrem Partner und vermietete die Wohnung unbefristet und mit einem beidseitigen Kündigungsrecht unter Einhaltung einer Frist von drei Monaten.</p>
+					<p align="justify">Grundsätzlich muss der bezogene Betrag vom Versicherten an die Versicherungseinrichtung zurückbezahlt werden, wenn das Wohneigentum veräussert wird oder wenn Rechte an diesem Wohneigentum eingeräumt werden, die wirtschaftlich einer Veräusserung gleichkommen (<a href="https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/de#a30d"><?highlight_link  letter="a" par="1" art="30d" type="law" id="c4473d92-d54f-4a8f-aa7e-af394a6e7fad" law="BVG"?>Art. 30d Abs. 1 lit. a und b BVG<?end_highlight_link ?></a>).</p>
+					<p align="justify">Das Bundesgericht kommt im Rahmen der Gesetzesauslegung zum Schluss, dass die konkrete Vermietung, welche das Wohneigentum weder verändert noch belastet, wirtschaftlich nicht mit einer Veräusserung vergleichbar sei. Der Vorbezug musste somit nicht zurückbezahlt werden.<footnotecall number="32" fnid="fn33" /></p>
+					<title level="2" type="text"><number>N.</number>Öffentlichkeit des Grundbuchs (Kaufinteresse)</title>
+					<p align="justify">Im ZGB ist der Grundsatz verankert, wonach jede Person, die ein Interesse glaubhaft macht, Anspruch darauf hat, dass ihr Einsicht in das Grundbuch gewährt wird (<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a970"><?link  id="c79ac1a1-37bf-437f-974e-1cefc04d7ca3" type="law" art="970" par="1" law="ZGB"?>Art. 970 Abs. 1 ZGB<?end_link ?></a>).</p>
+					<p align="justify">Ohne Angabe eines Interesses ist allerdings gemäss <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a970"><?link  id="e7b4d96c-89d1-488d-87f7-d3efc9ac7770" type="law" art="970" par="2" law="ZGB"?>Art. 970 Abs. 2 ZGB<?end_link ?></a> jede Person berechtigt, Auskunft über folgende Daten des Hauptbuchs zu erhalten: Bezeichnung des Grundstücks und Grundstückbeschreibung, Name sowie Identifikation des Eigentümers, Eigentumsform und Erwerbsdatum. Zudem wurde der Bundesrat ermächtigt, weitere Angaben betreffend Dienstbarkeiten, Grundlasten und Anmerkungen zu bezeichnen, die ohne das Glaubhaftmachen eines Interesses öffentlich gemacht werden dürfen (<a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a970"><?link  id="bf965521-4e14-499b-8bb4-48b8c6f4ffed" type="law" art="970" par="3" law="ZGB"?>Art. 970 Abs. 3 ZGB<?end_link ?></a>). Von dieser Kompetenz hat der Bundesrat Gebrauch gemacht und in <a href="https://www.fedlex.admin.ch/eli/cc/2011/667/de#a26"><?link  id="01ed763e-7749-42e2-98d6-32d654445c57" type="law" art="26" par="1" law="GBV"?>Art. 26 Abs. 1 GBV<?end_link ?></a><footnotecall number="33" fnid="fn34" /> bestimmt, dass folgende Angaben öffentlich sind: Alle Dienstbarkeiten und Grundlasten sowie sämtliche Anmerkungen mit Ausnahme von Grundbuchsperren, von Veräusserungsbeschränkungen nach BVG, von Eigentumsbeschränkungen im Zusammenhang mit der Wohneigentumsförderung und von auf kantonalem Recht beruhenden Eigentumsbeschränkungen mit Pfandrechtscharakter.</p>
+					<p align="justify">Im konkreten Fall wurde das Grundbuchamt Wädenswil ZH ersucht, einen vollständigen Grundbuchauszug über eine bestimmte Liegenschaft auszustellen. Der Gesuchsteller begründete sein Anliegen mit Kaufinteresse, wobei er keine schriftliche Vollmacht des verfügungsberechtigten Grundeigentümers vorlegte. Das Grundbuchamt verweigerte das Begehren. Es lag kein Fehlverhalten seitens des Grundbuchamts vor; die Abweisung erfolgte somit zu Recht.<footnotecall number="34" fnid="fn35" /></p>
+					<title level="2" type="text"><number>O.</number>Ausländerbestimmungen (Lex Koller; Betriebsstätte)</title>
+					<p align="justify">Keiner Bewilligung bedarf der Erwerb eines Grundstücks durch eine Person im Ausland, sofern das Grundstück als ständige Betriebsstätte dient (<a href="https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/de#a2"><?link  id="c7993745-b4fc-491e-8e12-ed809e028ec7" type="law" art="2" par="2" letter="a" law="BewG"?>Art. 2 Abs. 2 lit. a BewG<?end_link ?></a>).</p>
+					<p align="justify">Sofern es sich um Stockwerkeinheiten handelt, müssen die Wohnungen als Hotel geführt oder vollumfänglich hotelmässig bewirtschaftet werden, damit sie als Betriebsstätte gelten. Im konkreten Fall wurde der Erwerb von Stockwerkeinheiten, die als Wohnungen für das Hotelpersonal genutzt werden sollten, der Bewilligungspflicht unterstellt, da diese nicht als Teil einer Hotelbetriebsstätte i.S.d. Vorschriften des BewG dienten.<footnotecall number="35" fnid="fn36" /></p>
+					<p><anchor type="page" value="191" /></p>
+					<p align="justify">Hinweis: Eine parlamentarische Initiative (Nr. 21.400), eingereicht am 14. Januar 2021 von der Kommission für Rechtsfragen des Nationalrates (RK-NR),<footnotecall number="36" fnid="fn37" /> wollte die Bewilligungspflicht gemäss BewG vorübergehend (während der Coronapandemie) auf Betriebsstätte-Grundstücke ausdehnen. Dieses Begehren wurde von der Kommission für Rechtsfragen des Ständerats am 22. Februar 2021 abgelehnt, sodass der Vorstoss im Parlament gar nicht zur Sprache kam.</p>
+					<title level="1" type="text"><number>III.</number>Literaturhinweise</title>
+					<p align="justify"><i>Simon Blum,</i> Die Grundeigentumsverhältnisse im Konkubinat, BN 2021 48 ff.; <i>François Bohnet/Blaise Carron/Amédéo Wermelinger</i> (Hrsg.), PPE (Propriété par étages) 2021, Tagungsband, Basel/Neuenburg 2021; <i>Christian Brückner/Mathias Kuster,</i> Die Grundstückgeschäfte, Schweizer Immobiliarsachenrecht für Praktiker, 2. A., Zürich/Basel/Genf 2021; <i>Daniela Byland/Roland Pfäffli,</i> Das Baurecht im Zivilgesetzbuch, BN 2021 1 ff.; <i>Viviane David,</i> Les servitudes collectives, Conséquence de la division d’un fonds selon l’art. 743 CC, Bern 2021; <i>Philipp Eberhard,</i> Die Rechtsfigur der «natürlichen Publizität», <a href="/link?abbreviation=SJZ-RSJ&amp;year=2021&amp;page=128"><?link  id="0799bc7f-6f70-4b02-9a17-f8bbed1edba0" type="journal" journal="SJZ" year="2021" page="128"?>SJZ 2021 128 ff.<?end_link ?></a>; <i>Philipp Eberhard,</i> Die Realobligation, <a href="/link?abbreviation=SJZ-RSJ&amp;year=2021&amp;page=1003"><?link  id="ae9edc61-7a4d-40f0-a665-d335f5ad11cc" type="journal" journal="SJZ" year="2021" page="1003"?>SJZ 2021 1003 ff.<?end_link ?></a>; <i>Urs Fasel,</i> Sachenrecht, Entwicklungen 2020, Bern 2021; <i>Beat Franz/Michel Mooser</i> (Hrsg.), Erbrecht und Grundbuch/Succession et registre foncier, Beiträge der Weiterbildungsseminare der Stiftung Schweizerisches Notariat vom 16. August 2021 in Zürich und vom 2. September 2021 in Lausanne, Zürich/Basel/Genf 2021; <i>Barbara Graham-Siegenthaler/Philipp Eberhard,</i> Aktuelle Rechtsprechung des Bundesgerichts zum Sachenrecht 2020/2021, Jusletter vom 16. August 2021; <i>Bettina Hürlimann-Kaup,</i> Die sachenrechtliche Rechtsprechung des Bundesgerichts im Jahr 2020, ZBJV 2021 512 ff.; <i>Alexandra Jungo,</i> Beweislastfragen im Sachenrecht, ZBGR 2021 69 ff.; <i>Lena Manz,</i> Unterhalt und Ersatzneubau im Stockwerkeigentum, Elemente zur Bewältigung von Sanierungsblockaden, Zürich/Basel/Genf 2021; <i>Irène Martin-Rivara,</i> La servitude de passage nécessaire, Zürich/Basel/Genf 2021; <i>Amir Noah Moshe/Christoph Käser/Adrian Mühlematter,</i> Die Unverzichtbarkeit von akkuraten Dienstbarkeitsplänen und -grenzen sowie deren freie Zugänglichkeit durch die obligatorische Aufnahme in die amtliche Vermessung, ZBGR 2021 265 ff.; <i>Roland Norer/Andreas Wasserfallen,</i> Agrarrecht, Entwicklungen 2020, Bern 2021; <i>Roland Pfäffli,</i> Unwahre Provision: Nichtiger Grundstückkauf, BN 2021 152 ff.; <i>Annabelle Peschke,</i> Das Fahrnispfandrecht und die Sicherstellung künftiger Forderungen, Zürich/Basel/Genf 2021; <i>Maryse Pradervand-Kernen,</i> Les travaux dans la propriété par étages en présence d’un usufruit ou d’un droit d’habitation, ZBGR 2021 133 ff.; <i>Nicole Roth,</i> Miteigentum an Grundstücken und einfache Gesellschaft, Studie zur Koordination der Art. 646 ff. ZGB und Art. 530 ff. OR, Zürich 2021; <i>Rainer Schumacher/Pascal Rey,</i> Das Bauhandwerkerpfandrecht, System und Anwendung, 4. A., Zürich/Basel/Genf 2022; <i>Markus W. Stadlin,</i> Die Verantwortlichkeiten aus Altlasten und Boden-/Gebäudeverunreinigungen beim Baurecht, BN 2021 34 ff.; <i>Paul-Henri Steinauer,</i> Les droits réels, Tome III, Servitudes personnelles/Charges foncières/Droits de gage immobiliers/Droits de gage mobiliers, 5. A., Bern 2021; <i>Sacha Vallati,</i> Dienstbarkeiten und Bauvorhaben, Analyse und Lösung von Konflikten zwischen Bauherren und dienstbarkeitsberechtigten oder -belasteten Dritten, Zürich/Basel/Genf 2021; <i>Sacha Vallati,</i> Dienstbarkeiten als Bauverhinderer und Rückbau von dienstbarkeitswidrigen Bauten, BN 2021 226 ff.; <i>Amédéo Wermelinger</i> (Hrsg.), Luzerner Tag des Stockwerkeigentums 2021, Tagungsband, Bern 2021; <i>Amédéo Wermelinger,</i> Droits réels, Basel/Neuenburg 2021; <i>Amédéo Wermelinger,</i> Propriétés collectives, Basel/Neuenburg 2021; <i>Amédéo Wermelinger,</i> La propriété par étages, commentaire des articles 712a à 712t du Code civil suisse, 4. A., Rothenburg 2021; <i>Amédéo Wermelinger,</i> La PPE et le virus, not@lex 2021 49 ff.; <i>Stephan Wolf/Aron Pfammatter</i> (Hrsg.), Stämpflis Handkommentar, Zweitwohnungsgesetz (ZWG) – unter Einbezug der Zweitwohnungsverordnung (ZWV), 2. A., Bern 2021; <i>Cornelio Zgraggen,</i> Kostenverteilung und Haftung für Beiträge im Stockwerkeigentum, Zürich/Basel/Genf 2020; <i>Martin Zweifel/Michael Beusch/Stefan Oesterhelt,</i> Kommentar zum Schweizerischen Steuerrecht, Immobiliensteuern, Basel 2021; <i>Martin Zweifel/Silvia Hunziker/Olivier Margraf/Stefan Oesterhelt,</i> Schweizerisches Grundstückgewinnsteuerrecht, Zürich/Basel/Genf 2021.</p>
+					<p align="justify">Eine detaillierte Übersicht zu ausgewählter Rechtsprechung in der Schweiz im Jahr 2021, zusammengestellt aus über 50 juristischen Zeitschriften, ist traditionsgemäss in der Zeitschrift «Der bernische Notar» (BN) erschienen (<i>Roland Pfäffli,</i> BN 2021 253 ff.).</p>
+				</text>
+				<footnotes>
+					<fn number="*" id="fn1">
+						<p align="justify">Prof. em. Dr. iur. Roland Pfäffli, Notar, ist als Konsulent tätig bei Von Graffenried &amp; Cie Recht in Bern. Zudem ist er emeritierter Titularprofessor für Privatrecht an der Universität Freiburg.</p>
+					</fn>
+					<fn number="1" id="fn2">
+						<p align="justify"><i>Nationalrat Karl Vogler,</i> Motion (19.4059) «Erfolgreiche Investitionen im Untergrund mit der Digitalisierung» vom 18.9.2019, &lt;<a href="https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20194059">https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20194059</a>&gt; (zuletzt besucht am 9.12.2021).</p>
+					</fn>
+					<fn number="2" id="fn3">
+						<p align="justify"><i>Nationalrat Karl Vogler,</i> Postulat (16.4108) «Geologische Daten zum Untergrund» vom 16.12.2016, &lt;<a href="https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20164108">https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20164108</a>&gt; (zuletzt besucht am 9.12.2021).</p>
+					</fn>
+					<fn number="3" id="fn4">
+						<p align="justify">Bundesgesetz über Geoinformation (Geoinformationsgesetz, GeoIG) vom 5. Oktober 2007 (SR 510.62).</p>
+					</fn>
+					<fn number="4" id="fn5">
+						<p align="justify"><i>Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS),</i> Vernehmlassungsvorlage zur Teilrevision des Bundesgesetzes über Geoinformation (GeoIG), BBl 2021 1171.</p>
+					</fn>
+					<fn number="5" id="fn6">
+						<p align="justify">Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland (BewG) vom 16. Dezember 1983 (SR 211.412.41).</p>
+					</fn>
+					<fn number="6" id="fn7">
+						<p align="justify">Verordnung über den Erwerb von Grundstücken durch Personen im Ausland (BewV) vom 1. Oktober 1984 (SR 211.412.411).</p>
+					</fn>
+					<fn number="7" id="fn8">
+						<p align="justify">Bundesbeschluss über die Genehmigung und die Umsetzung des Abkommens zwischen der Schweiz und dem Vereinigten Königreich über die Rechte der Bürgerinnen und Bürger infolge des Austritts des Vereinigten Königreichs aus der Europäischen Union und des Wegfalls des Freizügigkeitsabkommens vom 25. September 2020, Anhang, Änderung anderer Erlasse, 1. Bundesgesetz vom 16. Dezember 1983 über den Erwerb von Grundstücken durch Personen im Ausland, AS 2021 85, 3 bzw. Änderung der Verordnung über den Erwerb von Grundstücken durch Personen im Ausland (BewV) vom 20. Januar 2021, AS 2021 87.</p>
+					</fn>
+					<fn number="8" id="fn9">
+						<p align="justify"><i>Nationalrätin Jacqueline Badran,</i> Parlamentarische Initiative (16.498) «Unterstellung der strategischen Infrastrukturen der Energiewirtschaft unter die Lex Koller» vom 16.12.2016, &lt;<a href="https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20160498">https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20160498</a>&gt; (zuletzt besucht am 9.12.2021).</p>
+					</fn>
+					<fn number="9" id="fn10">
+						<p align="justify"><i>WAK-NR,</i> Motion (21.3598) «Änderung des Bundesgesetzes über den Erwerb von Grundstücken durch Personen im Ausland» vom 17.5.2021, &lt;<a href="https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20213598">https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20213598</a>&gt; (zuletzt besucht am 9.12.2021).</p>
+					</fn>
+					<fn number="10" id="fn11">
+						<p align="justify"><i>Eidgenössisches Justiz- und Polizeidepartement (BJ),</i> Vernehmlassungsvorlage zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland (BewG), BBl 2017 2225.</p>
+					</fn>
+					<fn number="11" id="fn12">
+						<p align="justify">Schweizerisches Zivilgesetzbuch (ZGB) vom 10. Dezember 1907 (SR 210).</p>
+					</fn>
+					<fn number="12" id="fn13">
+						<p align="justify">BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=23.8.2021_5A_782/2020"><?link  id="33e14a14-8d2e-46dc-9dc0-2b826c4a597e" type="decision" reference="5A_782/2020" court="BGer" date="23.8.2021" reference_number="5A_782/2020"?>5A_782/2020<?end_link ?></a> vom 23.8.2021 = <i>Seraine Kihm,</i> in: IMMOBILIA 11/2021 30 f. = <i>Sarina Brun,</i> Bestimmung des Vorkaufspreises im Baurechtsverhältnis, Zur Verbindlichkeit nicht öffentlich beurkundeter Nebenabreden für den Vorkaufsberechtigten, in: dRSK vom 24.11.2021.</p>
+					</fn>
+					<fn number="13" id="fn14">
+						<p align="justify">Bundesgesetz über das Bundesgericht (Bundesgerichtsgesetz, BGG) vom 17. Juni 2005 (SR 173.110).</p>
+					</fn>
+					<fn number="14" id="fn15">
+						<p align="justify">BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=07.9.2020_5D_91/2020"><?link  id="a442872e-3e27-4b10-b094-028e04e218d7" type="decision" reference="5D_91/2020" court="BGer" date="07.9.2020" reference_number="5D_91/2020"?>5D_91/2020<?end_link ?></a> vom 7.9.2020 = <i>Jacqueline Bubendorf,</i> in: ius.focus 11/2020 5 = <i>Philine Getzmann,</i> Die Übermässigkeit der Einwirkung von Bäumen im Rahmen von <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a684"><?link  id="726524f6-1c47-4ed6-8cee-d4fff5fdbe74" type="law" art="684" law="ZGB"?>Art. 684 ZGB<?end_link ?></a>, in: dRSK vom 19.8.2021.</p>
+					</fn>
+					<fn number="15" id="fn16">
+						<p align="justify">BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=22.4.2021_5A_127/2020"><?link  id="8a8c7138-07cd-451e-8402-f6d287fa2b9f" type="decision" reference="5A_127/2020" court="BGer" date="22.4.2021" reference_number="5A_127/2020"?>5A_127/2020<?end_link ?></a> vom 22.4.2021 = <i>Jonas Klemperer,</i> in: ius.focus 6/2021 5 = <i>Markus Vischer,</i> in: AJP 2021 1038.</p>
+					</fn>
+					<fn number="16" id="fn17">
+						<p align="justify">BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=15.12.2020_5A_753/2020"><?link  id="637f7ec3-fd41-4d99-a15f-2a0fbdbd70c8" type="decision" reference="5A_753/2020" court="BGer" date="15.12.2020" reference_number="5A_753/2020"?>5A_753/2020<?end_link ?></a> vom 15.12.2020 = <i>Urs Fasel,</i> Sachenrecht, Entwicklungen 2020, Bern 2021, 26.</p>
+					</fn>
+					<fn number="17" id="fn18">
+						<p align="justify">BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=02.2.2021_5A_878/2020"><?link  id="129409ed-19d1-43b2-a99a-e12f30d95fd2" type="decision" reference="5A_878/2020" court="BGer" date="02.2.2021" reference_number="5A_878/2020"?>5A_878/2020<?end_link ?></a> vom 2.2.2021.</p>
+					</fn>
+					<fn number="18" id="fn19">
+						<p align="justify">BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=21.10.2020_5A_89/2020"><?link  id="cd8895d6-c28f-4b86-b0b5-af503afe5485" type="decision" reference="5A_89/2020" court="BGer" date="21.10.2020" reference_number="5A_89/2020"?>5A_89/2020<?end_link ?></a> vom 21.10.2020 = <i>Martina Frischkopf,</i> Aktivlegitimation im Stockwerkeigentum, in: dRSK vom 31.5.2021 = <i>Urs Fasel,</i> Sachenrecht, Entwicklungen 2020, Bern 2021, 14; vgl. dazu auch die weiterführenden Urteile des Bundesgerichts: BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=08.12.2020_5G_2/2020"><?link  id="87310e92-be5b-47a5-85b3-0371483d14e0" type="decision" reference="5G_2/2020" court="BGer" date="08.12.2020" reference_number="5G_2/2020"?>5G_2/2020<?end_link ?></a> vom 8.12.2020 (Berichtigung) bzw. BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=01.3.2021_5F_37/2020"><?link  id="ccba4544-ae8b-46cb-889d-1c7adf272b3a" type="decision" reference="5F_37/2020" court="BGer" date="01.3.2021" reference_number="5F_37/2020"?>5F_37/2020<?end_link ?></a> vom 1.3.2021 (Revision).</p>
+					</fn>
+					<fn number="19" id="fn20">
+						<p align="justify">BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=03.12.2020_5A_664/2019"><?link  id="224140f9-c5d5-405f-8828-388a8fe0591f" type="decision" reference="5A_664/2019" court="BGer" date="03.12.2020" reference_number="5A_664/2019"?>5A_664/2019<?end_link ?></a> vom 3.12.2020 = <i>Johanna Jean-Petit-Matile,</i> in: ius.focus 1/2021 3 = <i>Philipp Eberhard,</i> Actio confessoria im Stockwerkeigentum, in: dRSK vom 29.4.2021 = <i>Markus Vischer,</i> in: AJP 2021 1032.</p>
+					</fn>
+					<fn number="20" id="fn21">
+						<p align="justify">BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F145-III-121%3Ade&amp;lang=de&amp;type=show_document"><?link  id="e8932b34-4d6b-49ce-a0b1-e47d0f166ee8" type="decision" reference="145 III 121" journal_reference="BGE"?>145 III 121<?end_link ?></a>, in: SZZP 2019 314 = <i>Bojan Momic,</i> in: ius.focus 8/2019 3 = <i>Markus Vischer,</i> in: AJP 2019 647 = <i>Enea Laube,</i> Passivlegitimation der Stockwerkeigentümergemeinschaft bei einer actio negatoria, in: dRSK vom 11.6.2019.</p>
+					</fn>
+					<fn number="21" id="fn22">
+						<p align="justify">BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F147-III-215%3Ade&amp;lang=de&amp;type=show_document"><?link  id="cc24e310-fa03-4d1f-9c91-98389d6f9dae" type="decision" reference="147 III 215" journal_reference="BGE"?>147 III 215<?end_link ?></a> = <i>Mathan Weinberg,</i> in: ius.focus 7/2021 3 = <i>Roland Pfäffli,</i> in: Praxis 2021 Nr. 73 mit Bemerkungen = <i>Philipp Eberhard,</i> Verlegung einer Grunddienstbarkeit gemäss Art. 742 ZGB, in: dRSK vom 16.8.2021.</p>
+					</fn>
+					<fn number="22" id="fn23">
+						<p align="justify">BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=02.7.2021_5A_1007/2020"><?link  id="20c5d3c6-ec77-4cd6-8118-f3bee559610d" type="decision" reference="5A_1007/2020" court="BGer" date="02.7.2021" reference_number="5A_1007/2020"?>5A_1007/2020<?end_link ?></a> vom 2.7.2021 = <i>Martina Frischkopf,</i> Grundbucheintrag vs. Dienstbarkeitsvertrag, in: dRSK vom 24.11.2021.</p>
+					</fn>
+					<fn number="23" id="fn24">
+						<p align="justify">Bundesgesetz über Schuldbetreibung und Konkurs (SchKG) vom 11. April 1889 (SR 281.1).</p>
+					</fn>
+					<fn number="24" id="fn25">
+						<p align="justify">BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F146-III-426%3Ade&amp;lang=de&amp;type=show_document"><?link  id="4f0f32d6-d476-454d-9dcf-1c66bf4c0568" type="decision" reference="146 III 426" journal_reference="BGE"?>146 III 426<?end_link ?></a>, in: ZBGR 2021 212 = <i>Hansjörg Peter,</i> in: BlSchK 2020 216 ff., 222 mit redaktioneller Bemerkung = ZZZ 2021 427 = <i>Andreas Güngerich/Andrea Miescher,</i> in: ius.focus 11/2020 23 = <i>Arnold F. Rusch/Jennifer Zbinden,</i> in: AJP 2021 279 = <i>Thomas Engler,</i> in: BlSchK 2021 125.</p>
+					</fn>
+					<fn number="25" id="fn26">
+						<p align="justify">BezGer Muri AG (als untere SchKG-Aufsichtsbehörde) vom 14.1.2014, in: BlSchK 2014 184.</p>
+					</fn>
+					<fn number="26" id="fn27">
+						<p align="justify">Vgl. dazu <i>Roland Pfäffli,</i> Verpfändung von Eigentümer- oder Inhaberschuldbriefen: Rechtsfolgen in der Zwangsverwertung, Überlegungen zu BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F115-II-149%3Ade&amp;lang=de&amp;type=show_document"><?link  id="db0fbc18-324f-4542-9ee1-2e24f94bb4f6" type="decision" reference="115 II 149" journal_reference="BGE"?>115 II 149<?end_link ?></a>, in: ZBJV 1991 684 = BlSchK 1992 41.</p>
+					</fn>
+					<fn number="27" id="fn28">
+						<p align="justify">BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=16.11.2020_2C_552/2020"><?link  id="2e0edeb8-2c86-4116-8af4-569848e410bf" type="decision" reference="2C_552/2020" court="BGer" date="16.11.2020" reference_number="2C_552/2020"?>2C_552/2020<?end_link ?></a> vom 16.11.2020 = <i>Silvia Hunziker/Corinna Bigler,</i> in: ASA 89 (2020/2021) 749.</p>
+					</fn>
+					<fn number="28" id="fn29">
+						<p align="justify">Vgl. <i>Rainer Schumacher/Pascal Rey,</i> Das Bauhandwerkerpfandrecht, 4. A., Zürich/Basel/Genf 2022, Rz. 1069 ff.</p>
+					</fn>
+					<fn number="29" id="fn30">
+						<p align="justify">BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=16.3.2021_5A_395/2020"><?link  id="fb1ea8f0-0c53-4eeb-9fd7-eca063ca0950" type="decision" reference="5A_395/2020" court="BGer" date="16.3.2021" reference_number="5A_395/2020"?>5A_395/2020<?end_link ?></a> vom 16.3.2021.</p>
+					</fn>
+					<fn number="30" id="fn31">
+						<p align="justify">Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) vom 25. Juni 1982 (SR 831.40).</p>
+					</fn>
+					<fn number="31" id="fn32">
+						<p align="justify">Verordnung über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge (WEFV) vom 3. Oktober 1994 (SR 831.411).</p>
+					</fn>
+					<fn number="32" id="fn33">
+						<p align="justify">BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=01.7.2021_9C_293/2020"><?link  id="5f7f15da-bed7-4354-ba21-12372473a386" type="decision" reference="9C_293/2020" court="BGer" date="01.7.2021" reference_number="9C_293/2020"?>9C_293/2020<?end_link ?></a> vom 1.7.2021, <i>Roland Pfäffli,</i> in: Praxis 2021 Nr. 115 mit Bemerkungen.</p>
+					</fn>
+					<fn number="33" id="fn34">
+						<p align="justify">Grundbuchverordnung (GBV) vom 23. September 2011 (SR 211.432.1).</p>
+					</fn>
+					<fn number="34" id="fn35">
+						<p align="justify">BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=11.12.2020_5A_1024/2020"><?link  id="aa93864e-f3b5-4f66-9bd0-18f744666e89" type="decision" reference="5A_1024/2020" court="BGer" date="11.12.2020" reference_number="5A_1024/2020"?>5A_1024/2020<?end_link ?></a> vom 11.12.2020 sowie BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=12.1.2021_5A_12/2021"><?link  id="f6dbe6fe-0ab7-4868-8bf9-52b4f726307a" type="decision" reference="5A_12/2021" court="BGer" date="12.1.2021" reference_number="5A_12/2021"?>5A_12/2021<?end_link ?></a> vom 12.1.2021.</p>
+					</fn>
+					<fn number="35" id="fn36">
+						<p align="justify">BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=22.3.2021_2C_589/2020"><?link  id="a24de1bd-f262-4b3f-b6de-fb1bea9a9d9b" type="decision" reference="2C_589/2020" court="BGer" date="22.3.2021" reference_number="2C_589/2020"?>2C_589/2020<?end_link ?></a> vom 22.3.2021, in: ZGRG 2021 78 = <i>Seraina Kihm,</i> in: IMMOBILIA 5/2021 36.</p>
+					</fn>
+					<fn number="36" id="fn37">
+						<p align="justify"><i>RK-NR,</i> Parlamentarische Initiative (21.400) «Bewilligungspflicht gemäss Lex Koller vorübergehend auf Betriebsstätten-Grundstücke ausdehnen» vom 14.1.2021, &lt;<a href="https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20210400">https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20210400</a>&gt; (zuletzt besucht am 9.12.2021).</p>
+					</fn>
+				</footnotes>
+			</document>
+		</singleDocument>
+	</singleDocuments>
+</source>

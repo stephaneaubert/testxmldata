@@ -1,0 +1,48 @@
+<source schemaVersion="2.1">
+	<publicationInfo>
+		<documentTitle>2504-0650-2022-0055.xml</documentTitle>
+		<accessCode accesstype="offen" />
+		<articleId>2504-0650-2022-0055</articleId>
+		<language langtype="de" />
+		<publisher publisherid="sjm">Schulthess Juristische Medien AG</publisher>
+		<eIssn>2504-0650</eIssn>
+		<issn>0036-7613</issn>
+		<journalAbbreviation>SJZ-RSJ</journalAbbreviation>
+		<journalName>Schweizerische Juristen-Zeitung/Revue Suisse de Jurisprudence</journalName>
+		<journalCode journalid="sjz" />
+		<issueInfo>
+			<year>2022</year>
+			<volume>118</volume>
+			<issueNumber>4</issueNumber>
+			<publicationDate>2022-03-01</publicationDate>
+		</issueInfo>
+	</publicationInfo>
+	<singleDocuments>
+		<singleDocument type="NewsAsset">
+			<documentInfo>
+				<title>Personalia der Luzerner Gerichte</title>
+				<firstPage>157</firstPage>
+				<lastPage>157</lastPage>
+				<jurisdictionals>
+					<jurisdictional name="Öffentliches Prozessrecht">80-60</jurisdictional>
+				</jurisdictionals>
+				<categories>
+					<category name="Aktuelle Meldungen">sjz-007-02</category>
+				</categories>
+				<targetGroup targettype="praxis" />
+				<focus focustype="sp" />
+				<licence licencetype="Schulthess Juristische Medien AG" />
+				<price>(PayPerDoc)</price>
+			</documentInfo>
+			<document>
+				<text>
+					<title level="1" type="document">Personalia der Luzerner Gerichte</title>
+					<p align="justify">In der Dezembersession 2021 des Luzerner Kantonsrats wurden zwei neue Bezirksrichterinnen an das Bezirksgericht Willisau gewählt:</p>
+					<p align="justify">1. Frau Gisela Gertsch-Studhalter besitzt seit 2012 das Luzerner Anwaltspatent, war am Bezirksgericht Willisau als Gerichtsschreiberin tätig und übt als neue Bezirksrichterin am Bezirksgericht Willisau ein Pensum von 50% aus.</p>
+					<p align="justify">2. Frau Madeleine Riechsteiner. Sie besitzt seit 2017 das Zürcher Anwaltspatent, war am Obergericht Solothurn als Gerichtsschreiberin der strafrechtlichen Kammer tätig und übt als neue Bezirksrichterin am Bezirksgericht Willisau ein Pensum von 50% aus.</p>
+				</text>
+				<footnotes />
+			</document>
+		</singleDocument>
+	</singleDocuments>
+</source>

@@ -1,0 +1,1 @@
+Test Ordnerstruktur für zukünftiges Data Repository von SChulthess Digital mit Git und Gitlab

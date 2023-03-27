@@ -1,0 +1,65 @@
+<source schemaVersion="2.1">
+	<publicationInfo>
+		<documentTitle>2504-0650-2022-0070.xml</documentTitle>
+		<accessCode accesstype="abo" />
+		<articleId>2504-0650-2022-0070</articleId>
+		<language langtype="de" />
+		<publisher publisherid="sjm">Schulthess Juristische Medien AG</publisher>
+		<eIssn>2504-0650</eIssn>
+		<issn>0036-7613</issn>
+		<journalAbbreviation>SJZ-RSJ</journalAbbreviation>
+		<journalName>Schweizerische Juristen-Zeitung/Revue Suisse de Jurisprudence</journalName>
+		<journalCode journalid="sjz" />
+		<issueInfo>
+			<year>2022</year>
+			<volume>118</volume>
+			<issueNumber>4</issueNumber>
+			<publicationDate>2022-03-01</publicationDate>
+		</issueInfo>
+	</publicationInfo>
+	<singleDocuments>
+		<singleDocument type="BibliographyReviewAsset">
+			<documentInfo>
+				<title>Sozialversicherungsrecht 2021. Textausgabe</title>
+				<authors>
+					<author>
+						<person id="KT06146" />
+						<honorific>lic. iur.</honorific>
+						<firstName>Martin</firstName>
+						<lastName>Hablützel</lastName>
+					</author>
+				</authors>
+				<firstPage>211</firstPage>
+				<lastPage>211</lastPage>
+				<jurisdictionals>
+					<jurisdictional name="Sozialversicherungsrecht">30-20</jurisdictional>
+				</jurisdictionals>
+				<categories>
+					<category name="Besprechungen">sjz-006-01</category>
+				</categories>
+				<keywords>
+					<title>Schlagworte</title>
+					<keyword>Thomas Gächter</keyword>
+					<keyword>Sozialversicherungsrecht</keyword>
+				</keywords>
+				<targetGroup targettype="praxis" />
+				<focus focustype="sp" />
+				<licence licencetype="Schulthess Juristische Medien AG" />
+				<price>(PayPerDoc)</price>
+			</documentInfo>
+			<document>
+				<text>
+					<p><anchor type="page" value="211" /></p>
+					<title level="1" type="document">Sozialversicherungsrecht 2021. Textausgabe</title>
+					<p align="justify"><b>Gächter,</b> Thomas (Hrsg.): <b>Sozialversicherungsrecht 2021. Textausgabe.</b> Gesetzesausgabe mit Verweisen und Anmerkungen. 1500 S. (Zürich 2021. Schulthess). Brosch. CHF 98.00. Erhältlich unter: <a href="http://www.schulthess.com">www.schulthess.com</a></p>
+					<p align="justify">Die Textausgabe <i>«Sozialversicherungsrecht 2021»</i> von <i>Thomas Gächter</i> (Hrsg.) richtet sich vorwiegend an Praktikerinnen und Praktiker sowie an Studierende.</p>
+					<p align="justify">Die zentralen Erlasse des Sozialversicherungsrechts werden übersichtlich, zum Stand per 1. Januar 2021, aufgeführt. Neben Gesetzen und Verordnungen zu den zehn Sozialversicherungen (AHV, IV, EL, BV, KV, UV, MV, EO, FL, AL) finden sich unzählige Verordnungen, welche rasch auch vertiefte Recherchen zu Detailfragen zulassen. Bereits die Inhaltsübersicht erschliesst der Praktikerin und dem Praktiker ein weites Feld von Rechtsgebieten, auf die man zwar gelegentlich stösst, ohne aber von der entsprechenden Verordnung Kenntnis zu haben. Im Bereich der Invalidenversicherung sind das, als Beispiel und unter anderen: die Verordnung zu Geburtsgebrechen oder jene über die Abgabe von Hilfsmitteln. Auch zentrale Erlasse zum Verfahrensrecht, zum Versicherungsvertrags- und zum Versicherungsaufsichtsrecht fehlen nicht.</p>
+					<p align="justify">Hilfreich für die Praktikerin und den Praktiker und ein grosser Zeitgewinn bei der Recherche sind die <i>Querverweise</i> zu zusammengehörenden Rechtsnormen in anderen Erlassen. Die <i>Hinweise</i> auf die massgebliche bundesgerichtliche Praxis und <i>Anmerkungen</i> dazu helfen zum Textverständnis und ermöglichen eine fundierte Interpretation der Norm. Ein <i>Sachregister</i> am Ende unterstützt ein rasches Auffinden von Rechtsquellen in einem zunehmenden Dickicht von Sozialversicherungsbestimmungen, die einem steten Wandel unterworfen sind.</p>
+					<p align="justify">Schliesslich ist es eine Wohltat für all jene, die einen haptischen Zugriff auf die Gesetzestexte wünschen und mit mir überzeugt sind, dass ein solcher speditiver ist als die digitale Gesetzes-Recherche.</p>
+					<p align="right" authorId="KT06146" slxclass="author"><honorificPrefix>lic. iur.</honorificPrefix> <givenName>Martin</givenName> <familyName>Hablützel</familyName>, <jobTitle>Rechtsanwalt</jobTitle>, Fachanwalt SAV für Haftpflicht- und Versicherungsrecht</p>
+				</text>
+				<footnotes />
+			</document>
+		</singleDocument>
+	</singleDocuments>
+</source>

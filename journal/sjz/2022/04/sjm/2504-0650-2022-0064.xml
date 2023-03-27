@@ -1,0 +1,85 @@
+<source schemaVersion="2.1">
+	<publicationInfo>
+		<documentTitle>2504-0650-2022-0064.xml</documentTitle>
+		<accessCode accesstype="abo" />
+		<articleId>2504-0650-2022-0064</articleId>
+		<language langtype="de" />
+		<publisher publisherid="sjm">Schulthess Juristische Medien AG</publisher>
+		<eIssn>2504-0650</eIssn>
+		<issn>0036-7613</issn>
+		<journalAbbreviation>SJZ-RSJ</journalAbbreviation>
+		<journalName>Schweizerische Juristen-Zeitung/Revue Suisse de Jurisprudence</journalName>
+		<journalCode journalid="sjz" />
+		<issueInfo>
+			<year>2022</year>
+			<volume>118</volume>
+			<issueNumber>4</issueNumber>
+			<publicationDate>2022-03-01</publicationDate>
+		</issueInfo>
+	</publicationInfo>
+	<singleDocuments>
+		<singleDocument type="CaseLawAsset">
+			<documentInfo>
+				<title>Obergericht Solothurn, Zivilkammer, Urteil ZKBES.2020.52 vom 2. April 2020</title>
+				<authors>
+					<author>
+						<person id="KT03797" />
+						<firstName>Heinz</firstName>
+						<lastName>Schaller</lastName>
+					</author>
+				</authors>
+				<firstPage>197</firstPage>
+				<lastPage>198</lastPage>
+				<decisionInfos>
+					<decisionInfo>
+						<decisionNumber>ZKBES.2020.52</decisionNumber>
+						<decisionDate>2020-04-02</decisionDate>
+						<decisionSubjectField>Rechtsöffnung</decisionSubjectField>
+						<decisionObject>Schuldbetreibungs- und Konkursrecht</decisionObject>
+						<decisionCourtLocation>SO</decisionCourtLocation>
+						<decisionCourtName name="Obergericht Solothurn">24</decisionCourtName>
+						<decisionCourtDevision>Zivilkammer</decisionCourtDevision>
+					</decisionInfo>
+				</decisionInfos>
+				<commentedArticles>
+					<commentedArticle link="https://www.fedlex.admin.ch/eli/cc/2010/262/de#a334">Art. 334 ZPO</commentedArticle>
+				</commentedArticles>
+				<jurisdictionals>
+					<jurisdictional name="Zivilprozessrecht">10-40</jurisdictional>
+				</jurisdictionals>
+				<categories>
+					<category name="Kantonale Rechtsprechung">sjz-005-02</category>
+				</categories>
+				<keywords>
+					<title>Schlagworte</title>
+					<keyword>Rechtsschutzinteresse</keyword>
+					<keyword>zweite Beschwerde</keyword>
+				</keywords>
+				<targetGroup targettype="praxis" />
+				<focus focustype="sp" />
+				<licence licencetype="Schulthess Juristische Medien AG" />
+				<price>(PayPerDoc)</price>
+			</documentInfo>
+			<document>
+				<text>
+					<p><anchor type="page" value="197" /></p>
+					<title level="1" type="document"><decisionCourtName>Obergericht Solothurn</decisionCourtName>, <decisionCourtDevision>Zivilkammer</decisionCourtDevision>, Urteil <decisionNumber>ZKBES.2020.52</decisionNumber> vom <decisionDate>2. April 2020</decisionDate></title>
+					<zone type="abstract">
+						<p align="justify" lang="de"><a href="https://www.fedlex.admin.ch/eli/cc/2010/262/de#a334"><?link  id="52c06983-73a3-445d-9f26-670185ab4341" type="law" art="334" par="4" law="ZPO"?>Art. 334 Abs. 4 ZPO<?end_link ?></a>. An einer zweiten Beschwerde gegen einen berichtigten Entscheid besteht kein Rechtsschutzinteresse, wenn die berichtigten Positionen keinen Anlass für neue Rügen geben und lediglich erneut dieselben Rügen vorgebracht werden wie gegen den ursprünglichen Entscheid.</p>
+						<p align="justify" lang="fr"><a href="https://www.fedlex.admin.ch/eli/cc/2010/262/fr#a334"><?link  id="c76e7054-63a9-4967-8597-70b97b25555c" type="law" art="334" par="4" law="CPC"?>Art. 334 al. 4 CPC<?end_link ?></a>. Il n’existe aucun intérêt juridique digne de protection à un deuxième recours contre une décision rectifiée lorsque les positions rectifiées ne donnent pas lieu à de nouveaux griefs et que seuls les griefs déjà soulevés contre la décision initiale sont invoqués. 	(P.P.)</p>
+					</zone>
+					<title level="1" type="text">Zusammenfassung des Sachverhalts:</title>
+					<p align="justify">Die B. (Bank) betrieb die A. AG für Schuldbriefforderungen. Sie stellte beim Richteramt ein Gesuch um Erteilung der provisorischen Rechtsöffnung für die Forderungen und für die Pfandrechte. Der Amtsgerichtspräsident erteilte versehentlich nur Rechtsöffnung für die Forderungen, nicht aber für die Pfandrechte. Gegen den Rechtsöffnungsentscheid erhob die A. AG am 9. Dezember 2019 Beschwerde an das Obergericht und verlangte dessen Aufhebung und die Bestätigung des Rechtsvorschlags. Ihr Gesuch um Erteilung der aufschiebenden Wirkung wurde abgewiesen, weil gestützt auf das angefochtene Urteil gar keine Fortsetzung der Betreibung auf Verwertung eines Grundpfandes verlangt werden konnte, nachdem darin bloss für die Forderung, nicht aber für das Pfandrecht provisorische Rechtsöffnung erteilt worden war. Hierauf reichte die B. beim Richteramt ein Berichtigungsbegehren ein. Das Beschwerdeverfahren betreffend provisorische Rechtsöffnung wurde bis zum endgültigen Entscheid des Berichtigungsverfahrens beim Richteramt sistiert. Der Amtsgerichtspräsident hiess das Berichtigungsgesuch gut und erteilte die provisorische Rechtsöffnung auch für die Pfandrechte. Gegen das berichtigte Urteil erhob die A. AG erneut eine Beschwerde an das Obergericht und verlangte die Aufhebung des angefochtenen Entscheids mit der Berichtigung. Das Obergericht trat auf die erneute Beschwerde sogleich ohne Stellungnahme der Gegenpartei nicht ein.</p>
+					<zone type="considerations">
+						<title level="1" type="text">Aus den Erwägungen:</title>
+						<p align="justify">«9. Der berichtigte Entscheid wird den Parteien neu eröffnet (<a href="https://www.fedlex.admin.ch/eli/cc/2010/262/de#a334"><?link  id="8b6e38cb-508f-4859-811d-179f5bf2db90" type="law" art="334" par="4" law="ZPO"?>Art. 334 Abs. 4 ZPO<?end_link ?></a>). Damit beginnt die Frist für das zutreffende Hauptrechtsmittel neu zu laufen, da eine Partei erst dann die Tragweite des Entscheids erkennen und entscheiden kann, ob sie ein Rechtsmittel ergreifen will oder nicht. Ein Rechtsmittel, das in der durch den Erläuterungsentscheid ausgelösten Frist erhoben wird, hat jedoch auf den Gegenstand der Erläuterung beschränkt zu bleiben, da nur in diesem Umfang eine neue Beschwer eingetreten ist. Berichtigte Entscheide sind nur dann anfechtbar, soweit durch die Berichtigung eine neue Beschwer eingetreten ist. Im übrigen Umfang erfolgt mangels der erforderlichen Beschwer ein Nichtein­tretensentscheid (Dieter Freiburghaus/Susanne Afheldt in: Thomas Sutter-Somm et al. [Hrsg.], Kommentar zur Schweize­rischen Zivilprozessordnung, Zürich 2016, Vorbem. zu Art. 308–318 N 52 sowie Art. 334 N 14).</p>
+						<p align="justify">10. Bereits mit der ersten Beschwerde vom 9. Dezember 2019 werden die Grundpfandrechte und das für diese gestellte Rechtsöffnungsgesuch nicht in Frage gestellt. Die Beschwerdeführerin beanstandete vielmehr, dass die Beschwerdegegnerin kein Recht hatte, die Rahmenkreditverträge sofort und ohne Kündigungsfrist fällig zu stellen. Die neu gegen die Berichtigung in Ziffer 1 eingereichte Beschwerde deckt sich nahezu wortwörtlich mit der früheren Beschwerde. Lediglich unter den Verfahrensanträgen erfolgte eine geringfügige Ergänzung, welche sich auf die weitere Entwicklung bezieht. Die neue Beschwerde richtet sich damit nicht gegen die mit der Berichtigung nunmehr auch für die Pfandrechte erteilte Rechtsöffnung. Diese wird mit der neuen Beschwerde in keiner Weise beanstandet. Auf den Gegenstand der Berichtigung wird kein Bezug genommen. Die Beschwerde ist insofern gegenstandslos. Oder mit anderen Worten: Das Rechtsöffnungsurteil vom 5. September 2019 gilt nach der Berichtigung für die Forderung und die Pfandrechte. Die dagegen eingereichte Beschwerde vom 9. Dezember 2019 ist mit denjenigen Rügen zu behandeln, die sie enthält. Da der Gegenstand der Berichtigung, die Erteilung der Rechtsöffnung auch für die Pfandrechte, zu keinen neuen Rügen Anlass gegeben hat, besteht kein <anchor type="page" value="198" />Rechtsschutzinteresse daran, ein neues Beschwerdeverfahren mit denselben Rügen zu eröffnen. Sollte die ursprüngliche Beschwerde abgewiesen werden, gälte das berichtigte Rechtsöffnungsurteil für die Forderung und die Pfandrechte.</p>
+						<p align="justify">11. Auf die neu eingereichte Beschwerde vom 23. März 2020 ist bei dieser Sachlage nicht einzutreten. […]»</p>
+					</zone>
+					<p align="right" authorId="KT03797" slxclass="author">Mitgeteilt von <givenName>Heinz</givenName> <familyName>Schaller</familyName>, <jobTitle>Leitender Gerichtsschreiber</jobTitle></p>
+				</text>
+				<footnotes />
+			</document>
+		</singleDocument>
+	</singleDocuments>
+</source>

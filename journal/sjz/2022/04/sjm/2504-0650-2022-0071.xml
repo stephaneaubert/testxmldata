@@ -1,0 +1,51 @@
+<source schemaVersion="2.1">
+	<publicationInfo>
+		<documentTitle>2504-0650-2022-0071.xml</documentTitle>
+		<accessCode accesstype="offen" />
+		<articleId>2504-0650-2022-0071</articleId>
+		<language langtype="de" />
+		<publisher publisherid="sjm">Schulthess Juristische Medien AG</publisher>
+		<eIssn>2504-0650</eIssn>
+		<issn>0036-7613</issn>
+		<journalAbbreviation>SJZ-RSJ</journalAbbreviation>
+		<journalName>Schweizerische Juristen-Zeitung/Revue Suisse de Jurisprudence</journalName>
+		<journalCode journalid="sjz" />
+		<issueInfo>
+			<year>2022</year>
+			<volume>118</volume>
+			<issueNumber>4</issueNumber>
+			<publicationDate>2022-03-01</publicationDate>
+		</issueInfo>
+	</publicationInfo>
+	<singleDocuments>
+		<singleDocument type="Preview">
+			<documentInfo>
+				<title>Vorschau 4/2022</title>
+				<firstPage>212</firstPage>
+				<lastPage>212</lastPage>
+				<jurisdictionals>
+					<jurisdictional name="" />
+				</jurisdictionals>
+				<categories>
+					<category name="Vorschau">sjz-015</category>
+				</categories>
+				<targetGroup targettype="praxis" />
+				<focus focustype="sp" />
+				<licence licencetype="Schulthess Juristische Medien AG" />
+				<price>(PayPerDoc)</price>
+			</documentInfo>
+			<document>
+				<text>
+					<p><anchor type="page" value="212" /></p>
+					<ul>
+						<li><bullet>■</bullet>Prof. em. Dr. iur. Dr. hc. Martin Lendi, Rechtsanwalt: <b>Wer trägt die Verantwortung für die Qualität der Gesetze?</b></li>
+						<li><bullet>■</bullet>Prof. Dr. iur. Peter Breitschmid, und Dr. iur. Annina Meyer-Vögeli: <b>Entwicklungen im Erbrecht | Le point sur le droit successoral</b></li>
+						<li><bullet>■</bullet>Prof. Dr. iur. Daniel Girsberger, LL.M., Rechtsanwalt, und PD Dr. iur. Dirk Trüten, LL.M.: <b>Entwicklungen im schweizerischen internationalen Privatrecht | Le point sur le droit international privé</b></li>
+						<li><bullet>■</bullet>Nathalie Denel: <b>Assouplissement de l’examen des marques suisses contenant une indication de provenance</b></li>
+					</ul>
+				</text>
+				<footnotes />
+			</document>
+		</singleDocument>
+	</singleDocuments>
+</source>

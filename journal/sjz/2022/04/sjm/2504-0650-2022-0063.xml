@@ -1,0 +1,91 @@
+<source schemaVersion="2.1">
+	<publicationInfo>
+		<documentTitle>2504-0650-2022-0063.xml</documentTitle>
+		<accessCode accesstype="abo" />
+		<articleId>2504-0650-2022-0063</articleId>
+		<language langtype="de" />
+		<publisher publisherid="sjm">Schulthess Juristische Medien AG</publisher>
+		<eIssn>2504-0650</eIssn>
+		<issn>0036-7613</issn>
+		<journalAbbreviation>SJZ-RSJ</journalAbbreviation>
+		<journalName>Schweizerische Juristen-Zeitung/Revue Suisse de Jurisprudence</journalName>
+		<journalCode journalid="sjz" />
+		<issueInfo>
+			<year>2022</year>
+			<volume>118</volume>
+			<issueNumber>4</issueNumber>
+			<publicationDate>2022-03-01</publicationDate>
+		</issueInfo>
+	</publicationInfo>
+	<singleDocuments>
+		<singleDocument type="CaseLawAsset">
+			<documentInfo>
+				<title>Bundesgericht, Urteil 1B_562/2021 vom 16. November 2021</title>
+				<authors>
+					<author>
+						<person id="KT04012" />
+						<honorific>Dr. iur.</honorific>
+						<firstName>Katharina</firstName>
+						<lastName>Fontana</lastName>
+					</author>
+				</authors>
+				<firstPage>195</firstPage>
+				<lastPage>196</lastPage>
+				<decisionInfos>
+					<decisionInfo>
+						<decisionNumber>1B_562/2021</decisionNumber>
+						<decisionDate>2021-11-16</decisionDate>
+						<decisionSubjectField>Strafprozess</decisionSubjectField>
+						<decisionObject>Haftentlassung</decisionObject>
+						<decisionCourtLocation>CH</decisionCourtLocation>
+						<decisionCourtName name="Bundesgericht">2</decisionCourtName>
+						<decisionCourtDevision>I. öffentlich-rechtliche Abteilung</decisionCourtDevision>
+					</decisionInfo>
+				</decisionInfos>
+				<commentedArticles>
+					<commentedArticle link="https://www.fedlex.admin.ch/eli/cc/1999/404/de#a30">Art. 30 BV</commentedArticle>
+					<commentedArticle link="https://www.fedlex.admin.ch/eli/cc/2010/267/de#a233">Art. 233 StPO</commentedArticle>
+				</commentedArticles>
+				<jurisdictionals>
+					<jurisdictional name="Strafprozessrecht">100-15</jurisdictional>
+				</jurisdictionals>
+				<categories>
+					<category name="Bundesgericht">sjz-005-01</category>
+				</categories>
+				<keywords>
+					<title>Schlagworte</title>
+					<keyword>Anschein der Befangenheit</keyword>
+					<keyword>dringender Tatverdacht</keyword>
+					<keyword>Haftentlassung</keyword>
+				</keywords>
+				<targetGroup targettype="praxis" />
+				<focus focustype="sp" />
+				<licence licencetype="Schulthess Juristische Medien AG" />
+				<price>(PayPerDoc)</price>
+			</documentInfo>
+			<document>
+				<text>
+					<title level="1" type="document">Bundesgericht, Urteil <decisionNumber>1B_562/2021</decisionNumber> vom <decisionDate>16. November 2021</decisionDate></title>
+					<zone type="abstract">
+						<p align="justify" lang="de"><a href="https://www.fedlex.admin.ch/eli/cc/1999/404/de#a30"><?link  id="ba2197ef-8321-4a96-93fa-c0f0df6f041b" type="law" art="30" par="1" law="BV"?>Art. 30 Abs. 1 BV<?end_link ?></a>; <a href="https://www.fedlex.admin.ch/eli/cc/2010/267/de#a233"><?link  id="b2a88b9b-8775-4ce4-a910-d16231a097b8" type="law" art="233" law="StPO"?>Art. 233 StPO<?end_link ?></a>. Ein Sachrichter, der später als Haftrichter amtet und dabei über die Frage des dringenden Tatverdachts zu befinden hat, erfüllt den Anschein der Befangenheit.</p>
+						<p align="justify" lang="fr"><a href="https://www.fedlex.admin.ch/eli/cc/1999/404/fr#a30"><?highlight_link  par="1" art="30" type="law" id="b5d9577c-b14e-4909-9224-c173b5fca198" law="Cst"?>Art. 30 al. 1 Cst.<?end_highlight_link ?></a>; <a href="https://www.fedlex.admin.ch/eli/cc/2010/267/fr#a233"><?link  id="aa354e4f-dc8b-4f74-898a-c1dffac6620f" type="law" art="233" law="CPP"?>art. 233 CPP<?end_link ?></a>. Présente une apparence de partialité, le juge du fond qui exerce ultérieurement la fonction de juge des mesures de contrainte et qui doit, à ce titre, se prononcer sur la question de la présomption accrue de culpabilité. 	(P.P.)</p>
+					</zone>
+					<title level="1" type="text">Aus dem Sachverhalt:</title>
+					<p align="justify">Im April 2020 sprach das Bezirksgericht Zürich A. (Beschwerdeführer) der mehrfach versuchten Anstiftung zur mehrfachen Tötung und weiterer Delikte schuldig. Das Obergericht des Kantons Zürich bestätigte mit Berufungsurteil vom 25. Mai 2021 das erstinstanzliche Urteil. Es erkannte auf eine Freiheitsstrafe von 6½ Jahren und sprach eine Landesverweisung aus. Eine dagegen erhobene Beschwerde ist vor dem Bundesgericht hängig. A. befindet sich seit seiner Verhaftung im April 2019 in strafprozessualer Haft bzw. im vorzeitigen Strafvollzug. Im September 2021 stellte er ein Haftentlassungsgesuch, welches das Obergericht des Kantons Zürich mit Präsidialverfügung vom 4. Oktober 2021 abwies. Mit Beschwerde in Strafsachen ans Bundesgericht beantragt A., die Verfügung des Obergerichts aufzuheben.</p>
+					<zone type="considerations">
+						<title level="1" type="text">Aus den Erwägungen:</title>
+						<p align="justify">«[Der Beschwerdeführer] rügt zudem eine unzulässige Vorbefassung von Oberrichter Spiess […].</p>
+						<p align="justify">Oberrichter Spiess wirkte zum einen in präsidierender Funktion am Urteil vom 25. Mai 2021 mit und fällte zum andern die hier angefochtene Präsidialverfügung vom 4. Oktober 2021. Der Beschwerdeführer rügt, angesichts dieser Vorbefassung sei die Haftsache nicht mehr offen gewesen. Der Mangel sei derart gewichtig, dass er zur Nichtigkeit des angefochtenen Entscheids führe.</p>
+						<p align="justify">Der Beschwerdeführer hat im vorinstanzlichen Verfahren kein Ausstandsgesuch gestellt, obwohl er damit hätte rechnen müssen, dass Oberrichter Spiess als zuständiger Verfahrensleiter nach <a href="https://www.fedlex.admin.ch/eli/cc/2010/267/de#a233"><?link  id="74820bcb-9513-4a6a-93ef-22dcaaab842b" type="law" art="233" law="StPO"?>Art. 233<?end_link ?></a> und <a href="https://www.fedlex.admin.ch/eli/cc/2010/267/de#a61"><?link  id="813c38c2-07ce-4898-a437-6330344a4b4c" type="law" art="61" letter="c" law="StPO"?>Art. 61 lit. c StPO<?end_link ?></a> sein Haftentlassungsgesuch beurteilen würde. Stattdessen erhebt er den Vorwurf der Befangenheit erst im Verfahren vor Bundesgericht. Nach der bundesgerichtlichen Rechtsprechung müssen Ausstandsgründe jedoch unverzüglich nach Kenntnis geltend gemacht werden, ansonsten sie als verwirkt gelten. Es verstösst gegen Treu und Glauben, Einwände dieser Art erst nach einem ungünstigen Prozessausgang im Rechtsmittelverfahren vorzubringen, wenn der Mangel schon vorher hätte gerügt werden können (BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F140-I-271%3Ade&amp;lang=de&amp;type=show_document"><?link  id="b9056da3-9176-427a-9d6a-44c0ad8e3476" type="decision" reference="140 I 271" journal_reference="BGE"?>140 I 271<?end_link ?></a> E. 8.4.3; <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F135-III-334%3Ade&amp;lang=de&amp;type=show_document"><?link  id="b8f00d29-1b38-49f4-9589-aa3031f940a3" type="decision" reference="135 III 334" journal_reference="BGE" tocollect=";"?>135 III 334<?end_link ?></a> E. 2.2; Urteil <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=10.05.2021_1B_180/2021"><?link  id="39eb3d84-ef22-402c-9030-ccd418998dd9" type="decision" reference_number="1B_180/2021" date="10.05.2021" court="BGer"?>1B_180/2021<?end_link ?></a> vom 10. Mai 2021 E. 2.1; je mit Hinweisen). Eine Ausnahme wird nur bei offensichtlichen Befangenheitsgründen gemacht (BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F134-I-20%3Ade&amp;lang=de&amp;type=show_document"><?link  id="14af1f39-7a33-49c7-af82-e7e17bf18661" type="decision" reference="134 I 20" journal_reference="BGE"?>134 I 20<?end_link ?></a> E. 4.3.2; Urteile <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=10.06.2021_4A_576/2020"><?link  id="4de2d618-3034-4606-a616-1d0a7f92dfca" type="decision" reference_number="4A_576/2020" date="10.06.2021" court="BGer"?>4A_576/2020<?end_link ?></a> vom 10. Juni 2021 E. 3.1.6 und 3.2; <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=10.07.2018_1C_164/2018"><?link  id="cc472ccd-0cf9-44d0-8290-0daa21b67517" type="decision" reference_number="1C_164/2018" date="10.07.2018" court="BGer"?>1C_164/2018<?end_link ?></a> vom 10. Juli 2018 E. 1.5; je mit Hinweisen). Der Rüge des Beschwerdeführers kann somit nur Erfolg beschieden sein, wenn der geltend gemachte Befangenheitsgrund offensichtlich ist. Das ist im Folgenden zu prüfen. […]</p>
+						<p align="justify">Die Personalunion von Haftrichter und späterem Sachrichter ist mit der Verfassung und der EMRK vereinbar, sofern nicht im Einzelfall Umstände hinzukommen, die den Anschein der Befangenheit begründen. Denn der Haftrichter hat nicht die gleichen Fragen wie der Sachrichter zu behandeln, insbesondere nicht die für den Ausgang des Hauptverfahrens entscheidende Frage der <anchor type="page" value="196" />Schuld (BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F117-IA-182%3Ade&amp;lang=de&amp;type=show_document"><?link  id="da8d81af-5cd0-470c-a4c5-9a1ab5d8c0b6" type="decision" reference="117 Ia 182" journal_reference="BGE"?>117 Ia 182<?end_link ?></a> E. 3; Urteil <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=05.04.2018_1B_491/2017"><?link  id="4a3cb4f4-1897-46c6-9d3b-0364706d0af8" type="decision" reference_number="1B_491/2017" date="05.04.2018" court="BGer"?>1B_491/2017<?end_link ?></a> vom 5. April 2018 E. 3.6; Urteil des EGMR <i>Hauschildt gegen Dänemark</i> vom 24. Mai 1989, Nr. 10 486/83 §§ 49–51, in: EGMR-E 4 Nr. 295; je mit Hinweisen; vgl. allerdings auch die Hinweise auf abweichende Lehrmeinungen in BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F139-IV-270%3Ade&amp;lang=de&amp;type=show_document"><?link  id="7afa2d46-c9ab-4a51-8b5f-8b19973adf5b" type="decision" reference="139 IV 270" journal_reference="BGE"?>139 IV 270<?end_link ?></a> E. 2.1). […]</p>
+						<p align="justify">Auch hier steht eine Form der Personalunion zwischen Haft- und Sachrichter zur Diskussion, indessen unter umgekehrten Vorzeichen, da Oberrichter Spiess zuerst als Sachrichter amtete und erst später als Haftrichter. Das Bundesgericht hatte bisher keine Gelegenheit, sich mit dieser Konstellation zu befassen, und die Literatur äussert sich dazu, soweit ersichtlich, nicht (im Gegensatz zur Situation, in der ein Richter zunächst über die Haft und später in der Sache entscheidet: s. die Hinweise in BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F139-IV-270%3Ade&amp;lang=de&amp;type=show_document"><?link  id="f72a642d-325b-45bf-9574-204b6cf71dd5" type="decision" reference="139 IV 270" journal_reference="BGE"?>139 IV 270<?end_link ?></a> E. 2.1). Für die Frage der Befangenheit ist dieser Unterschied wesentlich. Im Haftprüfungsverfahren genügt der Nachweis von konkreten Verdachtsmomenten, wonach das untersuchte Verhalten mit erheblicher Wahrscheinlichkeit die fraglichen Tatbestandsmerkmale erfüllen könnte (BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F143-IV-316%3Ade&amp;lang=de&amp;type=show_document"><?link  id="984f075d-27a0-4ed8-9d05-36b07408d816" type="decision" reference="143 IV 316" journal_reference="BGE"?>143 IV 316<?end_link ?></a> E. 3.1 f. mit Hinweisen). Dagegen ist für eine Verurteilung der Grundsatz ‹in dubio pro reo› massgeblich. Danach ist entscheidend, ob nach objektiver Würdigung keine unüberwindbaren Zweifel daran bestehen, dass die tatsächlichen Voraussetzungen der angeklagten Tat erfüllt sind (<a href="https://www.fedlex.admin.ch/eli/cc/1999/404/de#a32"><?link  id="d6e38588-8468-476d-8ae6-4fd5def40cb9" type="law" art="32" par="1" law="BV"?>Art. 32 Abs. 1 BV<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/de#a6"><?link  id="fa022369-b16d-4293-b63b-171cbd0ccba6" type="law" art="6" nr="2" law="EMRK"?>Art. 6 Ziff. 2 EMRK<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/2010/267/de#a10"><?link  id="84561011-0a34-4191-9e94-6a717e86120d" type="law" art="10" par="3" law="StPO"?>Art. 10 Abs. 3 StPO<?end_link ?></a>; BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F144-IV-345%3Ade&amp;lang=de&amp;type=show_document"><?link  id="8ffff8f3-bb37-418b-9163-6a0ac6b35089" type="decision" reference="144 IV 345" journal_reference="BGE"?>144 IV 345<?end_link ?></a> E. 2.2.1 mit Hinweisen). Diese unterschiedlichen Beweismassstäbe sprechen dafür, beim Sachrichter, der später als Haftrichter amtet und in diesem Zusammenhang über die Frage des dringenden Tatverdachts zu befinden hat, den Anschein der Befangenheit zu bejahen. Da er durch die Verurteilung des Angeklagten zum Ausdruck gebracht hat, dass er keine bzw. höchstens abstrakte oder theoretische Zweifel an dessen Schuld hat, kann er in Bezug auf die sich in einem späteren Haftprüfungsverfahren stellende Frage des dringenden Tatverdachts kaum mehr als unvoreingenommen angesehen werden.</p>
+						<p align="justify">Ergänzend ist festzuhalten, dass die Strafprozessordnung und die dazu ergangene Rechtsprechung Raum lassen für die Einsetzung eines Haftrichters, der am Berufungsurteil nicht beteiligt war. Zwar hat das Bundesgericht festgehalten, dass auch nach dem Urteil des Berufungsgerichts in der Sache während der Rechtshängigkeit einer Beschwerde vor Bundesgericht die Verfahrensleitung des Berufungsgerichts gestützt auf <a href="https://www.fedlex.admin.ch/eli/cc/2010/267/de#a233"><?link  id="2068c6e5-7b93-4f76-8304-68a05e0d4871" type="law" art="233" law="StPO"?>Art. 233 StPO<?end_link ?></a> für die erstinstanzliche Behandlung von Haftentlassungsgesuchen zuständig bleibt (BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F143-IV-160%3Ade&amp;lang=de&amp;type=show_document"><?link  id="9237b9a2-cfc9-4283-927f-0df9721a76c2" type="decision" reference="143 IV 160" journal_reference="BGE"?>143 IV 160<?end_link ?></a> E. 3.1). Damit wäre an sich Oberrichter Spiess als Präsident des Spruchkörpers, der das Urteil vom 25. Mai 2021 fällte, auch zuständig für die Beurteilung von in diesem Verfahrensstadium gestellten Haftentlassungsgesuchen (<a href="https://www.fedlex.admin.ch/eli/cc/2010/267/de#a61"><?link  id="9440c6be-40e6-4e54-b29e-0bb644347ab9" type="law" art="61" letter="c" law="StPO"?>Art. 61 lit. c StPO<?end_link ?></a> und BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F139-IV-270%3Ade&amp;lang=de&amp;type=show_document"><?link  id="9a28b730-ce2d-4c02-a4fd-6975193b2376" type="decision" reference="139 IV 270" journal_reference="BGE"?>139 IV 270<?end_link ?></a> E. 2.1). Allerdings geht aus der bundesgerichtlichen Rechtsprechung ebenfalls hervor, dass der Begriff der Verfahrensleitung in <a href="https://www.fedlex.admin.ch/eli/cc/2010/267/de#a233"><?link  id="52ba9078-7c6c-4009-9728-0c1b263279d9" type="law" art="233" law="StPO"?>Art. 233 StPO<?end_link ?></a> nicht eng zu verstehen ist. Darunter kann auch ein Gremium verstanden werden, dessen Mitglieder nicht am Urteil in der Sache mitwirken (BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F139-IV-270%3Ade&amp;lang=de&amp;type=show_document"><?link  id="0ce703c3-d4f9-43bd-9d6d-9ae1035fa79f" type="decision" reference="139 IV 270" journal_reference="BGE"?>139 IV 270<?end_link ?></a> E. 2.3 mit Hinweisen).</p>
+						<p align="justify">Es sprechen insgesamt gewichtige Argumente dafür, bei Oberrichter Spiess mit Blick auf die Prüfung des dringenden Tatverdachts den Anschein der Befangenheit zu bejahen. Allerdings könnte, wie eingangs dargelegt, die Rüge des Beschwerdeführers nur dann als zulässig angesehen werden, wenn der Befangenheitsgrund geradezu offensichtlich wäre. Das ist zu verneinen. Obwohl es in erster Linie Aufgabe des Staates ist, Situationen der Befangenheit, die sich aus institutionellen (organisatorischen) Gründen ergeben, zu verhindern (BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F140-I-271%3Ade&amp;lang=de&amp;type=show_document"><?link  id="90099233-65e9-42a9-bd50-8dc7eca0465e" type="decision" reference="140 I 271" journal_reference="BGE"?>140 I 271<?end_link ?></a> E. 8.4.3), hätte vom Beschwerdeführer gestützt auf den Grundsatz von Treu und Glauben erwartet werden können, im vorinstanzlichen Verfahren ein Ausstandsgesuch zu stellen. Mit seinem Zuwarten hat er sein Recht in Bezug auf das vorliegende Haftverfahren verwirkt.»</p>
+					</zone>
+					<p align="right" authorId="KT04012" slxclass="author">Bearbeitet von <honorificPrefix>Dr. iur.</honorificPrefix> <givenName>Katharina</givenName> <familyName>Fontana</familyName>, Bern</p>
+				</text>
+				<footnotes />
+			</document>
+		</singleDocument>
+	</singleDocuments>
+</source>

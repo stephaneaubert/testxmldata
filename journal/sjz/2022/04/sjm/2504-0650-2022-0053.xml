@@ -1,0 +1,50 @@
+<source schemaVersion="2.1">
+	<publicationInfo>
+		<documentTitle>2504-0650-2022-0053.xml</documentTitle>
+		<accessCode accesstype="offen" />
+		<articleId>2504-0650-2022-0053</articleId>
+		<language langtype="de" />
+		<publisher publisherid="sjm">Schulthess Juristische Medien AG</publisher>
+		<eIssn>2504-0650</eIssn>
+		<issn>0036-7613</issn>
+		<journalAbbreviation>SJZ-RSJ</journalAbbreviation>
+		<journalName>Schweizerische Juristen-Zeitung/Revue Suisse de Jurisprudence</journalName>
+		<journalCode journalid="sjz" />
+		<issueInfo>
+			<year>2022</year>
+			<volume>118</volume>
+			<issueNumber>4</issueNumber>
+			<publicationDate>2022-03-01</publicationDate>
+		</issueInfo>
+	</publicationInfo>
+	<singleDocuments>
+		<singleDocument type="NewsAsset">
+			<documentInfo>
+				<title>Massnahme zum Schutz der Schweizer Börseninfrastruktur verlängert</title>
+				<firstPage>157</firstPage>
+				<lastPage>157</lastPage>
+				<jurisdictionals>
+					<jurisdictional name="Banken- und Finanzmarktrecht">40-35</jurisdictional>
+				</jurisdictionals>
+				<categories>
+					<category name="Aktuelle Meldungen">sjz-007-02</category>
+				</categories>
+				<keywords>
+					<title>Schlagworte</title>
+					<keyword>Schutz der Börseninfrastruktur</keyword>
+				</keywords>
+				<targetGroup targettype="praxis" />
+				<focus focustype="sp" />
+				<licence licencetype="Schulthess Juristische Medien AG" />
+				<price>(PayPerDoc)</price>
+			</documentInfo>
+			<document>
+				<text>
+					<title level="1" type="document">Massnahme zum Schutz der Schweizer Börseninfrastruktur verlängert</title>
+					<p align="justify">Die Massnahme zum Schutz der Schweizer Börseninfrastruktur wurde vom Eidgenössischen Finanzdepartement (EFD) am 1. Juli 2019 aktiviert, nachdem die EU die Anerkennung der Börsenäquivalenz per Ende Juni 2019 hatte auslaufen lassen. Die Schutzmassnahme bezweckt den Schutz und Erhalt einer funktionsfähigen Schweizer Börseninfrastruktur und schafft eine Grundlage dafür, dass Wertpapierfirmen aus der EU trotz Wegfalls der Börsenäquivalenz weiterhin Schweizer Aktien an Schweizer Börsen handeln können. Sie galt befristet bis zum 31. Dezember 2021, weshalb sie mit Beschluss des Bundesrates vom 17. November 2021 verlängert und für deren Überführung in das Finanzmarktinfrastrukturgesetz (FinfraG) die Vernehmlassung eröffnet wurde.</p>
+				</text>
+				<footnotes />
+			</document>
+		</singleDocument>
+	</singleDocuments>
+</source>

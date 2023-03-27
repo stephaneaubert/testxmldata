@@ -1,0 +1,747 @@
+<source schemaVersion="2.1">
+	<publicationInfo>
+		<documentTitle>2504-0650-2022-0059.xml</documentTitle>
+		<accessCode accesstype="abo" />
+		<articleId>2504-0650-2022-0059</articleId>
+		<language langtype="de" />
+		<publisher publisherid="sjm">Schulthess Juristische Medien AG</publisher>
+		<eIssn>2504-0650</eIssn>
+		<issn>0036-7613</issn>
+		<journalAbbreviation>SJZ-RSJ</journalAbbreviation>
+		<journalName>Schweizerische Juristen-Zeitung/Revue Suisse de Jurisprudence</journalName>
+		<journalCode journalid="sjz" />
+		<issueInfo>
+			<year>2022</year>
+			<volume>118</volume>
+			<issueNumber>4</issueNumber>
+			<publicationDate>2022-03-01</publicationDate>
+		</issueInfo>
+	</publicationInfo>
+	<singleDocuments>
+		<singleDocument type="EssayAsset">
+			<documentInfo>
+				<title>Schafft das neue Aktienrecht die Sachübernahmevorschriften wirklich ab?</title>
+				<authors>
+					<author>
+						<person id="KT00690" />
+						<honorific>Dr. iur.</honorific>
+						<firstName>Markus</firstName>
+						<lastName>Vischer</lastName>
+						<honorificSuffix>LL.M.</honorificSuffix>
+					</author>
+				</authors>
+				<firstPage>172</firstPage>
+				<lastPage>184</lastPage>
+				<jurisdictionals>
+					<jurisdictional name="Aktienrecht">40-15</jurisdictional>
+				</jurisdictionals>
+				<categories>
+					<category name="Leitartikel">sjz-001</category>
+				</categories>
+				<keywords>
+					<title>Schlagworte</title>
+					<keyword>Sachübernahme</keyword>
+					<keyword>Sacheinlage</keyword>
+					<keyword>Aktienrechtsrevision</keyword>
+				</keywords>
+				<targetGroup targettype="praxis" />
+				<focus focustype="sp" />
+				<licence licencetype="Schulthess Juristische Medien AG" />
+				<price>(PayPerDoc)</price>
+			</documentInfo>
+			<document>
+				<text>
+					<p><anchor type="page" value="172" /></p>
+					<title level="1" type="document">Schafft das neue Aktienrecht die Sachübernahmevorschriften wirklich ab?</title>
+					<p align="justify" authorId="KT00690" slxclass="author"><honorificPrefix>Dr. iur.</honorificPrefix> <givenName>Markus</givenName> <familyName>Vischer</familyName>, <honorificSuffix>LL.M.</honorificSuffix>, <jobTitle>Rechtsanwalt</jobTitle>, Partner, Zürich<footnotecall number="*" fnid="fn1" /></p>
+					<zone type="abstract">
+						<p align="justify" lang="de">Das neue Aktienrecht von 2020, welches voraussichtlich im Jahr 2023 in Kraft treten wird, schafft bekanntlich formell die Sachübernahmevorschriften ab. Dieser Beitrag geht der Frage nach, ob diese Vorschriften wirklich abgeschafft werden oder ob sie aufgrund allgemeiner Bestimmungen materiell ganz oder teilweise weitergelten.</p>
+						<p align="justify" lang="fr">Le nouveau droit de la société anonyme de 2020, qui entrera en vigueur probablement en 2023, abroge formellement les dispositions relatives aux apports en nature. Le présent article analyse si ces dispositions seront réellement abolies, ou si elles s’appliqueront encore matériellement, en tout ou en partie, en vertu des dispositions générales. 	(P.P.)</p>
+					</zone>
+					<title level="1" type="text"><number>I.</number>Die Sachübernahmevorschriften im gegenwärtigen Aktienrecht und der Weg dazu</title>
+					<p align="justify">Die Sachübernahmevorschriften sind so alt wie das OR<footnotecall number="1" fnid="fn2" /> selbst,<footnotecall number="2" fnid="fn3" /> auch wenn sie sich im Laufe der Zeit veränderten. So sah bereits Art. 619 Abs. 1 OR 1881, seinem deutschen Vorbild in Art. 209b der deutschen Aktienrechtsnovelle von 1870 folgend,<footnotecall number="3" fnid="fn4" /> eine Statutenpublizität wie folgt vor: <i>«[…] wenn Anlagen oder sonstige Vermögensstüke von der zu errichtenden Gesellschaft übernommen werden sollen, so ist in den Statuten genau der Uebernahmspreis festzusezen.»</i><footnotecall number="4" fnid="fn5" /> Anlass zur Regelung von (Sacheinlagen und) Sachübernahmen gaben die weit verbreiteten Schwindelgründungen im 19. Jahrhundert.<footnotecall number="5" fnid="fn6" /></p>
+					<p align="justify">Das Aktienrecht von 1936,<footnotecall number="6" fnid="fn7" /> welches zum grössten Teil am 1. Juli 1937 in Kraft trat,<footnotecall number="7" fnid="fn8" /> hielt bezüglich Sachübernahmen in Art. 628 Abs. 2 OR 1936 an der Statutenpublizität fest und verlangte in Art. 630 OR 1936 neu einen Gründerbericht.<footnotecall number="8" fnid="fn9" /> Zudem schaffte es bezüglich Sachübernahmen in Art. 641 Ziff. 6 OR 1936 neben der Statutenpublizität eine Handelsregisterpublizität.</p>
+					<p><anchor type="page" value="173" /></p>
+					<p align="justify">Im Aktienrecht von 1991,<footnotecall number="9" fnid="fn10" /> welches zum grössten Teil am 1. Juli 1992 in Kraft trat,<footnotecall number="10" fnid="fn11" /> wurde der Schutz bezüglich Sachübernahmen nochmals ausgebaut.<footnotecall number="11" fnid="fn12" /> U.a. wurde in Art. 635a OR 1991 und Art. 652f OR 1991 eine Gründungs- und Kapitalerhöhungsprüfung eingeführt.<footnotecall number="12" fnid="fn13" /> Ausserdem wurden in Art. 628 Abs. 2 OR 1991 im Einklang mit der Rechtsprechung zum Aktienrecht von 1936<footnotecall number="13" fnid="fn14" /> Sachübernahmen und beabsichtigte Sachübernahmen explizit gleichgestellt.</p>
+					<p align="justify">Im GmbH-Recht von 2005,<footnotecall number="14" fnid="fn15" /> welches am 1. Januar 2008 in Kraft trat,<footnotecall number="15" fnid="fn16" /> wurde die Sachübernahme in <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a628"><?link  id="92d470f3-bfe7-44c1-b807-70d94e9952ea" type="law" art="628" par="2" law="OR"?>Art. 628 Abs. 2 OR<?end_link ?></a> auf Tatbestände beschränkt, in denen Vermögenswerte <i>«von Aktionären oder einer diesen nahe stehenden Person»</i> übernommen werden oder dies beabsichtigt ist.</p>
+					<p align="justify">Im Handelsregisterrecht von 2017,<footnotecall number="16" fnid="fn17" /> welches zum grössten Teil am 1. Januar 2021 in Kraft trat,<footnotecall number="17" fnid="fn18" /> wurden verschiedene Sachübernahmevorschriften leicht angepasst. U.a. wurde die bis dahin verlangte sog. Stampaerklärung<footnotecall number="18" fnid="fn19" /> mittels <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a629"><?link  id="b989d191-cb9e-488b-b0f1-47e0b26d0f9f" type="law" art="629" par="2" nr="4" law="OR"?>Art. 629 Abs. 2 Ziff. 4 OR<?end_link ?></a> und <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a652g"><?link  id="e9c45e64-1d96-4f0e-95aa-711d00bef8d3" type="law" art="652g" par="1" nr="4" law="OR"?>Art. 652g Abs. 1 Ziff. 4 OR<?end_link ?></a> durch eine entsprechende Bestätigung im Gründungs- und Kapitalerhöhungsakt selbst ersetzt.<footnotecall number="19" fnid="fn20" /></p>
+					<p align="justify">Die Sachübernahmevorschriften des gegenwärtigen Aktienrechts finden sich in <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a628"><?link  id="5f3c9a1c-7d32-4b55-9064-8d4c28bcbe23" type="law" art="628" law="OR"?>Art. 628<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a629"><?link  id="8de452b6-33b2-4faa-9f82-6a143c0318e2" type="law" art="629" law="OR"?>Art. 629<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a631"><?link  id="18d8b3d6-eb13-4f7f-81d4-12ea5ec665e6" type="law" art="631" law="OR"?>Art. 631<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a635"><?link  id="90098a37-5e15-4129-ac7f-d7d9d8a525d6" type="law" art="635" law="OR"?>Art. 635<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a642"><?link  id="1b2b2254-651f-42f2-983e-c67e88cf80c0" type="law" art="642" law="OR"?>Art. 642<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a650"><?link  id="46e49053-b6d9-4229-881e-1eb17dd1789d" type="law" art="650" law="OR"?>Art. 650<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a651"><?link  id="aa7c6f55-bf15-4bd6-b677-00bb40806c0e" type="law" art="651" law="OR"?>Art. 651<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a652e"><?link  id="9f7c3648-24ec-4f9b-9190-d216210c6dc5" type="law" art="652e" law="OR"?>Art. 652e<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a652f"><?link  id="f037736e-316f-4b63-9754-9f3e310a01d3" type="law" art="652f" law="OR"?>Art. 652f<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a652g"><?link  id="301e525e-eb19-4c67-a89f-1c1cb3295514" type="law" art="652g" law="OR"?>Art. 652g<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a704"><?link  id="9be6cd8d-86be-4fdc-b6f5-4e332e9a0685" type="law" art="704" law="OR"?>Art. 704<?end_link ?></a> und <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a753"><?link  id="dda36c86-0cd0-4241-99c8-143caaa0c6dd" type="law" art="753" law="OR"?>Art. 753 OR<?end_link ?></a>.</p>
+					<title level="1" type="text"><number>II.</number>Die Abschaffung der Sachübernahmevorschriften im neuen Aktienrecht und der Weg dazu</title>
+					<p align="justify">Im Vorentwurf von 2005<footnotecall number="20" fnid="fn21" /> schlug der Bundesrat vor, bezüglich (Sacheinlagen und) Sachübernahmen die Statutenpublizität zu streichen und nur noch eine Handelsregisterpublizität vorzusehen.<footnotecall number="21" fnid="fn22" /> Er sah zudem entsprechend der h.M. in Art. 636 Abs. 2 Vorentwurf 2005 vor, dass sachübernahmefähig nur ist, was auch sacheinlagefähig ist.<footnotecall number="22" fnid="fn23" /> Zudem schlug der Bundesrat mittels Art. 636 Abs. 3 Vorentwurf 2005 vor, dass Gesellschaften über das Handelsregister Rechtsgeschäfte offenlegen können, die nicht <i>sensu strictu</i> eine Sachübernahme darstellen.<footnotecall number="23" fnid="fn24" /> Interessant ist auch, dass der Bundesrat in Art. 634a Abs. 2 Satz 2 Vorentwurf 2005 in Bezug auf die Verrechnungsliberierung Umgehungsvorschriften zur Bar- und Sachliberierung schaffen wollte,<footnotecall number="24" fnid="fn25" /> indem festgehalten wurde, dass <i>«Forderungen für Leistungen der Aktionäre oder von Personen, die ihnen nahe stehen, […] nur verrechnet werden [dürfen], wenn die Leistungen Gegenstand einer Bareinlage oder einer Sacheinlage sein können».</i> Das hätte den Kreditverkauf eines Gegenstands durch Aktionäre oder diesen nahestehende Personen an die Gesellschaft mit anschliessender Verrechnungsliberierung eingeschränkt. Die Umgehungsvorschriften wurden auf den Aktionär und diesem nahestehende Personen beschränkt. <i>«Für Verträge mit Dritten genüg[e] das allgemeine Umgehungs- und Rechtsmissbrauchsverbot».</i><footnotecall number="25" fnid="fn26" /></p>
+					<p align="justify">Im Entwurf von 2007<footnotecall number="26" fnid="fn27" /> kehrte der Bundesrat zum System der Statuten- und Handelsregisterpublizität der (Sacheinlagen und) Sachübernahmen zurück.<footnotecall number="27" fnid="fn28" /> Er hielt in <anchor type="page" value="174" />Art. 634a Abs. 2 Entwurf 2007 daran fest, dass nur sachübernahmefähig ist, was auch sacheinlagefähig ist.<footnotecall number="28" fnid="fn29" /> Er beliess wie im Vorentwurf 2005 in Art. 634a Abs. 4 Entwurf 2007 die Bestimmung, wonach die Gesellschaft weitere Rechtsgeschäfte (als Sachübernahmen <i>sensu strictu</i>) im Handelsregister eintragen lassen könne.<footnotecall number="29" fnid="fn30" /> An der Umgehungsvorschrift zur Bar- und Sacheinlageliberierung in Bezug auf die Verrechnungsliberierung wurde in Art. 634b Entwurf 2007 festgehalten.<footnotecall number="30" fnid="fn31" /></p>
+					<p align="justify">Im Vorentwurf von 2014<footnotecall number="31" fnid="fn32" /> schlug der Bundesrat vor, die Sachübernahmevorschriften gänzlich zu streichen.<footnotecall number="32" fnid="fn33" /></p>
+					<p align="justify">Im Entwurf 2016<footnotecall number="33" fnid="fn34" /> hielt der Bundesrat an der Streichung der Sachübernahmevorschriften fest.<footnotecall number="34" fnid="fn35" /> Begründet wurde dies primär mit dem Argument der Rechtssicherheit, denn mit der Sachübernahme seien grosse Rechtsunsicherheiten verknüpft.<footnotecall number="35" fnid="fn36" /> Weiter würden die Sachübernahmebestimmungen nur selektiv wirken, könne die Gesellschaft nach der Gründung doch Miet- und andere Verträge abschliessen und sonstige Rechtsgeschäfte vornehmen, ohne dass die Sachübernahmevorschriften greifen würden.<footnotecall number="36" fnid="fn37" /> Nach der Abschaffung dieser Vorschriften bliebe der Schutz des Kapitalerhaltungs- und Verantwortlichkeitsrechts,<footnotecall number="37" fnid="fn38" /> namentlich von <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a680"><?link  id="044bd142-a91f-41c8-8a9a-f7a5bd20230b" type="law" art="680" par="2" law="OR"?>Art. 680 Abs. 2 OR<?end_link ?></a> (Verbot der Einlagerückgewähr), von <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a678"><?link  id="cee7762e-34c8-40a2-9cd6-7afa9442980d" type="law" art="678" law="OR"?>Art. 678 OR<?end_link ?></a> (Rückerstattung von Leistungen) und von <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a754"><?link  id="39427551-33ed-4adf-bfe2-29dbe5e53dc4" type="law" art="754" law="OR"?>Art. 754 OR<?end_link ?></a> (Verantwortlichkeit).<footnotecall number="38" fnid="fn39" /> Auch die Rechnungslegungsregeln in <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a957"><?link  id="7ef57bb4-4201-4bdd-8e39-c795a7d15f1f" type="law" art="957" law="OR"?>Art. 957 ff. OR<?end_link ?></a> böten noch Schutz,<footnotecall number="39" fnid="fn40" /> ebenso wie die sanierungsrechtlichen Vorschriften in <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a725"><?link  id="c750b1c8-4406-4d38-8217-4541c8ae8c2b" type="law" art="725" law="OR"?>Art. 725 ff. OR<?end_link ?></a> und die strafrechtlichen Normen, etwa in <a href="https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#a152"><?link  id="ebc23ee2-5592-4e40-83af-8689b3d7b243" type="law" art="152" law="StGB"?>Art. 152 StGB<?end_link ?></a><footnotecall number="40" fnid="fn41" /> (unwahre Angaben über kaufmännische Gewerbe), <a href="https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#a158"><?link  id="5bc7f45b-9f66-4d56-b0b4-860305345026" type="law" art="158" law="StGB"?>Art. 158 StGB<?end_link ?></a> (ungetreue Geschäftsbesorgung), <a href="https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#a163"><?link  id="54e3bba8-f96e-406f-b937-52ee9d5f1197" type="law" art="163" law="StGB"?>Art. 163 StGB<?end_link ?></a> (betrügerischer Konkurs und Pfändungsbetrug), <a href="https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#a164"><?link  id="dcfecbb1-6759-41f2-b6b4-01a3de18e2bb" type="law" art="164" law="StGB"?>Art. 164 StGB<?end_link ?></a> (Gläubigerschädigung durch Vermögensminderung) und <a href="https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#a165"><?link  id="756a12e4-1bcb-44dd-b4d2-20d6fee5c49e" type="law" art="165" law="StGB"?>Art. 165 StGB<?end_link ?></a> (Misswirtschaft).<footnotecall number="41" fnid="fn42" /></p>
+					<p align="justify">Die vorberatende Kommission des erstbehandelnden Rats, die Kommission für Rechtsfragen des Nationalrates (RK-NR), schlug vor, die Sachübernahmevorschriften beizubehalten,<footnotecall number="42" fnid="fn43" /> aber u.a. in <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a634bis"><?link  id="17a4dfa3-b973-41c9-a31f-73a6250c8d46" type="law" art="634bis" par="3" law="OR"?>Art. 634<sup>bis</sup> Abs. 3 OR<?end_link ?></a> zu präzisieren.<footnotecall number="43" fnid="fn44" /> Nationalrat Fässler stellte aber den Gegenantrag, zum bundesrätlichen Vorschlag zurückzukehren.<footnotecall number="44" fnid="fn45" /> Dem folgte der Nationalrat mittels einer diesen Gegenantrag gutheissenden Abstimmung.<footnotecall number="45" fnid="fn46" /> Im Lichte dieser Abstimmung war das im Folgenden zu einzelnen Bestimmungen stattfindende Abstimmungsverfahren recht verwirrlich, weil nicht über die Bestimmungen, wie durch den (angenommenen) Antrag von Nationalrat Fässler geändert, abgestimmt wurde, sondern über die Bestimmungen in der Fassung vor diesem Antrag, auch wenn der Präsident des Nationalrats, Nationalrat de Buman, jeweils vor einer Abstimmung einen Vorbehalt anbrachte.<footnotecall number="46" fnid="fn47" /> So erfolgte z.B. eine Abstimmung zu <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a634bis"><?link  id="052475a6-bee9-454c-86bc-890247c16b5c" type="law" art="634bis" law="OR"?>Art. 634<sup>bis</sup> OR<?end_link ?></a>, der gutgeheissen wurde,<footnotecall number="47" fnid="fn48" /> obwohl es gemäss Antrag von Nationalrat Fässler keinen <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a634bis"><?link  id="27a570e5-2bf0-4a2c-a67b-015bfbc2f536" type="law" art="634bis" law="OR"?>Art. 634<sup>bis</sup> OR<?end_link ?></a> mehr geben sollte. Das müsste besser lösbar sein, v.a. durch den Einsatz von handelsüblichen Textverarbeitungsprogrammen, welche die sofortige Anzeige von Änderungen in Dokumenten im Vergleichsmodus möglich machen. Der Einsatz solcher Programme würde es nicht nur erlauben, über Änderungen im Kontext bisheriger Änderungen abzustimmen, sondern auch, über Änderungen im Kontext des bisherigen Rechts abzustimmen. Eventuell hätte das Parlament so auch bemerkt, dass es versehentlich nur die Marginalie von Art. 652f nOR<footnotecall number="48" fnid="fn49" /> änderte, anstatt auch Art. 652f Abs. 2 nOR.<footnotecall number="49" fnid="fn50" /></p>
+					<p><anchor type="page" value="175" /></p>
+					<p align="justify">Es erstaunt deshalb nicht, dass Nationalrat Vogt im Nationalrat später ausführte, über den Antrag von Nationalrat Fässler sei <i>«auf der Basis einer irrtümlichen, falschen Stimmabgabe einer grossen Fraktion entschieden [worden]».</i><footnotecall number="50" fnid="fn51" /> Das mochte die Kommission für Rechtsfragen des Ständerates (RK-SR) (und im Folgenden das Parlament) jedoch nicht mehr korrigieren, obwohl die RK-NR einen diesbezüglichen Rückkommensantrag an die RK-SR gestellt hatte.<footnotecall number="51" fnid="fn52" /></p>
+					<p align="justify">Im neuen Aktienrecht, das zum grossen Teil voraussichtlich im Jahr 2023 in Kraft treten wird,<footnotecall number="52" fnid="fn53" /> finden sich deshalb bis auf die versehentlich nicht angepasste Norm von Art. 652f Abs. 2 nOR keine Bestimmungen mehr zur Sachübernahme. Die Sachübernahmevorschriften des gegenwärtigen Aktienrechts in <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a628"><?link  id="762795e0-9a2e-4f88-ac66-e54c611078d0" type="law" art="628" law="OR"?>Art. 628<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a629"><?link  id="dc9108f0-a4d7-4485-8700-67c49e9261cd" type="law" art="629" law="OR"?>Art. 629<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a631"><?link  id="4e28b19a-d263-4dc5-9aa1-cc3a1bd93b81" type="law" art="631" law="OR"?>Art. 631<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a635"><?link  id="0fcb65ae-4caf-4433-8dc5-33bd40320ac3" type="law" art="635" law="OR"?>Art. 635<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a642"><?link  id="5fcaeb3e-3f24-4833-9d60-419b7fbf1111" type="law" art="642" law="OR"?>Art. 642<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a650"><?link  id="9135c33d-0a66-4d07-b36d-db4d9d349cf7" type="law" art="650" law="OR"?>Art. 650<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a651"><?link  id="bf638fb9-5570-4827-a076-870b09e83015" type="law" art="651" law="OR"?>Art. 651<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a652e"><?link  id="f4cbde39-e655-4ee3-9572-6e3fe82551c1" type="law" art="652e" law="OR"?>Art. 652e<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a652f"><?link  id="3ff981cc-ef93-45f9-b6c3-1165d3e5c69a" type="law" art="652f" law="OR"?>Art. 652f<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a652g"><?link  id="4c7add92-d223-431a-a79a-51195d7744c7" type="law" art="652g" law="OR"?>Art. 652g<?end_link ?></a>, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a704"><?link  id="e3ed023d-9c5c-47dc-af37-4e5882489290" type="law" art="704" law="OR"?>Art. 704<?end_link ?></a> und <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a753"><?link  id="4b340443-0f44-447e-86e6-b7c14956baa4" type="law" art="753" law="OR"?>Art. 753 OR<?end_link ?></a> und damit die Statuten- und Registerpublizität und die anderen Schutzvorschriften (insbesondere Gründungs- bzw. Kapitalerhöhungsbericht und Prüfungsbericht bei Sachübernahmen) werden also abgeschafft.<footnotecall number="53" fnid="fn54" /></p>
+					<p align="justify">Wie erwähnt wurde Art. 652f Abs. 2 nOR nicht angepasst und unverändert stehen gelassen.<footnotecall number="54" fnid="fn55" /> Das ist ein klares Versehen, welches bereits im Entwurf 2016 enthalten war. Korrigiert würde die Bestimmung wie folgt lauten:</p>
+					<p align="justify">«Keine Prüfungsbestätigung ist erforderlich, wenn die Einlage auf das neue Aktienkapital in Geld erfolgt<span>, das Aktienkapital nicht zur Vornahme einer Sachübernahme erhöht wird</span> und die Bezugsrechte nicht eingeschränkt oder aufgehoben werden.»</p>
+					<p align="justify">Das Versehen hätte vermieden werden können, wenn man bei Gesetzgebungsprojekten, welche eine Änderung bestehender Gesetze betreffen, digitaler vorgehen würde und die vorgeschlagenen Gesetzesänderungen im Kontext des bestehenden Gesetzes statt wie bisher ohne Kontext als Lückentext zeigen würde. Das könnte durch Vergleichsversionen erreicht werden, die sich mittels handelsüblicher Textverarbeitungsprogramme erstellen lassen.</p>
+					<title level="1" type="text"><number>III.</number>Die Beibehaltung der Sacheinlage­vorschriften im neuen Aktienrecht</title>
+					<p align="justify">Während die Sachübernahmevorschriften abgeschafft werden, werden die Sacheinlagevorschriften im neuen Aktienrecht im Grundsatz unverändert beibehalten. Sie sind neu in Art. 629, Art. 631, Art. 634, Art. 634b, Art. 635, Art. 650, Art. 652e, Art. 652g, Art. 704 und Art. 753 nOR zu finden.</p>
+					<p align="justify">Es bleibt damit bezüglich Sacheinlagen bei der Statutenpublizität<footnotecall number="55" fnid="fn56" /> und bei der Handelsregisterpublizität, wobei Letztere inskünftig nicht mehr über das OR, sondern über die HRegV<footnotecall number="56" fnid="fn57" /> sichergestellt wird.<footnotecall number="57" fnid="fn58" /> Die HRegV soll im Übrigen auf das Inkrafttreten des neuen Aktienrechts hin revidiert werden, um die vom neuen Aktienrecht geforderten Neuerungen, wie z.B. die Abschaffung der Sachübernahmevorschriften, zu reflektieren.<footnotecall number="58" fnid="fn59" /></p>
+					<p align="justify">Weil bei Sacheinlagen die <i>«weitere Gegenleistung»</i> in den Statuten anzugeben ist,<footnotecall number="59" fnid="fn60" /> überlebt die bisherige gemischte Sacheinlage/Sachübernahme und damit bis zu einem gewissen Grad auch die Sachübernahme, obwohl sie nicht mehr so genannt wird.<footnotecall number="60" fnid="fn61" /></p>
+					<p><anchor type="page" value="176" /></p>
+					<title level="1" type="text"><number>IV.</number>Aufnahme der Abschaffung der Sachübernahmevorschriften in der Lehre</title>
+					<p align="justify">In der Vernehmlassung zum Vorentwurf 2014 wurde der Abschaffung der Sachübernahmevorschriften trotz gewisser kritischer Gegenstimmen mehrheitlich zugestimmt.<footnotecall number="61" fnid="fn62" /></p>
+					<p align="justify">Trotzdem wurde die Abschaffung der Sachübernahmevorschriften in der Literatur bis dato zum Teil kritisch beurteilt.<footnotecall number="62" fnid="fn63" /> Insbesondere wird das Hauptargument des Bundesrats, die Abschaffung schaffe Rechtssicherheit,<footnotecall number="63" fnid="fn64" /> kritisiert. Vielmehr schaffe die Abschaffung <i>«neue Rechtsunsicherheit».</i><footnotecall number="64" fnid="fn65" /></p>
+					<title level="1" type="text"><number>V.</number>Fragestellung</title>
+					<p align="justify">Das Element der Rechtssicherheit in Bezug auf Sachübernahmen und insbesondere beabsichtigte Sachübernahmen aufgreifend stellt sich die Frage, ob die an sich abgeschafften Sachübernahmevorschriften aufgrund allgemeiner Normen in irgendeiner Form unter der Herrschaft des neuen Rechts weitergelten. Zur Beantwortung dieser Frage sind einige Bausteine aus dem Baukasten des allgemeinen Teils des ZGB<footnotecall number="65" fnid="fn66" /> und des OR herauszuholen und anschliessend im Sinne einer Antwort auf die gestellten Fragen zu einer sinnhaften Baute zusammenzufügen.</p>
+					<title level="1" type="text"><number>VI.</number>Bausteine</title>
+					<title level="2" type="text"><number>A.</number>Baustein 1: Auslegung und Lückenfüllung von Gesetzen</title>
+					<p align="justify">Ziel jeder Gesetzesauslegung gemäss <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a1"><?link  id="ba5fbe72-414a-4383-a497-830c2e0e08b1" type="law" art="1" par="1" law="ZGB"?>Art. 1 Abs. 1 ZGB<?end_link ?></a> ist, den Sinn einer Norm zu ermitteln.<footnotecall number="66" fnid="fn67" /> Von grosser Bedeutung sind dabei die sprachlich-grammatikalische Auslegung,<footnotecall number="67" fnid="fn68" /> die historische Auslegung<footnotecall number="68" fnid="fn69" /> und die teleologische Auslegung, welche nach dem Zweck <i>(telos, ratio)</i> hinter den Bestimmungen <i>(ratio legis)</i> fragt.<footnotecall number="69" fnid="fn70" /> Bei jungen Gesetzen ist die subjektiv historische Auslegung wichtig, aber nicht alleinentscheidend.<footnotecall number="70" fnid="fn71" /> Überhaupt ist keine Auslegungsmethode alleinentscheidend, was es dem Bundesgericht ermöglicht, bei der Gesetzesauslegung einem pragmatischen Methodenpluralismus zu folgen.<footnotecall number="71" fnid="fn72" /></p>
+					<p align="justify">Ergibt die Auslegung gemäss <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a1"><?link  id="797f0f91-77b4-4654-abd4-cfc0bf0b159e" type="law" art="1" par="1" law="ZGB"?>Art. 1 Abs. 1 ZGB<?end_link ?></a> kein Resultat, besteht also eine Gesetzeslücke, ist diese gemäss <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a1"><?link  id="2fb7842e-f9f2-4d27-93b9-4256247dda97" type="law" art="1" par="2" law="ZGB"?>Art. 1 Abs. 2 ZGB<?end_link ?></a> <i>modo legislatoris</i> zu füllen.<footnotecall number="72" fnid="fn73" /> Eine Methode der Lückenfüllung ist die auf den Zweck der lückenhaften Bestimmung ausgerichtete teleologische Lückenfüllung, v.a. durch teleologische Extension und durch Analogieschluss, wenn man denn zwischen teleo-<anchor type="page" value="177" />logischer Extension und Analogie unterscheiden will,<footnotecall number="73" fnid="fn74" /> oder durch die teleologische Reduktion.<footnotecall number="74" fnid="fn75" /></p>
+					<p align="justify">Auslegung und Lückenfüllung und damit <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a1"><?link  id="71ea6cb6-f7eb-4375-95b8-3831553b333c" type="law" art="1" par="1" law="ZGB"?>Art. 1 Abs. 1 ZGB<?end_link ?></a> und <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a1"><?link  id="60df701f-6298-4a50-a836-f9e1b37c8f3c" type="law" art="1" par="2" law="ZGB"?>Art. 1 Abs. 2 ZGB<?end_link ?></a> lassen sich theoretisch voneinander abgrenzen, gehen aber in Tat und Wahrheit ineinander über.<footnotecall number="75" fnid="fn76" /> Ebenso ist die Entscheidfindung durch den Richter gemäss <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a1"><?link  id="ba68ea67-7987-482c-a1ad-c123abfb2c54" type="law" art="1" par="2" law="ZGB"?>Art. 1 Abs. 2 ZGB<?end_link ?></a> <i>modo legislatoris</i> zwar theoretisch eine andere als die Entscheidfindung nach <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a4"><?link  id="40c43ce0-cf68-4700-8b67-8a402e29ac6b" type="law" art="4" law="ZGB"?>Art. 4 ZGB<?end_link ?></a> nach Recht und Billigkeit. In Tat und Wahrheit gehen aber auch diese Entscheidfindungen ineinander über.<footnotecall number="76" fnid="fn77" /></p>
+					<title level="2" type="text"><number>B.</number>Baustein 2: Gesetzesumgehung</title>
+					<p align="justify">Die herrschende Lehre löst das Problem der Gesetzesumgehung <i>(fraus legis)</i> durch die teleologische Auslegung und teleologische Lückenfüllung, v.a. mittels eines Analogieschlusses.<footnotecall number="77" fnid="fn78" /> Diese Auffassung folgt der sog. Innentheorie, wonach Gesetzesumgehungen nicht eigene Tatbestände sind, die korrigierend von aussen an die umgangene Norm herangetragen werden, sondern um von der umgangenen Norm selbst erfasste Tatbestände, die gewissermassen aus der Norm selbst, d.h. von innen heraus gelöst werden, um <i>«deren Sinngehalt entsprechend auszudehnen».</i><footnotecall number="78" fnid="fn79" /> Nach <i>Reich</i> ist diese innentheoretische Begründung der Gesetzesumgehung nicht in jedem Fall befriedigend. Diese dürfe nicht dazu führen, dass die <i>«Auslegung [und die Lückenfüllung] zum Spiel ohne Grenzen ausarte».</i><footnotecall number="79" fnid="fn80" /> Entsprechend seien klare Sinnschranken einer Norm zu respektieren und Gesetzesumgehungen u.U. über eine Aussensicht und insbesondere das Rechtsmissbrauchsverbot in <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a2"><?link  id="e1966078-d0c6-4057-97f9-577495543027" type="law" art="2" par="2" law="ZGB"?>Art. 2 Abs. 2 ZGB<?end_link ?></a> zu korrigieren,<footnotecall number="80" fnid="fn81" /> auch aus Gründen der Plausibilität und der Akzeptanz.<footnotecall number="81" fnid="fn82" /> Dieser Ansicht ist zuzustimmen, weshalb bei Gesetzesumgehungen auch <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a2"><?link  id="3b3d8254-4a8b-416d-bf51-961a7ddbf2be" type="law" art="2" par="2" law="ZGB"?>Art. 2 Abs. 2 ZGB<?end_link ?></a> zu berücksichtigen ist.<footnotecall number="82" fnid="fn83" /> <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a2"><?link  id="eb836c8d-1ec0-4d6f-9cbb-2edebdb56ca0" type="law" art="2" par="2" law="ZGB"?>Art. 2 Abs. 2 ZGB<?end_link ?></a> kann auch die Funktion des Durchgangs zu einer telelogischen Extension eröffnen.<footnotecall number="83" fnid="fn84" /> Auch das Bundesgericht greift zur Begründung einer Gesetzesumgehung immer wieder auf <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a2"><?link  id="9cf892be-7bf8-4a07-bc00-ff8aa08c3d5a" type="law" art="2" par="2" law="ZGB"?>Art. 2 Abs. 2 ZGB<?end_link ?></a> zurück.<footnotecall number="84" fnid="fn85" /></p>
+					<p align="justify">Unabhängig davon, ob man der Innen- oder Aussentheorie bzw. einer Kombination davon folgt, ist bei der Annahme einer Gesetzesumgehung eine Umgehungsabsicht bzw. überhaupt ein Verschulden der Parteien nicht erforderlich.<footnotecall number="85" fnid="fn86" /></p>
+					<p align="justify">So oder so stehen sich Innen- und Aussentheorie nicht unversöhnlich gegenüber,<footnotecall number="86" fnid="fn87" /> weshalb die praktische Bedeutung der verschiedenen Herleitungen der Gesetzesumgehung gering ist.<footnotecall number="87" fnid="fn88" /> Allerdings helfen i.d.R. verschiedene Blickwinkel. Insbesondere hilft die Aussensicht und der Blick auf <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a2"><?link  id="1dc2fcce-9b75-4055-b24e-bab1e51d8e82" type="law" art="2" par="2" law="ZGB"?>Art. 2 Abs. 2 ZGB<?end_link ?></a> beim Verständnis, dass eine Gesetzesumgehung nicht leichtfertig, sondern nur in offenbaren Fällen anzunehmen ist.<footnotecall number="88" fnid="fn89" /> Die Gesetzesumgehung darf zudem wie <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a2"><?link  id="1b7f32ea-c3ab-44d2-82c9-c95b3501e215" type="law" art="2" par="2" law="ZGB"?>Art. 2 Abs. 2 ZGB<?end_link ?></a> nicht dazu missbraucht werden, <i>«neben das kodifizierte Recht eine</i> <anchor type="page" value="178" /><i>zweite, rechtsethisch ansprechendere Ordnung zu stellen».</i><footnotecall number="89" fnid="fn90" /> Entsprechend ist unter dem Titel der Gesetzesumgehung grundsätzlich nur eine individuelle und nicht eine generelle Normkorrektur vorzunehmen,<footnotecall number="90" fnid="fn91" /> was allerdings nichts daran ändert, dass der Richter auch bei der Gesetzesumgehung soweit als möglich <i>modo legislatoris</i> i.S.v. <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a1"><?highlight_link  id="0cdce8f2-5e98-469b-af2c-00dc7f2935b9" type="law" art="1" par="2" law="ZGB"?>Art. 1 Abs. 2<?end_highlight_link ?></a> i.V.m. <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a4"><?link  id="aae970da-9923-43c8-8066-b53020114526" type="law" art="4" law="ZGB"?>Art. 4 ZGB<?end_link ?></a><footnotecall number="91" fnid="fn92" /> vorzugehen hat.<footnotecall number="92" fnid="fn93" /></p>
+					<title level="2" type="text"><number>C.</number>Baustein 3: Simulation</title>
+					<p align="justify">Eine Simulation i.S.v. <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a18"><?link  id="6f3d7de8-0007-41ac-b0da-290999854225" type="law" art="18" par="1" law="OR"?>Art. 18 Abs. 1 OR<?end_link ?></a> liegt vor, wenn die Parteien einverständlich einen Vertrag vortäuschen, ohne an diesen gebunden sein zu wollen.<footnotecall number="93" fnid="fn94" /> Es liegt ein Scheingeschäft (bzw. ein künstliches, fiktives, fingiertes Geschäft) vor.<footnotecall number="94" fnid="fn95" /> Wie <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a18"><?link  id="f1692eab-5ea1-46b7-9966-1e143f229403" type="law" art="18" par="1" law="OR"?>Art. 18 Abs. 1 OR<?end_link ?></a> deutlich macht, gehört zum Scheingeschäft zwingend die <i>«Absicht […] [der Parteien], die wahre Beschaffenheit des Vertrags zu verbergen»,</i> also die Täuschungsabsicht der Parteien.<footnotecall number="95" fnid="fn96" /> Weil die Täuschung unmittelbarer Zweck des Scheingeschäfts ist,<footnotecall number="96" fnid="fn97" /> ist unter Täuschungsabsicht der direkte Vorsatz zur Täuschung zu verstehen, nachdem der direkte Vorsatz oft auch Absicht genannt wird.<footnotecall number="97" fnid="fn98" /> Die Eventualabsicht (bzw. der Eventualvorsatz) genügt,<footnotecall number="98" fnid="fn99" /> nicht aber die Grobfahrlässigkeit.<footnotecall number="99" fnid="fn100" /> Oft, aber nicht notwendigerweise gesellt sich zum vorgetäuschten (simulierten) Vertrag ein dahinter versteckter (dissimulierter), von den Parteien wirklich gewollter Vertrag.<footnotecall number="100" fnid="fn101" /></p>
+					<p align="justify">Entsprechend den Regeln über das Zustandekommen von Verträgen ist der simulierte Vertrag mangels Geschäfts- und Geltungswillen grundsätzlich unwirksam, d.h. ein Nichtgeschäft, während der (allenfalls vorhandene) dissimulierte Vertrag eventuell gültig ist.<footnotecall number="101" fnid="fn102" /> Letzteres ist unter Beachtung sämtlicher anwendbaren Vorschriften zu entscheiden, was dazu führen kann, dass der dissimulierte Vertrag z.B. infolge von nicht eingehaltenen Formvorschriften (gänzlich oder teilweise) formungültig ist.<footnotecall number="102" fnid="fn103" /></p>
+					<p align="justify">Die Simulation kann die Form einer Voll- oder Teilsimulation annehmen, wodurch je nachdem eine gänzliche oder teilweise Unwirksamkeit vorliegt.<footnotecall number="103" fnid="fn104" /></p>
+					<p align="justify">Die Simulation ist von der Gesetzesumgehung abzugrenzen.<footnotecall number="104" fnid="fn105" /> Im Gegensatz zum Scheingeschäft wollen die Parteien eines Umgehungsgeschäfts ihren Zweck nicht per se durch die Vortäuschung eines Vertrags erreichen.<footnotecall number="105" fnid="fn106" /> Allerdings kann im Einzelfall die Gesetzesumgehung hinter einem simulierten Geschäft versteckt werden, in welchem Fall gewisse Autoren von einem unechten Umgehungsgeschäft sprechen.<footnotecall number="106" fnid="fn107" /> Insbesondere unterscheiden sich die Simulation und die Gesetzesumgehung bezüglich der dahinterstehenden Absicht der Parteien. Bei der Simulation ist zwingend eine Täuschungsabsicht der Parteien Voraussetzung, während bei der Gesetzesumgehung eine Umgehungsabsicht nicht erforderlich ist.<footnotecall number="107" fnid="fn108" /></p>
+					<p><anchor type="page" value="179" /></p>
+					<title level="2" type="text"><number>D.</number>Baustein 4: Sachübernahmevorschriften als spezifische positivrechtliche Umgehungs­vorschriften</title>
+					<p align="justify">Die gegenwärtigen, im neuen Aktienrecht abgeschafften Sachübernahmevorschriften haben den Charakter von spezifischen positivrechtlichen Vorschriften zur Verhinderung der Umgehung der Sacheinlagevorschriften,<footnotecall number="108" fnid="fn109" /> was gewisse Sachkäufe nach, jedoch nicht vor der Barliberierung betrifft. Entsprechend müssen die Sachübernahmevorschriften als Umgehungsvorschriften mit entsprechendem Wirkungsradius verstanden werden. Als generelle Kapitalschutzvorschriften taugen die Sachübernahmevorschriften wenig.<footnotecall number="109" fnid="fn110" /> Sie dürfen teleologisch deshalb nicht im Sinne einer ausufernden wirtschaftlichen Betrachtungsweise<footnotecall number="110" fnid="fn111" /> in Richtung eines umfassenden Kapitalschutzes überdehnt werden,<footnotecall number="111" fnid="fn112" /> auch nicht unter Rückgriff auf die allgemeinen Umgehungsvorschriften.<footnotecall number="112" fnid="fn113" /> So greifen sie trotz anderslautender Meinungen z.B. nur bei vorangehender Barliberierung,<footnotecall number="113" fnid="fn114" /> bei Gegenständen, die sacheinlagefähig sind,<footnotecall number="114" fnid="fn115" /> und bei Sachübernahmen gegen Barzahlung.<footnotecall number="115" fnid="fn116" /> Entsprechend sind sie in Bezug auf einen umfassenden Kapitalschutz nur beschränkt logisch bzw. wirken sie in Bezug auf einen umfassenden Kapitalschutz lediglich selektiv.<footnotecall number="116" fnid="fn117" /> Gleiches gilt für eine Würdigung unter dem Gesichtswinkel der wirtschaftlichen Betrachtungsweise.</p>
+					<p align="justify">Als spezifische positivrechtliche Sacheinlageumgehungsvorschriften kodifizieren die Sachübernahmevorschriften die allgemeinen Vorschriften zur Gesetzesumgehung und verdrängen diese,<footnotecall number="117" fnid="fn118" /> was gewisse Sachkäufe nicht nur nach, sondern auch vor der Barliberierung anbetrifft. Als positivrechtliche Umgehungsvorschriften sind die Sachübernahmevorschriften ein Beispiel für die sog. Durchgangsfunktion allgemeiner Rechtsgrundsätze.<footnotecall number="118" fnid="fn119" /></p>
+					<p align="justify">Entsprechend dem allgemeinen Grundsatz, dass die Simulation von der Gesetzesumgehung zu trennen ist,<footnotecall number="119" fnid="fn120" /> handelt es sich bei der Sachübernahme nicht per se um eine dissimulierte Sacheinlage. Denn die Sachübernahme und die vorangehende Barliberierung sind durchaus gewollt, während es die Sacheinlage nicht ist.<footnotecall number="120" fnid="fn121" /></p>
+					<p align="justify">Der oft im Zusammenhang mit Sachübernahmen verwendete Begriff der «verdeckten Sacheinlage» ist deshalb missverständlich, weil er eher auf Simulation als auf Umgehung hinweist, zumal nur bei der Simulation eine Täuschungs-(Verdeckungs-)absicht notwendig ist,<footnotecall number="121" fnid="fn122" /> während es bei der Umgehung keine Umgehungsabsicht braucht.<footnotecall number="122" fnid="fn123" /></p>
+					<p align="justify">Überhaupt ist die infolge fehlender Sachübernahmevorschriften im deutschen Recht entwickelte Rechtsfigur der «verdeckten Sacheinlage»<footnotecall number="123" fnid="fn124" /> im schweizerischen Recht entbehrlich.</p>
+					<p><anchor type="page" value="180" /></p>
+					<title level="2" type="text"><number>E.</number>Baustein 5: Scheinliberierung</title>
+					<p align="justify">Bei der Scheinliberierung wird die Liberierung, sei es eine Barliberierung, eine Verrechnungsliberierung oder eine Sacheinlageliberierung, und damit die Kapitalaufbringung gänzlich oder teilweise vorgetäuscht, während in Tat und Wahrheit das Kapital nicht oder nicht zur Gänze fliesst oder vor oder nach Eintragung der Kapitalaufbringung im Handelsregister entsprechend der (Täuschungs-)Absicht der Parteien<footnotecall number="124" fnid="fn125" /> bereits gänzlich oder teilweise an den Zeichner geflossen ist bzw. noch fliessen soll.<footnotecall number="125" fnid="fn126" /> Es liegt in diesen Fällen eine absichtliche Verletzung des Deckungsprinzips vor,<footnotecall number="126" fnid="fn127" /> weil das Kapital der Gesellschaft wirtschaftlich betrachtet nicht oder nicht zur Gänze zur Verfügung steht.<footnotecall number="127" fnid="fn128" /> Man spricht alsdann von einem Gründungs- bzw. Emissionsschwindel<footnotecall number="128" fnid="fn129" /> mit u.U. zivil- und strafrechtlichen Verantwortlichkeiten der handelnden Personen.<footnotecall number="129" fnid="fn130" /></p>
+					<p align="justify">Die Scheinliberierung ist damit ein voll- oder teilsimuliertes (Schein-)Geschäft.<footnotecall number="130" fnid="fn131" /> Als solches ist es gänzlich oder teilweise unwirksam.<footnotecall number="131" fnid="fn132" /></p>
+					<p align="justify">Da das (Schein-)Geschäft in vielen Fällen mit einer offenen oder verdeckten Gewinnausschüttung vor oder nach der Gründung oder Kapitalerhöhung verbunden ist, verstösst das (Schein-)Geschäft in vielen Fällen gegen <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a678"><?link  id="d730e28d-7700-4cc8-8d72-7e383dc74430" type="law" art="678" law="OR"?>Art. 678 OR<?end_link ?></a> und ist demzufolge gänzlich oder teilweise nichtig,<footnotecall number="132" fnid="fn133" /> wenn denn überhaupt ein (gänzliches oder teilweises) Nichtgeschäft wie das Scheingeschäft<footnotecall number="133" fnid="fn134" /> nichtig sein kann. Allerdings ist nicht mit jedem Scheingeschäft eine offene oder verdeckte Gewinnausschüttung nach <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a678"><?link  id="ae02c3a0-2bc2-4e93-9c0d-01b3f9d6d0a6" type="law" art="678" law="OR"?>Art. 678 OR<?end_link ?></a> verbunden, z.B. dann nicht, wenn von Anfang an überhaupt keine oder nur eine ungenügende Kapitalaufbringung vorliegt<footnotecall number="134" fnid="fn135" /> oder wenn kein offensichtliches Missverhältnis i.S.v. <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a678"><?link  id="b959d365-4148-46c9-b557-3bcfc3a45842" type="law" art="678" par="2" law="OR"?>Art. 678 Abs. 2 OR<?end_link ?></a>/nOR gegeben ist.</p>
+					<p align="justify">In Abweichung von den allgemeinen Folgen der Simulation, nämlich dem Vorliegen eines Nichtgeschäfts, führt die Scheinliberierung aufgrund von <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a643"><?link  id="1fcbd85c-70f9-4218-8787-92f6cb9628e5" type="law" art="643" par="2" law="OR"?>Art. 643 Abs. 2 OR<?end_link ?></a> nicht zu einer «Nicht-AG» bzw. nicht zu einer «AG mit nicht erhöhtem Kapital».<footnotecall number="135" fnid="fn136" /> Die entsprechende Gründung oder Kapitalerhöhung ist vielmehr aufgrund von <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a643"><?link  id="16e79e4a-eeea-4b03-888e-fe3a0ff2ab67" type="law" art="643" par="2" law="OR"?>Art. 643 Abs. 2 OR<?end_link ?></a> gültig.<footnotecall number="136" fnid="fn137" /></p>
+					<p align="justify">Dieser aus Gründen der Verkehrssicherheit in <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a643"><?link  id="3b3427ac-1626-4c10-ad83-147abbc13067" type="law" art="643" par="2" law="OR"?>Art. 643 Abs. 2 OR<?end_link ?></a> angeordnete Bestandesschutz heilt allerdings die Mängel der Scheinliberierung nicht.<footnotecall number="137" fnid="fn138" /> Vielmehr bestehen diese Mängel fort und müssen nachträglich korrigiert werden.<footnotecall number="138" fnid="fn139" /></p>
+					<p align="justify">Das bedeutet bei einer Scheinliberierung, dass die aufgrund des Bestandesschutzes gemäss <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a643"><?link  id="b4688fe9-6c29-4599-be98-e2fb12c5d82a" type="law" art="643" par="2" law="OR"?>Art. 643 Abs. 2 OR<?end_link ?></a> entstandene Liberierungspflicht erfüllt werden muss, soweit sie nicht oder nicht gänzlich erfüllt wurde.<footnotecall number="139" fnid="fn140" /></p>
+					<p align="justify">Die Liberierungspflicht kann nachträglich in bar oder, bei Einigung mit der Gesellschaft, durch Verrechnung oder durch Sacheinlage unter Einhaltung der entsprechenden Vorschriften erfüllt werden. Bei Nichteinigung <anchor type="page" value="181" />mit der Gesellschaft ist von einer Barliberierungspflicht auszugehen.<footnotecall number="140" fnid="fn141" /> Wird die Liberierungspflicht nicht erfüllt, greifen <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a681"><?link  id="97737444-6d2c-41bf-9299-6ca2408a24f7" type="law" art="681" law="OR"?>Art. 681 f. OR<?end_link ?></a>, d.h. die Vorschriften über die Kaduzierung.<footnotecall number="141" fnid="fn142" /></p>
+					<p align="justify">Grundsätzlich gibt es wie angetönt zwei Kategorien von Scheinliberierungen. Im Hauptfall wird der zweite Teil des Scheingeschäfts nach der (Schein-)Liberierung abgewickelt. Meist liegt eine Barliberierung mit anschliessender Barrückzahlung vor, wobei Letztere offen<footnotecall number="142" fnid="fn143" /> oder verdeckt erfolgen kann, z.B. in der Form der Auszahlung eines (mindestens teilweise) fiktiven Darlehens oder der Übernahme eines (mindestens teilweise) fiktiven Aktivums. In anderen Fällen wird ein Teil des Scheingeschäfts bereits vor der (Schein-)Liberierung durchgeführt. Ein Beispiel dafür ist die vorgängige Schaffung einer (mindestens teilweisen) fiktiven Schuld der Gesellschaft, z.B. durch Gewährung eines (mindestens teilweisen) fiktiven Darlehens<footnotecall number="143" fnid="fn144" /> oder Verkauf eines (mindestens teilweisen) fiktiven Aktivums, mit anschliessender Verrechnungsliberierung oder anschliessender Barliberierung und Tilgung der (mindestens teilweisen) fiktiven Schuld. In die zweite Kategorie fallen auch die absichtlich nicht werthaltigen Sacheinlagegründungen oder -kapitalerhöhungen.<footnotecall number="144" fnid="fn145" /></p>
+					<p align="justify">Die Scheinliberierung ist nicht per se eine Gesetzesumgehung.<footnotecall number="145" fnid="fn146" /></p>
+					<title level="1" type="text"><number>VII.</number>Zusammenfügen der Bausteine</title>
+					<title level="2" type="text"><number>A.</number>Teil 1: Anwendung der allgemeinen Umgehungsvorschriften trotz Abschaffung positivrechtlicher Umgehungsvorschriften in Form der Sach­übernahmevorschriften?</title>
+					<p align="justify">Ausser Zweifel steht, dass der Gesetzgeber mit dem neuen Aktienrecht die Sachübernahmevorschriften des bisherigen Aktienrechts abschaffen will.<footnotecall number="146" fnid="fn147" /> Die subjektiv historische Auslegung<footnotecall number="147" fnid="fn148" /> zeitigt in diesem Sinne ein eindeutiges Resultat. Auch wenn die subjektiv historische Auslegung wie die anderen Auslegungsmethoden bei jungen Gesetzen wie dem neuen Aktienrecht zwar wichtig, aber doch nicht alleinentscheidend ist,<footnotecall number="148" fnid="fn149" /> drängt es sich nicht auf, die abgeschafften positivrechtlichen Umgehungsvorschriften in der Form der Sachübernahmevorschriften über die Hintertür der allgemeinen Umgehungsvorschriften unter Rückgriff auf die schon bisher entbehrliche Rechtsfigur der «verdeckten Sacheinlage» oder anderswie (z.B. unter Hinweis auf die wirtschaftliche Betrachtungsweise, die «funktionale Äquivalenz» oder den Rechtsmissbrauch) wieder einzuführen bzw. weitergelten zu lassen, wie wenn es weiter positivrechtliche Umgehungsvorschriften gäbe.<footnotecall number="149" fnid="fn150" /> Das würde in Überdehnung der Sacheinlagevorschriften auf eine verpönte generelle Normkorrektur der Sacheinlagevorschriften unter dem Titel der Gesetzesumgehung hinauslaufen.<footnotecall number="150" fnid="fn151" /> Entsprechend sind die Sachübernahmevorschriften des gegenwärtigen Aktienrechts unter der Herrschaft des neuen Aktienrechts nicht mehr anwendbar.<footnotecall number="151" fnid="fn152" /></p>
+					<p align="justify">Aufgrund der in Art. 1 Abs. 2 UeB nOR verankerten intertemporalen Regel der grundsätzlich sofortigen Anwendung des neuen Aktienrechts<footnotecall number="152" fnid="fn153" /> betrifft die Nichtanwendung der Sachübernahmevorschriften des gegenwärtigen Aktienrechts alle Gründungen und Kapitalerhöhungen, die nach dem Inkrafttreten des neu-<anchor type="page" value="182" />en Aktienrechts vorgenommen werden. Massgebend ist aufgrund der konstitutiven Wirkung des Handelsregistereintrags für Gründungen und Kapitalerhöhungen<footnotecall number="153" fnid="fn154" /> der Zeitpunkt des Handelsregistereintrags, wobei trotz des etwas missverständlichen Wortlauts von <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a936a"><?link  id="8bc66055-5e80-4f41-a824-3658df6189eb" type="law" art="936a" law="OR"?>Art. 936a OR<?end_link ?></a> (in Kraft seit dem 1. Januar 2021) nach wie vor auf den Tagebucheintrag und nicht die elektronische Veröffentlichung im SHAB abzustellen ist.<footnotecall number="154" fnid="fn155" /> Diese sofortige Anwendbarkeit des neuen Aktienrechts erlaubt es, altrechtliche Sachübernahmeregelungen sofort nach dem Inkrafttreten des neuen Aktienrechts aus den Statuten zu streichen.<footnotecall number="155" fnid="fn156" /> Aufgrund von Art. 2 Abs. 1 UeB nOR müssen solche Regelungen sogar aus den Statuten entfernt werden, wofür eine Frist von zwei Jahren ab Inkrafttreten des neuen Aktienrechts besteht.</p>
+					<p align="justify">Sind die Sachübernahmevorschriften des bisherigen Rechts aufgrund der allgemeinen Umgehungsvorschriften nicht mehr anwendbar, besteht im Bereich der Sachübernahme (und auch generell) kein Anwendungs­bereich dieser allgemeinen Umgehungsvorschriften mehr.<footnotecall number="156" fnid="fn157" /> Das gilt bereits im gegenwärtigen Aktienrecht, wo neben der Anwendung der positivrechtlichen Umgehungsvorschriften in der Form der Sachübernahmevorschriften kein Raum für die Anwendung der allgemeinen Umgehungsvorschriften besteht.<footnotecall number="157" fnid="fn158" /></p>
+					<p align="justify">Es verhält sich nicht anders als bezüglich der Verrechnungsliberierung. Auch diesbezüglich gibt es keine positivrechtlichen Umgehungsvorschriften<footnotecall number="158" fnid="fn159" /> und ist es nicht angezeigt, solche in Anwendung der allgemeinen Umgehungsbestimmungen zu schaffen.<footnotecall number="159" fnid="fn160" /> Deshalb sind die positivrechtlichen Verrechnungsliberierungsbestimmungen z.B. nicht auf Sachverhalte anzuwenden, wo nach einer Barliberierung vorbestehende Schulden zurückbezahlt werden<footnotecall number="160" fnid="fn161" /> oder wo nach einer Barliberierung nachträglich geschaffene Schulden bezahlt werden. Solche Tatbestände sind auch keine Umgehungen der Sacheinlagebestimmungen,<footnotecall number="161" fnid="fn162" /> zumal der Bundesrat es ablehnte, seinen im Vorentwurf 2005 und im Entwurf 2007 enthaltenen Vorschlag, eine positivrechtliche Umgehungsvorschrift zur Bar- und Sacheinlageliberierung in Bezug auf die Verrechnungsliberierung zu schaffen, weiter zu verfolgen.<footnotecall number="162" fnid="fn163" /> Solche Tatbestände sind zudem nach dem gegenwärtigen Recht auch keine Umgehungen der Sachübernahmevorschriften.<footnotecall number="163" fnid="fn164" /> Dagegen sind solche Tatbestände bei absichtlicher Verletzung des Deckungsprinzips<footnotecall number="164" fnid="fn165" /> evtl. Scheinliberierungen.<footnotecall number="165" fnid="fn166" /></p>
+					<p align="justify">Entsprechend bietet die im neuen Aktienrecht in Art. 629 Abs. 2 Ziff. 4 und Art. 652g Abs. 1 Ziff. 4 nOR erforderliche Bestätigung im Gründungs- und Kapitalerhöhungsakt, es seien keine (anderen) Sacheinlagen vorgesehen,<footnotecall number="166" fnid="fn167" /> kein Problem.<footnotecall number="167" fnid="fn168" /></p>
+					<title level="2" type="text"><number>B.</number>Teil 2: Anwendung der Vorschriften über die Scheinliberierung</title>
+					<p align="justify">Von der Abschaffung der spezifisch gesetzlichen Umgehungsvorschriften<footnotecall number="168" fnid="fn169" /> und von der Nichtanwendung der allgemeinen Umgehungsvorschriften<footnotecall number="169" fnid="fn170" /> nicht betroffen <anchor type="page" value="183" />sind die Vorschriften zur Scheinliberierung.<footnotecall number="170" fnid="fn171" /> Diese gelten nach wie vor.<footnotecall number="171" fnid="fn172" /></p>
+					<p align="justify">Ein Anwendungsfall der Scheinliberierung ist die mit (Täuschungs-)Absicht vorgenommene Barliberierung mit anschliessendem Rückfluss des einbezahlten Geldes über eine gänzlich oder teilweise nicht werthaltige und damit überbewertete und damit überzahlte Sachübernahme.<footnotecall number="172" fnid="fn173" /> Dieses simulierte (Schein-)Geschäft basierend auf einem Zeichnungsvertrag<footnotecall number="173" fnid="fn174" /> und einem Sachübernahmevertrag<footnotecall number="174" fnid="fn175" /> ist (wegen der Simulation und nicht wegen der Nichteinhaltung der Sacheinlagevorschriften)<footnotecall number="175" fnid="fn176" /> gänzlich oder teilweise unwirksam.<footnotecall number="176" fnid="fn177" /> Die Folge davon ist, dass die Liberierungspflicht nicht untergegangen ist und durch die Zeichner nach wie vor zu erfüllen ist.<footnotecall number="177" fnid="fn178" /></p>
+					<p align="justify">Wollen die Zeichner sie unter Anrechnung der allenfalls teilweise werthaltigen Sachübernahme erfüllen, müssen nachträglich die Sacheinlagevorschriften eingehalten werden. Das beinhaltet u.a. eine Nachbesserung der Statuten,<footnotecall number="178" fnid="fn179" /> aber auch die sonstige Einhaltung der Sacheinlagevorschriften, wie der Abschluss eines schriftlichen oder sogar öffentlich beurkundeten Sacheinlagevertrags, das Erstellen eines Gründer- oder Kapitalerhöhungsberichts und eine Prüfung dieses Berichts.<footnotecall number="179" fnid="fn180" /></p>
+					<p align="justify">Ein Schlüsselelement der Scheinliberierung ist die zwingend notwendige Täuschungsabsicht.<footnotecall number="180" fnid="fn181" /> Eventualabsicht genügt.<footnotecall number="181" fnid="fn182" /> Wussten die Parteien im Zeitpunkt der Gründung um die spätere nicht werthaltige Sachübernahme und wollten sie dies, ist die Täuschungsabsicht gegeben. Wussten sie es nicht sicher, nahmen die Überbewertung aber in Kauf, liegt Eventualabsicht vor, wobei die Abgrenzung zur Grobfährlässigkeit wie immer schwierig ist.<footnotecall number="182" fnid="fn183" /> Wie gegenwärtig bei der Sachübernahmeabsicht ist die Täuschungsabsicht nicht leichtfertig anzunehmen und bei nicht werthaltigen Sachübernahmen nicht per se zu vermuten.<footnotecall number="183" fnid="fn184" /> Andernfalls kämen die Scheinliberierungsvorschriften ausufernd zur Geltung.</p>
+					<title level="1" type="text"><number>VIII.</number>Zusammenfassung und Schluss­folgerungen</title>
+					<p align="justify">Die Sachübernahmevorschriften des gegenwärtigen Aktienrechts sind unter der Herrschaft des neuen Aktienrechts nicht mehr anwendbar, auch nicht über den Umweg der allgemeinen Umgehungsvorschriften. Die allgemeinen Umgehungsvorschriften haben zudem unter dem neuen Aktienrecht keinen Anwendungsbereich mehr, weder in Bezug auf die Barliberierung noch in Bezug auf die Sacheinlage- und Verrechnungsliberierung.</p>
+					<p align="justify">Auch unter dem neuen Aktienrecht bleiben aber die Bestimmungen zur Scheinliberierung in Bezug auf die Bar-, Sacheinlage- und Verrechnungsliberierung anwendbar, worauf die Botschaft bei der Aufzählung der nach wie vor anwendbaren Schutzvorschriften allerdings nicht hinweist.<footnotecall number="184" fnid="fn185" /> Mit der Abschaffung der bisherigen Sachübernahmevorschriften werden die Vorschriften zur Scheinliberierung ins Scheinwerferlicht gerückt und bekommen ein neues Gewicht, gerade im Bereich der (nach einer Barliberierung durchgeführten) Sachübernahmen, weil hier die <i>Safe Habor Rule</i> der Einhaltung der Sachübernahmevorschriften wegfällt.<footnotecall number="185" fnid="fn186" /></p>
+					<p align="justify">Diese Scheinliberierungsvorschriften sind breit anwendbar, also nicht nur auf vertragliche bereits vereinbarte oder beabsichtigte Sachübernahmen von nahestehenden Personen, sondern auf Sachübernahmen überhaupt, also auch auf Sachübernahmen von Dritten, solange die Sachübernahmen (mit Willen und Wissen der Parteien) überbewertet sind. Sie sind zudem auch auf andere vertraglich bereits abgeschlossene oder beabsichtigte Geschäfte anwendbar, z.B. auf Mietverträge mit (absichtlich) zu hohen, von der Gesellschaft zu zahlenden Mietzinsen oder auf Beratungsverträge mit (absichtlich) zu hohen, von der Gesellschaft zu zahlenden <anchor type="page" value="184" />Stundensätzen, welche Geschäfte gegenwärtig nicht von den Sachübernahmevorschriften erfasst sind.<footnotecall number="186" fnid="fn187" /></p>
+					<p align="justify">Weil es die Scheinliberierungsvorschriften schon immer gab, schafft die Streichung der Sachübernahmevorschriften per se keine neuen Rechtsunsicherheiten. In der Praxis wird man sich im Zusammenhang mit Gründungen und Kapitalerhöhungen jedoch vertiefter und v.a. breiter als bisher mit dem Problem der Scheinliberierung zu beschäftigen haben, also nicht nur bei Sachübernahmen nach Barliberierungen.</p>
+					<p align="justify">Kritisch sind v.a. die Geschäfte, die mit einer Gründung oder Kapitalerhöhung im Zusammenhang stehen und mit Willen und Wissen der Parteien nicht <i>at arm’s length</i> sind,<footnotecall number="187" fnid="fn188" /> unabhängig davon, ob diese vor oder nach der Gründung oder Kapitalerhöhung stattfinden. Das betrifft wie gesagt auch, aber nicht nur nach der Gründung oder Kapitalerhöhung durchgeführte Sachübernahmen. Ist unklar, ob ein Geschäft <i>at arm’s length</i> ist, ist besonders genau auf einen einwandfreien Entscheidungsprozess und insbesondere einen korrekten Umgang mit möglichen Interessenkonflikten zu achten,<footnotecall number="188" fnid="fn189" /> wie das Bundesgericht dies auch für die Anwendung der <i>Business Judgement Rule (BJR)</i> verlangt.<footnotecall number="189" fnid="fn190" /> Das bedingt u.U. (aber keinesfalls notwendigerweise) das Einholen einer <i>Fairness Opinion,</i><footnotecall number="190" fnid="fn191" /> wie im Zusammenhang mit den abgeschafften Sachübernahmevorschriften etwas verkürzend für alle u.U. notwendigen Massnahmen immer wieder erwähnt wird.<footnotecall number="191" fnid="fn192" /> In Bezug auf Sachübernahmen kann u.U. auch auf eine eigentliche Sacheinlageliberierung ausgewichen werden, um Unsicherheiten zu vermeiden. Es sollte auch möglich sein, gestützt auf gegenwärtig <a href="https://www.fedlex.admin.ch/eli/cc/2007/686/de#a30"><?link  id="fc8d34e7-b240-459e-b1f5-10602fd30abc" type="law" art="30" law="HRegV"?>Art. 30 HRegV<?end_link ?></a> freiwillig die bisherigen Sachübernahmevorschriften einzuhalten,<footnotecall number="192" fnid="fn193" /> wie das im Vorentwurf 2005 und im Entwurf 2007 explizit noch vorgesehen war.<footnotecall number="193" fnid="fn194" /></p>
+					<p align="justify">Es liegt deshalb trotz der Abschaffung der Sachübernahmevorschriften mit der Beibehaltung der Sacheinlagevorschriften nicht ein eigentlicher Paradigmawechsel im Bereich der Kapitalaufbringung vor.<footnotecall number="194" fnid="fn195" /> Denn es gibt auch bei der Bar- und Verrechnungsliberierung keine positivrechtlichen Umgehungsvorschriften.<footnotecall number="195" fnid="fn196" /> Zudem wurden die Pläne zur Schaffung von Umgehungsvorschriften zur Bar- und Sacheinlageliberierung in Bezug auf die Verrechnungsliberierung fallengelassen.<footnotecall number="196" fnid="fn197" /></p>
+					<p align="justify">Die Abschaffung der Sachübernahmevorschriften ist deshalb insgesamt kein Fehlgriff, sondern zu begrüssen. Die sperrige Tanne der Sachübernahmevorschriften liess sich befriedigend nicht auf ein Bonsaiformat zurückstutzen<footnotecall number="197" fnid="fn198" /> und musste deshalb gefällt werden.<footnotecall number="198" fnid="fn199" /></p>
+					<p align="justify">Die Tanne und der Bonsai sind zudem nicht wieder zu pflanzen, indem man die formell abgeschafften Sachübernahmevorschriften unter Rückgriff auf allgemeine Bestimmungen wie die Umgehungsbestimmungen oder <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a2"><?link  id="4fd6cb60-37a0-4d8a-97ae-51436e408006" type="law" art="2" par="2" law="ZGB"?>Art. 2 Abs. 2 ZGB<?end_link ?></a> materiell trotzdem ganz oder teilweise weiter anwendet.</p>
+				</text>
+				<footnotes>
+					<fn number="*" id="fn1">
+						<p align="justify">Dr. iur. Markus Vischer, LL.M., Rechtsanwalt, ist Partner bei Walder Wyss AG in Zürich.</p>
+					</fn>
+					<fn number="1" id="fn2">
+						<p align="justify">Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht) (OR) vom 30. März 1911 (SR 220).</p>
+					</fn>
+					<fn number="2" id="fn3">
+						<p align="justify"><i>Hans Peter Walter/Maja Blumer,</i> Sieben Thesen und sieben Denkanstösse zur Sachübernahme, in: Robert Waldburger et. al. (Hrsg.), Wirtschaftsrecht zu Beginn des 21. Jahrhunderts, Festschrift für Peter Nobel zum 60. Geburtstag, Bern 2005, 405 ff., 408.</p>
+					</fn>
+					<fn number="3" id="fn4">
+						<p align="justify"><i>Walter/Blumer</i> (Fn. 2) 408.</p>
+					</fn>
+					<fn number="4" id="fn5">
+						<p align="justify">Bundesgesez über das Obligationenrecht vom 14. Brachmonat 1881 (zit. OR 1881), BBl 1881 III 239.</p>
+					</fn>
+					<fn number="5" id="fn6">
+						<p align="justify">Botschaft des Bundesrathes an die hohe Bundesversammlung zu einem Gesezentwurfe, enthaltend Schweizerisches Obligationen- und Handelsrecht vom 27. November 1879, BBl 1880 I 220 f.</p>
+					</fn>
+					<fn number="6" id="fn7">
+						<p align="justify">Bundesgesetz über die Revision der Titel XXIV bis XXXIII des Obligationenrechts vom 18. Dezember 1936 (zit. OR 1936), BBl 1936 III 619 ff.</p>
+					</fn>
+					<fn number="7" id="fn8">
+						<p align="justify">BBl 1936 III 765.</p>
+					</fn>
+					<fn number="8" id="fn9">
+						<p align="justify"><i>Peter Böckli,</i> Schweizer Aktienrecht, 4. A., Zürich/Basel/Genf 2009, § 1 Rn. 372.</p>
+					</fn>
+					<fn number="9" id="fn10">
+						<p align="justify">Änderung des Obligationenrechts (Die Aktiengesellschaft) vom 4. Oktober 1991 (zit. OR 1991), AS 1992 733 ff.</p>
+					</fn>
+					<fn number="10" id="fn11">
+						<p align="justify">AS 1992 786.</p>
+					</fn>
+					<fn number="11" id="fn12">
+						<p align="justify"><i>Böckli</i> (Fn. 8) § 1 Rn. 373.</p>
+					</fn>
+					<fn number="12" id="fn13">
+						<p align="justify"><i>Markus D. Vischer,</i> Sachübernahmen als verdeckte Sacheinlagen, SZW 2012 287 ff., 287; Botschaft über die Revision des Aktienrechts vom 23. Februar 1983, BBl 1983 II 745, 790.</p>
+					</fn>
+					<fn number="13" id="fn14">
+						<p align="justify"><i>Vischer</i> (Fn. 12) 294, m.H. auf BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F109-IB-95%3Ade&amp;lang=de&amp;type=show_document"><?link  id="9d75c68d-828b-41cb-9640-ee206b4493cd" type="decision" reference="109 IB 95" journal_reference="BGE"?>109 Ib 95<?end_link ?></a> E. 3 und BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F83-II-284%3Ade&amp;lang=de&amp;type=show_document"><?link  id="97f42f3e-6aff-4be4-a11e-5db756572300" type="decision" reference="83 II 284" journal_reference="BGE"?>83 II 284<?end_link ?></a> E. 2c.</p>
+					</fn>
+					<fn number="14" id="fn15">
+						<p align="justify">Änderung des Obligationenrechts (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht) (OR) vom 16. Dezember 2005 (zit. GmbH-Recht 2005), AS 2007 4791.</p>
+					</fn>
+					<fn number="15" id="fn16">
+						<p align="justify">GmbH-Recht 2005 (Fn. 14) 4839.</p>
+					</fn>
+					<fn number="16" id="fn17">
+						<p align="justify">Änderung des Obligationenrechts (Handelsregisterrecht) vom 17. März 2017 (zit. Handelsregisterrecht 2017), AS 2020 957 ff.</p>
+					</fn>
+					<fn number="17" id="fn18">
+						<p align="justify">Handelsregisterrecht 2017 (Fn. 16) 967.</p>
+					</fn>
+					<fn number="18" id="fn19">
+						<p align="justify">Dazu z.B. <i>Böckli</i> (Fn. 8) § 1 Rn. 385.</p>
+					</fn>
+					<fn number="19" id="fn20">
+						<p align="justify">Botschaft zur Änderung des Obligationenrechts (Aktienrecht) vom 23. November 2016 (zit. Botschaft 2016), BBl 2017 399, 488; Botschaft zur Änderung des Obligationenrechts (Handelsregisterrecht) vom 15. April 2015, BBl 2015 3617, 3618, 3653.</p>
+					</fn>
+					<fn number="20" id="fn21">
+						<p align="justify">Vorentwurf zur Revision des Aktien- und Rechnungslegungsrechts vom 2. Dezember 2005 (zit. Vorentwurf 2005), Link unter &lt;<a href="https://www.bj.admin.ch/bj/de/home/wirtschaft/gesetzgebung/archiv/aktienrechtsrevision.html">https://www.bj.admin.ch/bj/de/home/wirtschaft/gesetzgebung/archiv/aktienrechtsrevision.html</a>&gt; (zuletzt besucht am 13.12.2021).</p>
+					</fn>
+					<fn number="21" id="fn22">
+						<p align="justify">Begleitbericht zum Vorentwurf zur Revision des Aktien- und Rechnungslegungsrechts im Obligationenrecht vom 2. Dezember 2005 (zit. Begleitbericht Vorentwurf 2005), Link unter &lt;<a href="https://www.bj.admin.ch/bj/de/home/wirtschaft/gesetzgebung/archiv/aktienrechtsrevision.html">https://www.bj.admin.ch/bj/de/home/wirtschaft/gesetzgebung/archiv/aktienrechtsrevision.html</a>&gt; (zuletzt besucht am 13.12.2021) 40, 43, 121.</p>
+					</fn>
+					<fn number="22" id="fn23">
+						<p align="justify">Begleitbericht Vorentwurf 2005 (Fn. 21) 43 f.</p>
+					</fn>
+					<fn number="23" id="fn24">
+						<p align="justify">Begleitbericht Vorentwurf 2005 (Fn. 21) 44.</p>
+					</fn>
+					<fn number="24" id="fn25">
+						<p align="justify">Begleitbericht Vorentwurf 2005 (Fn. 21) 42.</p>
+					</fn>
+					<fn number="25" id="fn26">
+						<p align="justify">Begleitbericht Vorentwurf 2005 (Fn. 21) 42.</p>
+					</fn>
+					<fn number="26" id="fn27">
+						<p align="justify">Entwurf zur Änderung des Obligationenrechts (Aktienrecht und Rechnungslegungsrecht sowie Anpassungen im Recht der Kollektiv- und Kommanditgesellschaft, im GmbH-Recht, Genossenschafts-, Handelsregister- und Firmenrecht) vom 21. Dezember 2007 (zit. Entwurf 2007), BBl 2008 1751.</p>
+					</fn>
+					<fn number="27" id="fn28">
+						<p align="justify">Botschaft zur Änderung des Obligationenrechts (Aktienrecht und Rechnungslegungsrecht sowie Anpassungen im Recht der Kollektiv- und Kommanditgesellschaft, im GmbH-Recht, Genossenschafts-, Handelsregister- und Firmenrecht) vom 21. Dezember 2007 (zit. Botschaft 2007), BBl 2008 1639 f.</p>
+					</fn>
+					<fn number="28" id="fn29">
+						<p align="justify">Botschaft 2007 (Fn. 27) 1640.</p>
+					</fn>
+					<fn number="29" id="fn30">
+						<p align="justify">Botschaft 2007 (Fn. 27) 1640.</p>
+					</fn>
+					<fn number="30" id="fn31">
+						<p align="justify">Botschaft 2007 (Fn. 27) 1641.</p>
+					</fn>
+					<fn number="31" id="fn32">
+						<p align="justify">Vorentwurf zur Änderung des Obligationenrechts (Aktienrecht) vom 28. November 2014 (zit. Vorentwurf 2014), Link unter &lt;<a href="https://www.bj.admin.ch/bj/de/home/wirtschaft/gesetzgebung/aktienrechtsrevision14.html">https://www.bj.admin.ch/bj/de/home/wirtschaft/gesetzgebung/aktienrechtsrevision14.html</a>&gt; (zuletzt besucht am 13.12.2021).</p>
+					</fn>
+					<fn number="32" id="fn33">
+						<p align="justify"><i>Bundesamt für Justiz BJ,</i> Erläuternder Bericht zur Änderung des Obligationenrechts (Aktienrecht) vom 28. November 2014, Link unter &lt;<a href="https://www.bj.admin.ch/bj/de/home/wirtschaft/gesetzgebung/aktienrechtsrevision14.html">https://www.bj.admin.ch/bj/de/home/wirtschaft/gesetzgebung/aktienrechtsrevision14.html</a>&gt; (zuletzt besucht am 13.12.2021) 22 ff.</p>
+					</fn>
+					<fn number="33" id="fn34">
+						<p align="justify">Entwurf zur Änderung des Obligationenrechts (Aktienrecht) vom 23. November 2016 (zit. Entwurf 2016), BBl 2017 683.</p>
+					</fn>
+					<fn number="34" id="fn35">
+						<p align="justify">Botschaft 2016 (Fn. 19) 432 ff.</p>
+					</fn>
+					<fn number="35" id="fn36">
+						<p align="justify">Botschaft 2016 (Fn. 19) 432 f.</p>
+					</fn>
+					<fn number="36" id="fn37">
+						<p align="justify">Botschaft 2016 (Fn. 19) 432 f.</p>
+					</fn>
+					<fn number="37" id="fn38">
+						<p align="justify">Botschaft 2016 (Fn. 19) 433.</p>
+					</fn>
+					<fn number="38" id="fn39">
+						<p align="justify">Botschaft 2016 (Fn. 19) 433.</p>
+					</fn>
+					<fn number="39" id="fn40">
+						<p align="justify">Botschaft 2016 (Fn. 19) 433 f.</p>
+					</fn>
+					<fn number="40" id="fn41">
+						<p align="justify">Schweizerisches Strafgesetzbuch (StGB) vom 21. Dezember 1937 (SR 311.0).</p>
+					</fn>
+					<fn number="41" id="fn42">
+						<p align="justify">Botschaft 2016 (Fn. 19) 434.</p>
+					</fn>
+					<fn number="42" id="fn43">
+						<p align="justify"><i>Nationalrat,</i> Sommersession vom 14.6.2018, AB 2018 N 1110 mit dem Votum von <i>Nationalrätin Christa Markwalder</i> für die RK-NR.</p>
+					</fn>
+					<fn number="43" id="fn44">
+						<p align="justify"><i>Nationalrat,</i> Sommersession vom 14.6.2018, AB 2018 N 1119 mit dem von der RK-NR vorgeschlagenen <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a634bis"><?link  id="3a9f4602-a03d-414d-83f8-53ca2a5299bf" type="law" art="634bis" par="3" law="OR"?>Art. 634<sup>bis</sup> Abs. 3 OR<?end_link ?></a>: <i>«Keine Sachübernahme im Sinne des Gesetzes liegt vor, wenn die Übernahme mehr als ein Jahr nach der Gründung erfolgt oder die Gegenleistung der Gesellschaft weniger als 10 Prozent des Aktienkapitals zur Zeit der Gründung ausmacht. Entsprechendes gilt bei Sachübernahmen im Rahmen einer Erhöhung des Aktienkapitals.»</i></p>
+					</fn>
+					<fn number="44" id="fn45">
+						<p align="justify"><i>Nationalrat,</i> Sommersession vom 14.6.2018, AB 2018 N 1113.</p>
+					</fn>
+					<fn number="45" id="fn46">
+						<p align="justify"><i>Nationalrat,</i> Sommersession vom 14.6.2018, AB 2018 N 1133.</p>
+					</fn>
+					<fn number="46" id="fn47">
+						<p align="justify"><i>Nationalrat,</i> Sommersession vom 14.6.2018, AB 2018 N 1118 ff.</p>
+					</fn>
+					<fn number="47" id="fn48">
+						<p align="justify"><i>Nationalrat,</i> Sommersession vom 14.6.2018, AB 2018 N 1119 f.</p>
+					</fn>
+					<fn number="48" id="fn49">
+						<p align="justify">Änderung des Obligationenrechts (Aktienrecht) vom 19. Juni 2020 (zit. nOR), AS 2020 4005.</p>
+					</fn>
+					<fn number="49" id="fn50">
+						<p align="justify">S. dazu sogleich.</p>
+					</fn>
+					<fn number="50" id="fn51">
+						<p align="justify"><i>Nationalrat,</i> Wintersession vom 19.12.2019, AB 2019 N 2389.</p>
+					</fn>
+					<fn number="51" id="fn52">
+						<p align="justify"><i>Nationalrat,</i> Wintersession vom 19.12.2019, AB 2019 N 2389 mit den Voten der <i>Nationalräte Hans-Ueli Vogt</i> und <i>Christa Markwalder; RK-NR,</i> Medienmitteilung Weiterhin zahlreiche Differenzen beim Aktienrecht vom 30.8.2019, &lt;<a href="https://www.parlament.ch/press-releases/Pages/mm-rk-n-2019-08-30.aspx">https://www.parlament.ch/press-releases/Pages/mm-rk-n-2019-08-30.aspx</a>&gt; (zuletzt besucht am 13.12.2021); s.a. <i>Vanessa Oesch,</i> Ausgewählte Aspekte der Aktienrechtsrevision aus der Perspektive des Handelsregisters, Reprax 2019 161 ff., 176.</p>
+					</fn>
+					<fn number="52" id="fn53">
+						<p align="justify"><i>Karin Poggio,</i> Modernes und Flexibles Aktienrecht vom Parlament verabschiedet, Im Fokus stehen nun die Ausführungsbestimmungen und das Datum des Inkrafttretens, EF 2021 242 ff., 247; <i>Bundesamt für Justiz BJ,</i> Erläuternder Bericht zur Änderung der Handelsregisterverordnung vom 17. Februar 2021, Link unter &lt;<a href="https://www.bj.admin.ch/bj/de/home/aktuell/mm.msg-id-82350.html">https://www.bj.admin.ch/bj/de/home/aktuell/mm.msg-id-82350.html</a>&gt; (zuletzt besucht am 13.12.2021) 3.</p>
+					</fn>
+					<fn number="53" id="fn54">
+						<p align="justify">Botschaft 2016 (Fn. 19) 487, 489.</p>
+					</fn>
+					<fn number="54" id="fn55">
+						<p align="justify"><i>«Keine Prüfungsbestätigung ist erforderlich, wenn die Einlage auf das neue Aktienkapital in Geld erfolgt, das Aktienkapital nicht zur Vornahme einer Sachübernahme erhöht wird und die Bezugsrechte nicht eingeschränkt oder aufgehoben werden.»</i></p>
+					</fn>
+					<fn number="55" id="fn56">
+						<p align="justify">Art. 634 Abs. 4 und Art. 652g Abs. 1 Ziff. 4 nOR; s. im Übrigen auch Art. 634a Abs. 3 und Art. 652g Abs. 1 Ziff. 4 nOR, womit im neuen Aktienrecht die Statutenpublizität auch für die Verrechnungsliberierung eingeführt wird.</p>
+					</fn>
+					<fn number="56" id="fn57">
+						<p align="justify">Handelsregisterverordnung (HRegV) vom 17. Oktober 2007 (SR 221.411).</p>
+					</fn>
+					<fn number="57" id="fn58">
+						<p align="justify">Zum Konzeptwechsel, wonach neu die HRegV und nicht mehr das OR sich zu den im Handelsregister einzutragenden Tatsachen äussert, s. Botschaft 2016 (Fn. 19) 492.</p>
+					</fn>
+					<fn number="58" id="fn59">
+						<p align="justify"><i>Poggio</i> (Fn. 52) 246; <i>BJ</i> (Fn. 52) 3.</p>
+					</fn>
+					<fn number="59" id="fn60">
+						<p align="justify">Art. 634 Abs. 4 und Art. 650 Abs. 2 Ziff. 4 nOR.</p>
+					</fn>
+					<fn number="60" id="fn61">
+						<p align="justify">Botschaft 2016 (Fn. 19) 492; s.a. <i>Peter Böckli,</i> Eine Blütenlese der Neuerungen im Vorentwurf zur Aktienrechtsrevision, GesKR 2015 1 ff., 2 f.; s.a. BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=27.9.2019_2C_598/2018"><?link  id="30c99123-08d4-4437-ab94-53ed7ab03e88" type="decision" reference="2C_598/2018" court="BGer" date="27.9.2019" reference_number="2C_598/2018"?>2C_598/2018<?end_link ?></a> vom 27.9.2019 zur Rechtsnatur des gemischten Sacheinlage-/Sachübernahmevertrags.</p>
+					</fn>
+					<fn number="61" id="fn62">
+						<p align="justify">Botschaft 2016 (Fn. 19) 435; <i>Karin Poggio/Florian Zihler/Adrian Tagmann,</i> Bericht zur Vernehmlassung zum Vorentwurf vom 28. November 2014 zur Änderung des Obligationenrechts (Aktienrecht) vom 17. September 2015, Link unter &lt;<a href="https://www.bj.admin.ch/bj/de/home/wirtschaft/gesetzgebung/aktienrechtsrevision14.html">https://www.bj.admin.ch/bj/de/home/wirtschaft/gesetzgebung/aktienrechtsrevision14.html</a>&gt; (zuletzt besucht am 13.12.2021) 6, 9; s.a. <i>Peter Forstmoser/Marcel Küchler,</i> Schweizerisches Aktienrecht 2020, Mit neuem Recht der GmbH und der Genossenschaft und den weiteren Gesetzesänderungen, Bern 2021, Art. 628 OR N 5; <i>Jean Nicolas Druey/Eva Druey Just/Lukas Glanzmann,</i> Gesellschafts- und Handelsrecht, 12. A., Zürich/Basel/Genf 2021, § 9 Rn. 40.</p>
+					</fn>
+					<fn number="62" id="fn63">
+						<p align="justify">Z.B. <i>Hans Caspar von der Crone/Magda Aref,</i> Die Abschaffung der Sachübernahmevorschriften im neuen Aktienrecht, SZW 2021 253 ff., 259 f.; <i>Thorsten Kleibold/Beat Rüfenacht,</i> Das revidierte Aktienrecht aus Sicht der Wirtschaftsprüfung, Tour d’Horizon über die künftigen Kapital- und Gläubigerschutzbestimmungen, EF 2021 248 ff., 249; <i>Rolf Sethe/Lukas Fahrländer,</i> Neuerungen im Verantwortlichkeitsrecht, in: Rolf Sethe/Peter R. Isler (Hrsg.), Verantwortlichkeit im Unternehmensrecht X, Verantwortlichkeitsprozesse, Tagungsband 2020, Zürich 2021 224 ff.; <i>Peter Böckli,</i> Kritischer Blick auf die Botschaft und den Entwurf zur Aktienrechtsrevision 2016, GesKR 2017 133 ff., 140: <i>«Ein Fehlgriff: Streichung der ‹Sachübernahme›</i>»<i>, «[…] hastiger Schnitt ohne längere Abwägung der Folgen […]»</i> (140 Fn. 100) und «Die <i>[…] Streichung der Vorschrift über die Sachübernahme […] ist ein destruktiver Eingriff ins geltende Recht […]</i>» (142); <i>Markus Bösiger,</i> Sacheinlage- und Sachübernahmevertrag, SZW 2017 398 ff., 404; <i>Conradin Cramer,</i> in: Lukas Handschin (Hrsg.), Zürcher Kommentar, Obligationenrecht, Die Aktiengesellschaft, Allgemeine Bestimmungen, Art. 620–659b OR, 2. A., Zürich/Basel/Genf 2016, Art. 628 OR N 48 f.; <i>Böckli</i> (Fn. 60) 2, mit der Qualifikation der Abschaffung als <i>«Griff der Feldchirurgen vom Marzili zum Amputationsbesteck</i>»<i>; Manuel Meyer,</i> Die Sacheinlage im Aktienrecht, Unter Berücksichtigung der aktuellen Aktienrechtsrevision, Zürich/St. Gallen 2015, Rz. 86; a.M. z.B. <i>Forstmoser/Küchler</i> (Fn. 61) Art. 628 OR N 12; <i>Lukas Müller/Philippe J.A. Kaiser/Diego Benz,</i> Sacheinlagegründung im revidierten Aktienrecht, Praxisempfehlungen aus notarieller Sicht, EF 2021 281 ff., 286; <i>Dieter Gericke et al.,</i> Neues Aktienrecht: Tour d’Horizon, GesKR 2020 323 ff., 325; <i>Peter Forstmoser/Marcel Küchler,</i> Schweizerische Aktienrechtsreform: Die Schlussrunde ist eingeläutet!, Jusletter vom 10.2.2020, Rz. 19; <i>Nicolas Facincani/Reto Sutter,</i> Schwerpunkte der geplanten Aktienrechtsrevision, TREX 2018 40 ff., 41; <i>Loïc Horisberger,</i> La suppression des règles sur la reprise de biens sans allégement des règles sur les apports en nature – une incohérence?, Reprax 2017 183 ff., 192 ff., s.a. 196 mit der Forderung nach Abschaffung auch der Sacheinlagevorschriften; s.a. <i>Thierry Spaniol,</i> Sinn und Unsinn der Sachübernahmevorschriften, GesKR 2009 233 ff., 236 mit der Forderung der Abschaffung der Sachübernahmevorschriften; s.a. <i>Walter/Blumer</i> (Fn. 2) 426 mit der Anregung, die Abschaffung der Sachübernahmevorschriften zu bedenken.</p>
+					</fn>
+					<fn number="63" id="fn64">
+						<p align="justify">S. II.</p>
+					</fn>
+					<fn number="64" id="fn65">
+						<p align="justify">Z.B. <i>Böckli</i> (Fn. 62) 140, s.a. 140 ff.</p>
+					</fn>
+					<fn number="65" id="fn66">
+						<p align="justify">Schweizerisches Zivilgesetzbuch (ZGB) vom 10. Dezember 1907 (SR 210).</p>
+					</fn>
+					<fn number="66" id="fn67">
+						<p align="justify">Z.B. <i>Markus Reich,</i> Steuerrecht, 2. A., Zürich/Basel/Genf 2012, § 6 Rn. 1.</p>
+					</fn>
+					<fn number="67" id="fn68">
+						<p align="justify">Z.B. <i>Ernst A. Kramer,</i> Juristische Methodenlehre, 6. A., Bern 2019, 63 ff.; <i>Heinrich Honsell,</i> in: Thomas Geiser/Christiana Fountoulakis (Hrsg.), Basler Kommentar, Zivilgesetzbuch I, Art. 1–456 ZGB, 6. A., Basel 2018, Art. 1 ZGB N 3 ff., N 9.</p>
+					</fn>
+					<fn number="68" id="fn69">
+						<p align="justify">Z.B. <i>Kramer</i> (Fn. 67) 135 ff.; BSK ZGB I-<i>Honsell</i> (Fn. 67) Art. 1 ZGB N 5, N 9, N 11.</p>
+					</fn>
+					<fn number="69" id="fn70">
+						<p align="justify">Z.B. <i>Kramer</i> (Fn. 67) 171 ff.; BSK ZGB I-<i>Honsell</i> (Fn. 67) Art. 1 ZGB N 11 ff.</p>
+					</fn>
+					<fn number="70" id="fn71">
+						<p align="justify"><i>Kramer</i> (Fn. 67) 146, 159 f. insb. Fn. 378.</p>
+					</fn>
+					<fn number="71" id="fn72">
+						<p align="justify">Z.B. <i>Kramer</i> (Fn. 67) 143.</p>
+					</fn>
+					<fn number="72" id="fn73">
+						<p align="justify">Z.B. <i>Kramer</i> (Fn. 67) 207, 227; BSK ZGB I-<i>Honsell</i> (Fn. 67) Art. 1 ZGB N 5, N 34.</p>
+					</fn>
+					<fn number="73" id="fn74">
+						<p align="justify">Dazu z.B. <i>Kramer</i> (Fn. 67) 236.</p>
+					</fn>
+					<fn number="74" id="fn75">
+						<p align="justify">Z.B. <i>Kramer</i> (Fn. 67) 63 ff., 205 ff., 226 ff., 250 ff.; BSK ZGB I-<i>Honsell</i> (Fn. 67) Art. 1 ZGB N 12 f., N 16 f., N 25 ff., N 35.</p>
+					</fn>
+					<fn number="75" id="fn76">
+						<p align="justify"><i>Kramer</i> (Fn. 67) 63 ff., 205 ff., 226 ff.; BSK ZGB I-<i>Honsell</i> (Fn. 67) Art. 1 ZGB N 12 f., N 35.</p>
+					</fn>
+					<fn number="76" id="fn77">
+						<p align="justify"><i>Kramer</i> (Fn. 67) 207 f., 310 ff.; <i>Markus Vischer,</i> Entscheidbesprechungen/Discussions d’arrêts actuels, Bundesgericht, I. zivilrechtliche Abteilung, Urteil <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=31.08.2018_4A_241/2017"><?link  id="59f0199a-aa9a-41b7-b723-e5271e06cd5a" type="decision" reference_number="4A_241/2017" date="31.08.2018" court="BGer"?>4A_241/2017<?end_link ?></a> vom 31. August 2018, A._BVBA gegen Z._Sàrl, Alleinvertriebsvertrag, AJP 2019 130 ff., 133.</p>
+					</fn>
+					<fn number="77" id="fn78">
+						<p align="justify">Z.B. <i>Kramer</i> (Fn. 67) 245; BSK ZGB I-<i>Honsell</i> (Fn. 67) Art. 2 ZGB N 31, s. aber auch N 25, N 51; <i>Peter Jäggi/Peter Gauch/Stephan Hartmann,</i> in: Jörg Schmid (Hrsg.), Zürcher Kommentar, Art. 18 OR, Auslegung, Ergänzung und Anpassung der Verträge; Simulation, Obligationenrecht, 4. A., Zürich/Basel/Genf 2014, Art. 18 OR N 185; <i>Ernst A. Kramer/Bruno Schmidlin,</i> in: Arthur Meier-Hayoz (Hrsg.), Berner Kommentar zum Schweizerischen Privatrecht, Bd. VI: Obligationenrecht, 1. Abt.: Allgemeine Bestimmungen, 1. Teilbd.: Allgemeine Einleitung in das Schweizerische Obligationenrecht und Kommentar zu Art. 1–18 OR, Bern 1986, Art. 18 OR N 145; <i>Hans Merz,</i> in: Max Gmür/Hermann Becker/Hans Michael Riemer (Hrsg.), Berner Kommentar zum Schweizerischen Privatrecht, Bd. I: Einleitung und Personenrecht, 1. Abt.: Einleitung, Art. 1–10 ZGB, Bern 1962, Art. 2 ZGB N 88 ff.</p>
+					</fn>
+					<fn number="78" id="fn79">
+						<p align="justify">Z.B. <i>Reich</i> (Fn. 66) § 6 Rn. 43.</p>
+					</fn>
+					<fn number="79" id="fn80">
+						<p align="justify"><i>Reich</i> (Fn. 66) § 6 Rn. 48.</p>
+					</fn>
+					<fn number="80" id="fn81">
+						<p align="justify">Zur Normkorrekturfunktion von <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a2"><?link  id="4291e111-79d0-4b29-a756-95f7b25d3d6e" type="law" art="2" par="2" law="ZGB"?>Art. 2 Abs. 2 ZGB<?end_link ?></a> im Allgemeinen z.B. BK ZGB-<i>Merz</i> (Fn. 77) Art. 2 ZGB N 23 ff.</p>
+					</fn>
+					<fn number="81" id="fn82">
+						<p align="justify"><i>Reich</i> (Fn. 66) § 6 Rn. 48.</p>
+					</fn>
+					<fn number="82" id="fn83">
+						<p align="justify"><i>Markus Vischer,</i> Spaltung mittels Vermögensübertragung, GesKR 2012 569 ff., 570; s.a. Begleitbericht Vorentwurf 2005 (Fn. 21) 42 (bereits zitiert bei Fn. 24), wo für eine kumulative Anwendung der Umgehungsvorschriften und des Rechtsmissbrauchsverbots plädiert wird: <i>«Für Verträge mit Dritten genüg[e] das allgemeine Umgehungs- und Rechtsmissbrauchsverbot».</i></p>
+					</fn>
+					<fn number="83" id="fn84">
+						<p align="justify">S.a. <i>Kramer</i> (Fn. 67) 261, wonach die Anwendung von <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a2"><?link  id="a18c3d07-d296-4cb1-b851-1f5722914dc1" type="law" art="2" par="2" law="ZGB"?>Art. 2 Abs. 2 ZGB<?end_link ?></a> oft den Durchgang zu einer teleologischen Reduktion einer Norm eröffnet.</p>
+					</fn>
+					<fn number="84" id="fn85">
+						<p align="justify">Z.B. BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=06.9.2021_1C_79/2021"><?link  id="2550847d-9100-4b04-bdfa-b77abdf069f7" type="decision" reference="1C_79/2021" court="BGer" date="06.9.2021" reference_number="1C_79/2021"?>1C_79/2021<?end_link ?></a> vom 6.9.2021 E. 4.3; BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=08.12.2020_1C_149/2020"><?link  id="1b58e16b-6fcf-4f8e-a758-ba16a09a3171" type="decision" reference="1C_149/2020" court="BGer" date="08.12.2020" reference_number="1C_149/2020"?>1C_149/2020<?end_link ?></a> vom 8.12.2020 E. 4.1; BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=12.4.2019_4A_598/2018"><?link  id="c50cdc2f-648b-46d8-a397-47bc2edab893" type="decision" reference="4A_598/2018" court="BGer" date="12.4.2019" reference_number="4A_598/2018"?>4A_598/2018<?end_link ?></a> vom 12.4.2019 E. 4.1.4; BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F144-II-49%3Ade&amp;lang=de&amp;type=show_document"><?link  id="9fa67d89-9757-42ee-86bf-6f36d9091367" type="decision" reference="144 II 49" journal_reference="BGE"?>144 II 49<?end_link ?></a> E. 2.2.</p>
+					</fn>
+					<fn number="85" id="fn86">
+						<p align="justify">Z.B. <i>Kramer</i> (Fn. 67) 245, betreffend Innensicht; BK ZGB-<i>Merz</i> (Fn. 77) Art. 2 ZGB N 195, betreffend <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a2"><?link  id="33235a67-2674-4b5f-878d-d3f0c7be2fc6" type="law" art="2" law="ZGB"?>Art. 2 ZGB<?end_link ?></a> und damit betreffend Aussensicht; nicht korrekt BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=12.4.2019_4A_598/2018"><?link  id="189623fd-9084-452d-be74-43d19efdad50" type="decision" reference="4A_598/2018" court="BGer" date="12.4.2019" reference_number="4A_598/2018"?>4A_598/2018<?end_link ?></a> vom 12.4.2019 E. 4.2.3.</p>
+					</fn>
+					<fn number="86" id="fn87">
+						<p align="justify">Z.B. BSK ZGB I-<i>Honsell</i> (Fn. 67) Art. 2 ZGB N 25; s.a. <i>Susan Emmenegger/Axel Tschentscher,</i> in: Heinz Hausheer/Hans Peter Walter (Hrsg.), Berner Kommentar zum Schweizerischen Privatrecht, Bd. I: Einleitung und Personenrecht, 1. Abt.: Einleitung, Art. 1–9 ZGB, Bern 2012, Art. 1 ZGB N 471; <i>Heinz Hausheer/Regina E. Aebi-Müller,</i> in: Heinz Hausheer/Hans Peter Walter (Hrsg.), Berner Kommentar zum Schweizerischen Privatrecht, Bd. I: Einleitung und Personenrecht, 1. Abt.: Einleitung, Art. 1–9 ZGB, Bern 2012, Art. 2 ZGB N 93.</p>
+					</fn>
+					<fn number="87" id="fn88">
+						<p align="justify">Z.B. <i>Roger Weber,</i> Gesetzesumgehung im Mietrecht, mp 2021 93 ff., 96.</p>
+					</fn>
+					<fn number="88" id="fn89">
+						<p align="justify"><i>Reich</i> (Fn. 66) § 6 Rn. 47.</p>
+					</fn>
+					<fn number="89" id="fn90">
+						<p align="justify">BSK ZGB I-<i>Honsell</i> (Fn. 67) Art. 2 ZGB N 28, bezüglich <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a2"><?link  id="d9665bff-b85e-4f54-b22b-63f859e0ba38" type="law" art="2" law="ZGB"?>Art. 2 ZGB<?end_link ?></a>; s.a. BK ZGB-<i>Merz</i> (Fn. 77) Art. 2 ZGB N 32, bezüglich <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a2"><?link  id="217a078a-7db2-4186-8a8e-b01093027b76" type="law" art="2" law="ZGB"?>Art. 2 ZGB<?end_link ?></a>: Keine <i>«Legitimation für reine Billigkeitsentscheidungen im Sinne des gerade Angemessenen oder des sozial-ethisch Wünschbaren».</i></p>
+					</fn>
+					<fn number="90" id="fn91">
+						<p align="justify"><i>Vischer</i> (Fn. 82) 570 f., m.H. auf BSK ZGB I-<i>Honsell</i> (Fn. 67) Art. 2 ZGB N 28.</p>
+					</fn>
+					<fn number="91" id="fn92">
+						<p align="justify">Zum Verhältnis dieser Bestimmungen z.B. <i>Kramer</i> (Fn. 67) 309 ff.; <i>Vischer</i> (Fn. 76) 133.</p>
+					</fn>
+					<fn number="92" id="fn93">
+						<p align="justify">Z.B. <i>Markus Vischer,</i> Entscheidbesprechungen/Discussions d’arrêts actuels, Bundesgericht, I. zivilrechtliche Abteilung, Urteil <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=24.05.2017_4A_703/2016"><?link  id="123d1dbe-e52b-44c2-9930-3d324aec7995" type="decision" reference_number="4A_703/2016" date="24.05.2017" court="BGer"?>4A_703/2016<?end_link ?></a> vom 24. Mai 2017, A. gegen Pensionskasse B., Mietvertrag; Kündigung (zur Publikation bestimmt), AJP 2017 1135 ff., 1138 f.; BK ZGB-<i>Merz</i> (Fn. 77) Art. 2 ZGB N 29 ff.; je bezüglich <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a2"><?link  id="600b4a71-43e1-4ff8-9698-13ba4a5c1d08" type="law" art="2" law="ZGB"?>Art. 2 ZGB<?end_link ?></a>.</p>
+					</fn>
+					<fn number="93" id="fn94">
+						<p align="justify">Z.B. BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F123-IV-61%3Ade&amp;lang=de&amp;type=show_document"><?link  id="422989fd-33c7-4a12-950d-784048faa9d4" type="decision" reference="123 IV 61" journal_reference="BGE"?>123 IV 61<?end_link ?></a> E. 5c/cc; BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F112-II-337%3Ade&amp;lang=de&amp;type=show_document"><?link  id="f045185e-a118-46fe-9c9b-41d8f02f6dd8" type="decision" reference="112 II 337" journal_reference="BGE"?>112 II 337<?end_link ?></a> E. 4a; <i>Christoph Müller,</i> in: Regina E. Aebi-Müller/Christoph Müller (Hrsg.), Berner Kommentar zum Schweizerischen Privatrecht, Obligationenrecht, Allgemeine Bestimmungen, Art. 1–18 OR mit allgemeiner Einleitung in das Schweizerische Obligationenrecht, Bern 2018, Art. 18 OR N 320.</p>
+					</fn>
+					<fn number="94" id="fn95">
+						<p align="justify">Z.B. BK OR<i>-Müller</i> (Fn. 93) Art. 18 OR N 312; ZK OR-<i>Jäggi/Gauch/Hartmann</i> (Fn. 77) Art. 18 OR N 104.</p>
+					</fn>
+					<fn number="95" id="fn96">
+						<p align="justify">Z.B. BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F123-IV-61%3Ade&amp;lang=de&amp;type=show_document"><?link  id="89793362-8a72-4d83-98c7-d0360be759f3" type="decision" reference="123 IV 61" journal_reference="BGE"?>123 IV 61<?end_link ?></a> E. 5c/cc; BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F112-II-337%3Ade&amp;lang=de&amp;type=show_document"><?link  id="ab632332-4685-4495-baab-a050db497081" type="decision" reference="112 II 337" journal_reference="BGE"?>112 II 337<?end_link ?></a> E. 4a; BK OR<i>-Müller</i> (Fn. 93) Art. 18 OR N 326; ZK OR-<i>Jäggi/Gauch/Hartmann</i> (Fn. 77) Art. 18 OR N 123; BK OR-<i>Kramer/Schmidlin</i> (Fn. 77) Art. 18 OR N 110.</p>
+					</fn>
+					<fn number="96" id="fn97">
+						<p align="justify">Z.B. BK OR<i>-Müller</i> (Fn. 93) Art. 18 OR N 326; ZK OR-<i>Jäggi/Gauch/Hartmann</i> (Fn. 77) Art. 18 OR N 123.</p>
+					</fn>
+					<fn number="97" id="fn98">
+						<p align="justify">Z.B. <i>Marcel Alexander Niggli/Stefan Maeder,</i> in: Marcel Alexander Niggli/Hans Wiprächtiger (Hrsg.), Basler Kommentar, Strafrecht I, Strafgesetzbuch/Jugendstrafgesetz, Art. 1–136 StGB, 4. A., Basel 2019, Art. 12 StGB N 45; s.a. <i>Stefan Maeder/Marcel Alexander Niggli,</i> in: Marcel Alexander Niggli/Hans Wiprächtiger (Hrsg.), Basler Kommentar, Strafrecht II, Strafgesetzbuch/Jugendstrafgesetz, Art. 137–392 StGB, 4. A., Basel 2019, Art. 146 StGB N 41 ff., N 273, zur Täuschung und zum Täuschungsvorsatz beim Betrug gemäss <a href="https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#a146"><?link  id="472edb4e-757c-4d63-96cf-f369a9591037" type="law" art="146" law="StGB"?>Art. 146 StGB<?end_link ?></a>.</p>
+					</fn>
+					<fn number="98" id="fn99">
+						<p align="justify">S.a. BSK StGB II-<i>Maeder/Niggli</i> (Fn. 97) Art. 146 StGB N 273, zum Genügen des Eventualvorsatzes beim Betrug gemäss <a href="https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#a146"><?link  id="444dccd9-98f6-4acb-966f-fba8d29db5df" type="law" art="146" law="StGB"?>Art. 146 StGB<?end_link ?></a>.</p>
+					</fn>
+					<fn number="99" id="fn100">
+						<p align="justify">Zu diesen Begriffen z.B. BSK StGB I-<i>Niggli/Maeder</i> (Fn. 97) Art. 12 StGB N 48 ff., schon N 11 ff.</p>
+					</fn>
+					<fn number="100" id="fn101">
+						<p align="justify">Z.B. BK OR<i>-Müller</i> (Fn. 93) Art. 18 OR N 331, N 334; ZK OR-<i>Jäggi/Gauch/Hartmann</i> (Fn. 77) Art. 18 OR N 112.</p>
+					</fn>
+					<fn number="101" id="fn102">
+						<p align="justify">Z.B. BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F123-IV-61%3Ade&amp;lang=de&amp;type=show_document"><?link  id="5c91374b-003e-435c-a1e4-8862e2d54f4b" type="decision" reference="123 IV 61" journal_reference="BGE"?>123 IV 61<?end_link ?></a> E. 5c/cc; BK OR<i>-Müller</i> (Fn. 93) Art. 18 OR N 349 ff., insb. N 350 <i>(«Nichtvertrag»)</i> N 382 ff.; ZK OR-<i>Jäggi/Gauch/Hartmann</i> (Fn. 77) Art. 18 OR N 129 ff., N 156 ff.</p>
+					</fn>
+					<fn number="102" id="fn103">
+						<p align="justify">Z.B. BK OR<i>-Müller</i> (Fn. 93) Art. 18 OR N 387, s.a. N 388 ff.; ZK OR-<i>Jäggi/Gauch/Hartmann</i> (Fn. 77) Art. 18 OR N 157, N 159, s.a. N 165 ff.</p>
+					</fn>
+					<fn number="103" id="fn104">
+						<p align="justify">Z.B. BK OR<i>-Müller</i> (Fn. 93) Art. 18 OR N 350; ZK OR-<i>Jäggi/Gauch/Hartmann</i> (Fn. 77) Art. 18 OR N 116; BK OR-<i>Kramer/Schmidlin</i> (Fn. 77) Art. 18 OR N 111.</p>
+					</fn>
+					<fn number="104" id="fn105">
+						<p align="justify">Z.B. BK OR<i>-Müller</i> (Fn. 93) Art. 18 OR N 422; ZK OR-<i>Jäggi/Gauch/Hartmann</i> (Fn. 77) Art. 18 OR N 84 f.; BK OR-<i>Kramer/Schmidlin</i> (Fn. 77) Art. 18 OR N 140 ff.</p>
+					</fn>
+					<fn number="105" id="fn106">
+						<p align="justify">Z.B. BK OR<i>-Müller</i> (Fn. 93) Art. 18 OR N 422.</p>
+					</fn>
+					<fn number="106" id="fn107">
+						<p align="justify">Z.B. BK OR<i>-Müller</i> (Fn. 93) Art. 18 OR N 424; BK OR-<i>Kramer/Schmidlin</i> (Fn. 77) Art. 18 OR N 143 f.; ZK OR-<i>Jäggi/Gauch/Hartmann</i> (Fn. 77) Art. 18 OR N 181 ff.</p>
+					</fn>
+					<fn number="107" id="fn108">
+						<p align="justify">S. VI.B.</p>
+					</fn>
+					<fn number="108" id="fn109">
+						<p align="justify">Z.B. <i>von der Crone/Aref</i> (Fn. 62) 255, 257; <i>Sethe/Fahrländer</i> (Fn. 62) 222; <i>Oesch</i> (Fn. 51) 175 f.; <i>Böckli</i> (Fn. 60) 141; <i>Manuel Meyer/Christian Rioult,</i> Handelsregisterbelege bei Sacheinlagen und Sachübernahmen im Aktienrecht, Reprax 2016 34 ff., 37; <i>Meyer</i> (Fn. 62) Rz. 762; <i>Markus D. Vischer,</i> Die Geschäftsausübung für die AG in ihrem Gründungsstadium, (Handelndenhaftung [<a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a645"><?link  id="1def032a-79bf-48b6-bdf3-2d1f4fff78a1" type="law" art="645" law="OR"?>Art. 645 OR<?end_link ?></a>], Sachübernahmen [<a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a628"><?link  id="494dbdae-ee03-42f0-8d5e-d548f6b4df31" type="law" art="628" par="2" law="OR"?>Art. 628 Abs. 2 OR<?end_link ?></a>] und «Gründervorteile» [<a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a628"><?link  id="2c8b1811-595a-4466-8a24-8c5a45dd2685" type="law" art="628" par="3" law="OR"?>Art. 628 Abs. 3 OR<?end_link ?></a>] revisited), SZW 2014 63 ff., 68; <i>Vischer</i> (Fn. 12) 289, 292, 294 f., 298; <i>Niklaus Dietschi,</i> Beabsichtigte Sachübernahmen, Zürich/St. Gallen 2012, Rz. 71.</p>
+					</fn>
+					<fn number="109" id="fn110">
+						<p align="justify"><i>Vischer</i> (Fn. 12) 289, 295; <i>Dietschi</i> (Fn. 108) Rz. 392.</p>
+					</fn>
+					<fn number="110" id="fn111">
+						<p align="justify">Zur wirtschaftlichen Betrachtungsweise als Sonderfall der teleologischen Betrachtungsweise z.B. <i>Kramer</i> (Fn. 67) 199 f., 246 f.</p>
+					</fn>
+					<fn number="111" id="fn112">
+						<p align="justify"><i>Vischer</i> (Fn. 108) 68; <i>Vischer</i> (Fn. 12) 292, 295; wohl gl.M. <i>Dietschi</i> (Fn. 108) Rz. 392; s.a. <i>Meyer</i> (Fn. 62) Rz. 844 ff. unter dem Titel <i>«Grenzen der wirtschaftlichen Betrachtungsweise».</i></p>
+					</fn>
+					<fn number="112" id="fn113">
+						<p align="justify"><i>Meyer</i> (Fn. 62) Rz. 773, insb. Fn. 2163, Rz. 838, Rz. 844 ff., insb. Rz. 845: <i>«Damit ist eine Umgehung der Sacheinlagevorschriften nur im Rahmen der Verletzung der Sachübernahmebestimmungen möglich»;</i> a.M. bezüglich Verrechnungsliberierung <i>Roman Aus der Au,</i> Die Verrechnungsliberierung bei der AG, Die Leistung der Einlage durch Verrechnung mit einer Forderung nach dem revidierten Aktienrecht, Zürich/St. Gallen 2021, Rz. 791 f., Rz. 795; <i>Hans-Ueli Vogt/Anne Peter,</i> Aktienrechtliche Rahmenbedingungen einer finanziellen Sanierung, insbesondere das Verbot der Einlagenrückgewähr, Besprechung des Urteils <a href="http://relevancy.bger.ch/php/aza/http/index.php?lang=de&amp;type=highlight_simple_query&amp;page=1&amp;from_date=&amp;to_date=&amp;sort=relevance&amp;insertion_date=&amp;top_subcollection_aza=all&amp;query_words=4A_496%2F2010&amp;rank=1&amp;azaclir=aza&amp;highlight_docid=aza:%2F%2F14-02-2011-4A_496-2010&amp;number_of_ranks=3"><?highlight_link  id="09a24605-b30c-44a5-aa14-4408106dd270" type="decision" reference_number="4A_496/2010" url="http://relevancy.bger.ch/php/aza/http/index.php?lang=de&amp;type=highlight_simple_query&amp;page=1&amp;from_date=&amp;to_date=&amp;sort=relevance&amp;insertion_date=&amp;top_subcollection_aza=all&amp;query_words=4A_496%2F2010&amp;rank=1&amp;azaclir=aza&amp;highlight_docid=aza:%2F%2F14-02-2011-4A_496-2010&amp;number_of_ranks=3"?>4A_496/2010<?end_highlight_link ?></a> des schweizerischen Bundesgerichts vom 14. Februar 2011, GesKR 2011 228 ff., 235 ff.; Begleitbericht Vorentwurf 2005 (Fn. 21) 42.</p>
+					</fn>
+					<fn number="113" id="fn114">
+						<p align="justify"><i>Vischer</i> (Fn. 12) 295.</p>
+					</fn>
+					<fn number="114" id="fn115">
+						<p align="justify"><i>Vischer</i> (Fn. 108) 68; <i>Vischer</i> (Fn. 12) 292; s.a. Art. 634a Abs. 2 E-OR 2007; s. dazu II.</p>
+					</fn>
+					<fn number="115" id="fn116">
+						<p align="justify"><i>Vischer</i> (Fn. 108) 68; <i>Vischer</i> (Fn. 12) 295; a.M. z.B. <i>Böckli</i> (Fn. 62) 141, Fn. 110, welcher die Sachübernahmevorschriften auch bei Sachübernahmen gegen Schuldübernahme angewendet haben möchte.</p>
+					</fn>
+					<fn number="116" id="fn117">
+						<p align="justify">Botschaft 2016 (Fn. 19) 432; <i>Vischer</i> (Fn. 12) 289; s. bereits II.</p>
+					</fn>
+					<fn number="117" id="fn118">
+						<p align="justify"><i>Meyer</i> (Fn. 62) Rz. 845 (s. z.T. schon Fn. 107): <i>«Damit ist eine Umgehung der Sacheinlagevorschriften nur im Rahmen der Verletzung der Sachübernahmebestimmungen möglich. Dieses Ergebnis ist die logische Konsequenz der positivrechtlichen Regelung eines Umgehungstatbestands.»</i></p>
+					</fn>
+					<fn number="118" id="fn119">
+						<p align="justify"><i>Markus Vischer,</i> Entscheidbesprechungen/Discussions d’arrêts actuels, Bundesgericht, I. zivilrechtliche Abteilung, Urteil <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=03.04.2018_4A_285/2017"><?link  id="9b8ae7e4-d767-49f1-a0cc-88909dd01cef" type="decision" reference_number="4A_285/2017" date="03.04.2018" court="BGer"?>4A_285/2017<?end_link ?></a> vom 3. April 2018, X. gegen Banque Z, deliktische Haftung infolge Verletzung von <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a28"><?link  id="ae10a747-fded-42f6-a3b7-fc4835ad6ba4" type="law" art="28" law="OR"?>Art. 28 OR<?end_link ?></a>: Die Verletzung von <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a28"><?link  id="99a29eb3-cb1e-47ef-824d-81f248e23064" type="law" art="28" law="OR"?>Art. 28 OR<?end_link ?></a> begründet eine Widerrechtlichkeit i.S.v. <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a41"><?link  id="141cfded-902b-478c-bd81-920f785533c1" type="law" art="41" par="1" law="OR"?>Art. 41 Abs. 1 OR<?end_link ?></a>, AJP 2018 908 ff., 909; <i>Vischer</i> (Fn. 92) 1139 f.; BK ZGB-<i>Merz</i> (Fn. 77) Art. 2 ZGB N 42; je bezüglich <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a2"><?link  id="af38a0d5-1820-4ae9-8b2a-2746db32222d" type="law" art="2" law="ZGB"?>Art. 2 ZGB<?end_link ?></a>.</p>
+					</fn>
+					<fn number="119" id="fn120">
+						<p align="justify">S. VI.C.</p>
+					</fn>
+					<fn number="120" id="fn121">
+						<p align="justify"><i>Vischer</i> (Fn. 12) 290, 294 Fn. 76, 296 f.; s.a. <i>Meyer</i> (Fn. 62) Rz. 835 ff.; a.M. v.a. die ältere Rechtsprechung und Lehre wie z.B. BGE 64 II 272 E. 2; BGE 59 II 434 E. 2; <i>Fritz von Steiger,</i> Das Recht der Aktiengesellschaft in der Schweiz, 4. A., Zürich 1970, 83; in neuerer Zeit wohl auch noch <i>Böckli</i> (Fn. 62) 140 ff., insb. 142 mit der nicht korrekten und letztlich auf eine Fiktion hinauslaufenden Aussage, bei der Sachübernahme sei die Sachübernahme (und die Barliberierung) nicht gewünscht.</p>
+					</fn>
+					<fn number="121" id="fn122">
+						<p align="justify">S. VI.B.</p>
+					</fn>
+					<fn number="122" id="fn123">
+						<p align="justify">S. VI.C; s.a. <i>Dietschi</i> (Fn. 108) Rz. 153 f.; <i>Vischer</i> (Fn. 12) 294 Fn. 76, bezüglich Sachübernahmen.</p>
+					</fn>
+					<fn number="123" id="fn124">
+						<p align="justify">Z.B. <i>von der Crone/Aref</i> (Fn. 62) 263 f.; <i>Vischer</i> (Fn. 12) 290 f.</p>
+					</fn>
+					<fn number="124" id="fn125">
+						<p align="justify"><i>Dietschi</i> (Fn. 108) Rz. 367; s. dazu im Allgemeinen bereits VI.C.</p>
+					</fn>
+					<fn number="125" id="fn126">
+						<p align="justify"><i>Meyer</i> (Fn. 62) Rz. 832; <i>Markus Vischer,</i> Mantel- und Vorratsgesellschaften und insbesondere auch der Mantel- und Vorratsgesellschaftshandel aus zivilrechtlicher Sicht, AJP 2013 563 ff., 567; <i>Dietschi</i> (Fn. 108) Rz. 359; <i>Böckli</i> (Fn. 8) § 1 Rn. 362; alle mit Fokus auf dem Rückfluss.</p>
+					</fn>
+					<fn number="126" id="fn127">
+						<p align="justify"><i>Aus der Au</i> (Fn. 112) Rz. 767; <i>Böckli</i> (Fn. 8) § 1 Rn. 211.</p>
+					</fn>
+					<fn number="127" id="fn128">
+						<p align="justify"><i>Rashid Bahar/Martin Peyer,</i> in: Lukas Handschin/Peter Jung (Hrsg.), Zürcher Kommentar, Obligationenrecht, Die Aktiengesellschaft, Rechte und Pflichten der Aktionäre, Art. 660–697m OR, 2. A., Zürich/Basel/Genf 2021, Art. 680 OR N 130; <i>Meyer</i> (Fn. 62) Rz. 832; <i>Dietschi</i> (Fn. 108) Rz. 359.</p>
+					</fn>
+					<fn number="128" id="fn129">
+						<p align="justify">Z.B. <i>Aus der Au</i> (Fn. 112) Rz. 767 Fn. 1545; <i>Vischer</i> (Fn. 125) 567; <i>Vischer</i> (Fn. 12) 297; <i>Böckli</i> (Fn. 8) § 1 Rn. 211, Rn. 362.</p>
+					</fn>
+					<fn number="129" id="fn130">
+						<p align="justify">S.z.B. <i>Vischer</i> (Fn. 125) 567; <i>Vischer</i> (Fn. 12) 293 Fn. 70, 297.</p>
+					</fn>
+					<fn number="130" id="fn131">
+						<p align="justify">Z.B. <i>Matthias D. Trautmann,</i> Die qualifizierte Kapitalerhöhung, AG, GmbH und Genossenschaft, Zürich/St. Gallen 2016, Rz. 437 ff., insb. 443; <i>Peter Jäggi,</i> Die Scheineinzahlung im Aktienrecht, SJZ 1952 297 ff., 299 f.</p>
+					</fn>
+					<fn number="131" id="fn132">
+						<p align="justify">ZK OR-<i>Bahar/Peyer</i> (Fn. 127) Art. 680 OR N 131; <i>Trautmann</i> (Fn. 130) Rz. 439; <i>Dietschi</i> (Fn. 108) Rz. 363; <i>Jäggi</i> (Fn. 130) 300 f.; s. dazu im Allgemeinen, auch zur Voll- und Teilsimulation, VI.C.</p>
+					</fn>
+					<fn number="132" id="fn133">
+						<p align="justify"><i>Markus Vischer,</i> Orell Füssli Kommentar, OR, Kommentar, Schweizerisches Obligationenrecht, 4. A., Zürich 2022, Art. 678 OR N 38; <i>Dietschi</i> (Fn. 108) Rz. 363; <i>Böckli</i> (Fn. 8) § 1 Rn. 362, beide allerdings unter Berufung auf <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a680"><?link  id="ec9504f8-c711-4149-9dc7-b77087921a4d" type="law" art="680" law="OR"?>Art. 680 OR<?end_link ?></a>; a.M. <i>Trautmann</i> (Fn. 130) Rz. 442, welcher <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a680"><?link  id="76ad684b-407e-4803-91a9-d3f463c33fb9" type="law" art="680" law="OR"?>Art. 680 OR<?end_link ?></a> (und damit wohl auch <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a678"><?link  id="b83c444a-545b-4cc2-86ac-c3bf3c561090" type="law" art="678" law="OR"?>Art. 678 OR<?end_link ?></a>) im Falle von Scheinliberierungen für nicht anwendbar hält.</p>
+					</fn>
+					<fn number="133" id="fn134">
+						<p align="justify">S. VI.C.</p>
+					</fn>
+					<fn number="134" id="fn135">
+						<p align="justify">Z.B. bei Fälschung der Bescheinigung der Bank über die Hinterlegung der Einlage oder bei einer (absichtlich) nicht werthaltigen Sacheinlage, so z.B. BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=13.6.2013_6B_17/2013"><?link  id="cc069d06-e153-4d2c-9795-828a162aa260" type="decision" reference="6B_17/2013" court="BGer" date="13.6.2013" reference_number="6B_17/2013"?>6B_17/2013<?end_link ?></a> vom 13.6.2013 und BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=13.6.2013_6B_748/2012"><?link  id="abe0b04a-7313-49d2-8871-4706f2f53d87" type="decision" reference="6B_748/2012" court="BGer" date="13.6.2013" reference_number="6B_748/2012"?>6B_748/2012<?end_link ?></a> vom 13.6.2013.</p>
+					</fn>
+					<fn number="135" id="fn136">
+						<p align="justify">BK OR<i>-Müller</i> (Fn. 93) Art. 18 OR N 354; s.a. <i>Meyer</i> (Fn. 62) Rz. 836.</p>
+					</fn>
+					<fn number="136" id="fn137">
+						<p align="justify">Z.B. BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F117-II-290%3Ade&amp;lang=de&amp;type=show_document"><?link  id="80d91833-0d95-4d43-a7bc-87990c7a25d1" type="decision" reference="117 II 290" journal_reference="BGE"?>117 II 290<?end_link ?></a> E. 4c; BGE 64 II 272 E. 2a; <i>Vischer</i> (Fn. 125) 567; <i>Peter Forstmoser/Arthur Meier-Hayoz/Peter Nobel,</i> Schweizerisches Aktienrecht, Bern 1996, § 17 Rn. 36; BK OR-<i>Kramer/Schmidlin</i> (Fn. 77) Art. 18 OR N 155.</p>
+					</fn>
+					<fn number="137" id="fn138">
+						<p align="justify"><i>Markus Vischer,</i> Der Zeichnungs- bzw. Sacheinlagevertrag bei der AG, SJZ 2014 537 ff., 544; <i>Markus Vischer,</i> Rechts- und Sachgewährleistung bei Sacheinlage- und Übertragungsverträgen über Unternehmen, SJZ 2004 100 ff., 110; je im Allgemeinen.</p>
+					</fn>
+					<fn number="138" id="fn139">
+						<p align="justify"><i>Markus Vischer,</i> Die Kontinuität auf Gesellschafterstufe bei Umstrukturierungen nach dem Fusionsgesetz, Ein Nachtrag zur due diligence bezüglich Eigentum an den Aktien beim Aktienkauf, AJP 2019 294 ff., 295; <i>Böckli</i> (Fn. 8) § 1 Rn. 586; je im Allgemeinen; s.a. BGE 64 II 272 E. 2c, bezüglich nicht korrekter Sacheinlagegründung.</p>
+					</fn>
+					<fn number="139" id="fn140">
+						<p align="justify">BGE 64 II 272 E. 2b; OFK OR-<i>Vischer</i> (Fn. 132) Art. 680 OR N 17, N 22; ZK OR-<i>Bahar/Peyer</i> (Fn. 127) Art. 680 OR N 131; <i>Aus der Au</i> (Fn. 112) Rz. 778; <i>Trautmann</i> (Fn. 130) Rz. 436, Rz. 442, Rz. 462 ff., Rz. 485; <i>Böckli</i> (Fn. 8) § 1 Rn. 442a; BK OR-<i>Kramer/Schmidlin</i> (Fn. 77) Art. 18 OR N 155; <i>Forstmoser/Meier-Hayoz/Nobel</i> (Fn. 136) § 17 Rn. 36.</p>
+					</fn>
+					<fn number="140" id="fn141">
+						<p align="justify">Für eine strikte Barliberierungspflicht: BGE 64 II 272 E. 2b; <i>Trautmann</i> (Fn. 130) Rz. 462, Rz. 479, s. aber auch Rz. 468.</p>
+					</fn>
+					<fn number="141" id="fn142">
+						<p align="justify"><i>Trautmann</i> (Fn. 130) Rz. 480 ff.; zu <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a681"><?link  id="7cf3b010-314e-4c30-82e4-8dbbb30309cc" type="law" art="681" law="OR"?>Art. 681 f. OR<?end_link ?></a> im Allgemeinen z.B. OFK OR-<i>Vischer</i> (Fn. 132) Art. 681 OR N 1 ff. und Art. 682 OR N 1 ff.</p>
+					</fn>
+					<fn number="142" id="fn143">
+						<p align="justify">Z.B. BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=14.2.2011_4A_496/2010"><?link  id="921ca5ec-efcf-47a9-b146-0d7816b6716d" type="decision" reference="4A_496/2010" court="BGer" date="14.2.2011" reference_number="4A_496/2010"?>4A_496/2010<?end_link ?></a> vom 14.2.2011 E. 2.1; BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F109-II-128%3Ade&amp;lang=de&amp;type=show_document"><?link  id="748a4df6-8c7c-40c6-8e2d-b835e0a9b0d9" type="decision" reference="109 II 128" journal_reference="BGE"?>109 II 128<?end_link ?></a> E. 2; BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F102-II-353%3Ade&amp;lang=de&amp;type=show_document"><?link  id="318be931-0b03-4b6b-b414-80599b663f66" type="decision" reference="102 II 353" journal_reference="BGE"?>102 II 353<?end_link ?></a>; BGer vom 14.2.1967 E. 2, in: SJ 1969 150 ff., 150; s.a. <i>Jäggi</i> (Fn. 130) 297 auch Fn. 3.</p>
+					</fn>
+					<fn number="143" id="fn144">
+						<p align="justify">Z.B. BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=07.8.2009_2C_537/2008"><?link  id="0dc28c58-af84-404c-b61a-0899961bbd27" type="decision" reference="2C_537/2008" court="BGer" date="07.8.2009" reference_number="2C_537/2008"?>2C_537/2008<?end_link ?></a> vom 7.8.2009 E. 3.2.</p>
+					</fn>
+					<fn number="144" id="fn145">
+						<p align="justify">OFK OR-<i>Vischer</i> (Fn. 132) Art. 680 OR N 17.</p>
+					</fn>
+					<fn number="145" id="fn146">
+						<p align="justify">S. im Allgemeinen VI.C.; unpräzis <i>von der Crone/Aref</i> (Fn. 62) 260 im Zusammenhang mit den Sacheinlagevorschriften: <i>«Erst die eigentliche Scheinliberierung stellt einen Umgehungstatbestand dar»;</i> s. schon <i>Hans Caspar von der Crone,</i> Aktienrecht, 2. A., Bern 2020, Rz. 245; <i>Aus der Au</i> (Fn. 112) Rz. 759 ff., mit einer Vermischung der Scheinliberierung und der Gesetzesumgehung, die er aus <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a2"><?link  id="f1faffec-76b3-4b41-aa46-84b211b1efe8" type="law" art="2" par="2" law="ZGB"?>Art. 2 Abs. 2 ZGB<?end_link ?></a> ableitet; s.a. <i>Ramon Mabillard,</i> in: Lukas Handschin/Peter Jung (Hrsg.), Zürcher Kommentar, Obligationenrecht, Die Aktiengesellschaft, Rechte und Pflichten der Aktionäre, Art. 660–697m OR, 2. A., Zürich/Basel/Genf 2021, Art. 678 OR N 117, nach welchem die Scheinliberierung ein Anwendungsfall des Rechtsmissbrauchs ist.</p>
+					</fn>
+					<fn number="146" id="fn147">
+						<p align="justify">S. II.</p>
+					</fn>
+					<fn number="147" id="fn148">
+						<p align="justify">S. VI.A.</p>
+					</fn>
+					<fn number="148" id="fn149">
+						<p align="justify">S. VI.A.</p>
+					</fn>
+					<fn number="149" id="fn150">
+						<p align="justify">S. VI.D.</p>
+					</fn>
+					<fn number="150" id="fn151">
+						<p align="justify">S. VI.B.</p>
+					</fn>
+					<fn number="151" id="fn152">
+						<p align="justify">Gl.M. <i>Druey/Druey Just/Glanzmann</i> (Fn. 61) § 8 Rn. 44; gl.M., allerdings (zu Unrecht) unter dem Vorbehalt der allgemeinen Umgehungsvorschriften (bzw. des Rechtsmissbrauchs) (dazu bei Fn. 151), <i>von der Crone/Aref</i> (Fn. 62) 260; <i>Müller/Kaiser/Benz</i> (Fn. 62) 285 f.; <i>Gericke et al.</i> (Fn. 62) 325; <i>von der Crone</i> (Fn. 145) Rz. 245; <i>Facincani/Sutter</i> (Fn. 62) 41.</p>
+					</fn>
+					<fn number="152" id="fn153">
+						<p align="justify"><i>Markus Vischer,</i> in: Rolf Watter/Hans-Ueli Vogt (Hrsg.), Basler Kommentar, Obligationenrecht II, Art. 530–964 OR inkl. Schlussbestimmungen, 6. A., Basel 2022, Art. 1 UeB N 19 ff.</p>
+					</fn>
+					<fn number="153" id="fn154">
+						<p align="justify">Z.B. <i>Vischer</i> (Fn. 138) 295 f.</p>
+					</fn>
+					<fn number="154" id="fn155">
+						<p align="justify"><i>Bundesamt für Justiz BJ,</i> Praxismitteilung EHRA 1/21 vom 10. Februar 2021, Hinweise zur Praxis des Eidg. Amtes für das Handelsregister, Präzisierungen bezüglich Eintragungen in das Handelsregister, Ziff. 2; s.a. <i>Daniel M. Häusermann,</i> Handelsregistereintragungen werden schon vor SHAB-Publikation wirksam, Zur Praxismitteilung des EHRA 1/21 vom 10. Februar 2021, GesKR 2021 104 f.</p>
+					</fn>
+					<fn number="155" id="fn156">
+						<p align="justify">A.M. <i>Forstmoser/Küchler</i> (Fn. 61) Art. 628 OR N 16.</p>
+					</fn>
+					<fn number="156" id="fn157">
+						<p align="justify">A.M. <i>Forstmoser/Küchler</i> (Fn. 61) Art. 628 OR N 11 f.; <i>von der Crone/Aref</i> (Fn. 62) 260: <i>«Rechtsgeschäfte, bei denen missbräuchlich die Sacheinlagevorschriften umgangen werden sollen, sind unzulässig»; Müller/Kaiser/Benz</i> (Fn. 62) 285 f.; <i>Sethe/Fahrländer</i> (Fn. 62) 225 f.; <i>Gericke et al.</i> (Fn. 62) 325; <i>von der Crone</i> (Fn. 145) Rz. 245; <i>Facincani/Sutter</i> (Fn. 62) 41; <i>Böckli</i> (Fn. 62) 140 ff.</p>
+					</fn>
+					<fn number="157" id="fn158">
+						<p align="justify">S. VI.D.</p>
+					</fn>
+					<fn number="158" id="fn159">
+						<p align="justify"><i>Aus der Au</i> (Fn. 112) Rz. 791; <i>Vischer</i> (Fn. 12) 289 f., 293.</p>
+					</fn>
+					<fn number="159" id="fn160">
+						<p align="justify"><i>Vischer</i> (Fn. 12) 289 f.; a.M. <i>Aus der Au</i> (Fn. 112) Rz. 791 f., Rz. 795, Rz. 811; <i>Vogt/Peter</i> (Fn. 112) 235 ff., unter dem Titel der <i>«funktionalen Äquivalenz».</i></p>
+					</fn>
+					<fn number="160" id="fn161">
+						<p align="justify">Gl.M. BGer <a href="http://jumpcgi.bger.ch/cgi-bin/JumpCGI?id=14.2.2011_4A_496/2010"><?link  id="3a5dfad4-cf34-40f0-b794-974dba5cdd2b" type="decision" reference="4A_496/2010" court="BGer" date="14.2.2011" reference_number="4A_496/2010"?>4A_496/2010<?end_link ?></a> vom 14.2.2011 E. 2; BGer vom 14.2.1967 E. 2, in: SJ 1969 150 ff., 150; BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F87-II-169%3Ade&amp;lang=de&amp;type=show_document"><?link  id="c6d82975-47d0-490f-a67b-91a9cb72b5d2" type="decision" reference="87 II 169" journal_reference="BGE"?>87 II 169<?end_link ?></a>; <i>Meyer</i> (Fn. 62) Rz. 771 ff., insb. Rz. 781; <i>Vischer</i> (Fn. 12) 293; a.M. <i>Aus der Au</i> (Fn. 112) Rz. 811, im Widerspruch zu Rz. 791 f., Rz. 795, wo er nicht die Einhaltung der Verrechnungsliberierungsbestimmungen, sondern der Sacheinlagebestimmungen fordert; <i>Vogt/Peter</i> (Fn. 112) 235 ff.</p>
+					</fn>
+					<fn number="161" id="fn162">
+						<p align="justify">Implizit BGE <a href="http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F87-II-169%3Ade&amp;lang=de&amp;type=show_document"><?link  id="24ff5629-7374-4f7b-866b-7eade13e708d" type="decision" reference="87 II 169" journal_reference="BGE"?>87 II 169<?end_link ?></a> E. 5; nur teilweise gl.M. <i>Dietschi</i> (Fn. 108) Rz. 237 f.; a.M. <i>Aus der Au</i> (Fn. 112) Rz. 791 f., Rz. 795, im Widerspruch zu Rz. 811, wo er nicht die Einhaltung der Sacheinlagebestimmungen, sondern der Verrechnungsliberierungsbestimmungen fordert.</p>
+					</fn>
+					<fn number="162" id="fn163">
+						<p align="justify">S. II.</p>
+					</fn>
+					<fn number="163" id="fn164">
+						<p align="justify"><i>Von der Crone/Aref</i> (Fn. 62) 257 f.; <i>Vischer</i> (Fn. 12) 293; nur teilweise gl.M. <i>Dietschi</i> (Fn. 108) Rz. 237 f.</p>
+					</fn>
+					<fn number="164" id="fn165">
+						<p align="justify">S. VI.E.</p>
+					</fn>
+					<fn number="165" id="fn166">
+						<p align="justify">S. sogleich VII.B.</p>
+					</fn>
+					<fn number="166" id="fn167">
+						<p align="justify">S. I.</p>
+					</fn>
+					<fn number="167" id="fn168">
+						<p align="justify">A.M. <i>Sethe/Fahrländer</i> (Fn. 62) 226; <i>Böckli</i> (Fn. 62) 142, 145 bezüglich der (bereits abgeschafften [s. I.]) Stampaerklärung.</p>
+					</fn>
+					<fn number="168" id="fn169">
+						<p align="justify">S. VII.A.</p>
+					</fn>
+					<fn number="169" id="fn170">
+						<p align="justify">S. VII.A.</p>
+					</fn>
+					<fn number="170" id="fn171">
+						<p align="justify">S. VII.A.</p>
+					</fn>
+					<fn number="171" id="fn172">
+						<p align="justify"><i>Manuel Meyer,</i> Vernehmlassungseingabe zur Revision des Aktienrechts vom 21.2.2015, Link unter <i>«Stellungnahmen weiterer Vernehmlassungsteilnehmer (3)</i>»<i>,</i> &lt;<a href="https://www.bj.admin.ch/bj/de/home/wirtschaft/gesetzgebung/aktienrechtsrevision14.html">https://www.bj.admin.ch/bj/de/home/wirtschaft/gesetzgebung/aktienrechtsrevision14.html</a>&gt; (zuletzt besucht am 13.12.2021) 5: <i>«Denn die zivilrechtlichen Folgen einer Sachübernahme, die nicht zu Drittbedingungen vollzogen wird, (Verletzung des Verbots der Einlagerückgewähr gemäss <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a680"><?link  id="600888fc-5fe7-4ee1-8f7c-8c876d93ca51" type="law" art="680" par="2" law="OR"?>Art. 680 Abs. 2 OR<?end_link ?></a>; Gründungshaftung gemäss <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#a753"><?link  id="6a528abd-0beb-46b3-8226-2bb76866d276" type="law" art="753" law="OR"?>Art. 753 OR<?end_link ?></a>) wie auch die</i> strafrechtlichen Folgen <i>(z.B. Urkundenfälschung i.S.v. <a href="https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#a251"><?link  id="157f71a3-5673-4d6b-97c8-c453a77ed6f5" type="law" art="251" law="StGB"?>Art. 251 StGB<?end_link ?></a>, Erschleichung einer Falschbeurkundung <a href="https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#a253"><?link  id="ba4a608a-9db9-4d0f-8eb5-0c61988f9a5c" type="law" art="253" law="StGB"?>Art. 253 StGB<?end_link ?></a> oder Falschangaben i.S.v. <?highlight_link  type="law" art="152" id="aef8e9de-5401-47f8-bc84-a9ccca0aa5f6"?>Art. 152<?end_highlight_link ?>) kommen unter dem Titel der</i> Scheinliberierung <i>nach wie vor zum Zug.</i>»</p>
+					</fn>
+					<fn number="172" id="fn173">
+						<p align="justify"><i>Meyer</i> (Fn. 171) 5.</p>
+					</fn>
+					<fn number="173" id="fn174">
+						<p align="justify">Zu diesem Vertrag z.B. <i>Bösiger</i> (Fn. 62) 400, 402; <i>Vischer</i> (Fn. 137) 539 ff.</p>
+					</fn>
+					<fn number="174" id="fn175">
+						<p align="justify">Zu diesem Vertrag z.B. <i>Bösiger</i> (Fn. 62) 404 f.; <i>Vischer</i> (Fn. 12) 294 f.</p>
+					</fn>
+					<fn number="175" id="fn176">
+						<p align="justify">A.M. <i>von der Crone/Aref</i> (Fn. 62) 260.</p>
+					</fn>
+					<fn number="176" id="fn177">
+						<p align="justify">S. VI.E.</p>
+					</fn>
+					<fn number="177" id="fn178">
+						<p align="justify">S. VI.E.</p>
+					</fn>
+					<fn number="178" id="fn179">
+						<p align="justify">Art. 634 Abs. 2 nOR; s. schon <i>Böckli</i> (Fn. 8) § 1 Rn. 443.</p>
+					</fn>
+					<fn number="179" id="fn180">
+						<p align="justify">Art. 634 Abs. 2 und 3, Art. 635 Ziff. 1, Art. 635a, Art. 652e Ziff. 1 und Art. 652f Abs. 1 nOR.</p>
+					</fn>
+					<fn number="180" id="fn181">
+						<p align="justify">S. VI.E.</p>
+					</fn>
+					<fn number="181" id="fn182">
+						<p align="justify">S. VI.C.</p>
+					</fn>
+					<fn number="182" id="fn183">
+						<p align="justify">S. VI.C.</p>
+					</fn>
+					<fn number="183" id="fn184">
+						<p align="justify"><i>Vischer</i> (Fn. 12) 294 f.</p>
+					</fn>
+					<fn number="184" id="fn185">
+						<p align="justify">Botschaft 2016 (Fn. 19) 433 f.</p>
+					</fn>
+					<fn number="185" id="fn186">
+						<p align="justify"><i>Sethe/Fahrländer</i> (Fn. 62) 226; <i>von der Crone</i> (Fn. 145) Rz. 244; <i>Hans Caspar von der Crone/Luca Angstmann,</i> Vorschläge zur Aktienrechtsrevision, SZW 2017 607 ff., 608.</p>
+					</fn>
+					<fn number="186" id="fn187">
+						<p align="justify">Z.B. <i>von der Crone/Aref</i> (Fn. 62) 257; Botschaft 2016 (Fn. 19) 432; <i>Vischer</i> (Fn. 12) 293 f.</p>
+					</fn>
+					<fn number="187" id="fn188">
+						<p align="justify">Zu diesem Test, auch Drittmannstest, Markttest, Unabhängigkeitstest genannt, z.B. OFK OR-<i>Vischer</i> (Fn. 132) Art. 678 OR N 6.</p>
+					</fn>
+					<fn number="188" id="fn189">
+						<p align="justify">Im Allgemeinen z.B. <i>von der Crone</i> (Fn. 145) Rz. 1512 ff.; <i>Rolf Sethe,</i> Die Regelung von Interessenkonflikten im Aktienrecht de lege lata und de lege ferenda, SZW 2018 375 ff., 384 ff.</p>
+					</fn>
+					<fn number="189" id="fn190">
+						<p align="justify">Dazu z.B. <i>von der Crone</i> (Fn. 145) Rz. 1549 f.; <i>Markus Vischer,</i> Kritische Sicht auf die vom Bundesgericht im Verantwortlichkeitsrecht verwendete Business Judgement Rule (BJR), <a href="/link?abbreviation=SJZ-RSJ&amp;year=2018&amp;page=53"><?link  id="29f6abb1-6541-4ead-889d-c6135e4f65bc" type="journal" journal="SJZ" year="2018" page="53"?>SJZ 2018 53 ff.<?end_link ?></a></p>
+					</fn>
+					<fn number="190" id="fn191">
+						<p align="justify">Im Allgemeinen z.B. <i>von der Crone</i> (Fn. 145) Rz. 1514.</p>
+					</fn>
+					<fn number="191" id="fn192">
+						<p align="justify">Z.B. <i>von der Crone/Aref</i> (Fn. 62) 260; <i>Sethe/Fahrländer</i> (Fn. 62) 226; ZK OR-<i>Cramer</i> (Fn. 62) Art. 628 OR N 50; Botschaft 2016 (Fn. 19) 434.</p>
+					</fn>
+					<fn number="192" id="fn193">
+						<p align="justify">Gl.M. <i>von der Crone/Aref</i> (Fn. 62) 260; <i>Sethe/Fahrländer</i> (Fn. 62) 226 f.; ZK OR-<i>Cramer</i> (Fn. 62) Art. 628 OR N 11, N 50 und Art. 642 OR N 12; s.a. <i>Alexander Vogel,</i> Orell Füssli Kommentar, HRegV, Kommentar, Handelsregisterverordnung, Zürich 2020, Art. 30 HRegV N 5, zur nachträglichen Publikation einer ursprünglich beabsichtigten Sachübernahme gemäss bisherigem Recht.</p>
+					</fn>
+					<fn number="193" id="fn194">
+						<p align="justify">S. II.</p>
+					</fn>
+					<fn number="194" id="fn195">
+						<p align="justify">A.M. <i>von der Crone/Aref</i> (Fn. 62) 259 f.</p>
+					</fn>
+					<fn number="195" id="fn196">
+						<p align="justify">S. VII.A.</p>
+					</fn>
+					<fn number="196" id="fn197">
+						<p align="justify">S. II.</p>
+					</fn>
+					<fn number="197" id="fn198">
+						<p align="justify">A.M. z.B. <i>Sethe/Fahrländer</i> (Fn. 62) 227 f.; <i>Böckli</i> (Fn. 62) 143 f., mit verschiedenen Reformvorschlägen.</p>
+					</fn>
+					<fn number="198" id="fn199">
+						<p align="justify">Zu diesem Bild <i>Walter/Blumer</i> (Fn. 2) 425; aufgegriffen auch in Botschaft 2016 (Fn. 19) 434 Fn. 118.</p>
+					</fn>
+				</footnotes>
+			</document>
+		</singleDocument>
+	</singleDocuments>
+</source>
